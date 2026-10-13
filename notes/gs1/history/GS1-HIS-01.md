@@ -8,23 +8,23 @@ sources:
   - "NCERT Cl.8 *Our Pasts III*"
 ---
 
-## m1 · European advent
+## European advent
 
 
 
-## m2 · Plassey/Buxar
+## Plassey/Buxar
 
 
 
-## m3 · Mysore/Maratha/Sikh wars
+## Mysore/Maratha/Sikh wars
 
 
 
-## m4 · subsidiary alliance, lapse
+## Subsidiary alliance, lapse
 
 
 
-## m5 · why the Company won
+## Why the Company won
 
 ### Three main developments of the 18th century
 
