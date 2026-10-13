@@ -90,8 +90,16 @@ def validate() -> list[str]:
     return errs
 
 
-def gh(*args: str, capture: bool = True) -> str:
-    return subprocess.run(["gh", *args], capture_output=capture, text=True, check=True).stdout
+def gh(*args: str, capture: bool = True, retries: int = 2) -> str:
+    """Run gh; on failure (often GitHub's secondary rate limit on bursts of writes) back off and retry."""
+    for attempt in range(retries + 1):
+        r = subprocess.run(["gh", *args], capture_output=capture, text=True)
+        if r.returncode == 0:
+            return r.stdout
+        if attempt < retries:
+            print(f"  gh failed ({(r.stderr or '').strip()[:120]}); retrying in {20 * (attempt + 1)}s")
+            time.sleep(20 * (attempt + 1))
+    raise subprocess.CalledProcessError(r.returncode, r.args, r.stdout, r.stderr)
 
 
 def existing_issues() -> dict[str, dict]:
@@ -135,6 +143,7 @@ def sync(only: set[str] | None, dry_run: bool) -> None:
             gh("issue", "edit", str(cur["number"]), "--body-file", f.name)
             updated += 1
             print(f"updated #{cur['number']} {title}")
+            time.sleep(1)
         else:
             url = gh("issue", "create", "--title", title, "--body-file", f.name, "--milestone", t["milestone"],
                      "--label", ",".join(labels_for(t))).strip()
