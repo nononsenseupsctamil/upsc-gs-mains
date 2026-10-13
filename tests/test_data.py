@@ -19,3 +19,10 @@ def test_counts():
         for year in (2022, 2023, 2024, 2025):
             qs = [q for q in common.load_pyqs() if q["paper"] == p.upper() and q["year"] == year]
             assert sorted(q["qno"] for q in qs) == list(range(1, 21))
+
+
+def test_every_topic_has_strategy_and_it_renders():
+    strategy = common.load_strategy()
+    assert set(strategy) == {t["topic_id"] for t in common.load_topics()}
+    md = common.strategy_markdown("GS1-GEO-02")
+    assert "very high" in md and "7 questions" in md and "**Read for:**" in md

@@ -1,0 +1,887 @@
+# PYQ-based strategy per topic, rendered into each issue under "Strategy".
+# Question counts/years are computed from data/pyqs at render time; only the judgement lives here.
+#   pattern: what UPSC has actually asked (2022–25) and how
+#   read_for: what to extract while reading, mapped to micro-topics
+#   answer: how to frame answers for this topic
+#   untested: syllabus angles not asked in 2022–25 (cover briefly; check 2013–21 when imported)
+
+# ---------------------------------------------------------------- GS1 · Modern history
+GS1-HIS-01:
+  pattern: Analytical "why", not narrative — asked why a small Company army of Indian sepoys beat larger Indian armies.
+  read_for:
+    - "m5 is the core: list causes under military (drill, discipline, regular pay, artillery, officer cadre), financial (Bengal revenue, credit), political (diplomacy, divide-and-rule) and Indian weaknesses (succession disputes, feudal levies)."
+    - "m2–m4 are evidence, not chapters: one battle or treaty per cause (Plassey = intrigue, Buxar = military, Anglo-Mysore/Maratha/Sikh wars = finance and alliances)."
+    - "m4: subsidiary alliance and lapse as tools of expansion without war."
+  answer:
+    - "Cause-wise headings with one example each; end on the Indian-side factors to balance the 'British superiority' story."
+  untested:
+    - "m1 European advent — prepare one comparative 'why the British and not the French/Dutch/Portuguese' table."
+
+GS1-HIS-02:
+  pattern: Cause-and-extent questions on economic impact — famines (why), and "how far" the Industrial Revolution caused deindustrialisation.
+  read_for:
+    - "m3: both sides of the deindustrialisation debate — British machine goods and one-way free trade vs loss of court patronage and changing tastes."
+    - "m4: famine causes chained to m1 (revenue demand), commercialisation, grain exports, railways (m5) and laissez-faire relief; famine commissions and codes."
+    - "m5: railways as both integration and extraction."
+  answer:
+    - "'How far' = weigh the stated cause against others, then give a verdict; use one figure or report per paragraph (e.g. famine commissions)."
+  untested:
+    - "m2 drain theory (Naoroji, R.C. Dutt) — a classic due for a question; keep a ready structure: meaning, components, nationalist critique, significance."
+
+GS1-HIS-03:
+  pattern: Personality-centred — Phule's reforms judged by who they reached (subaltern classes).
+  read_for:
+    - "For each reformer (m1–m6): whom they spoke for (caste, women, peasants), method (writings, schools, organisations), key texts, and limits."
+    - "m3 Phule in depth: Satyashodhak Samaj, *Gulamgiri*, *Shetkaryacha Asud*, girls' schools with Savitribai."
+    - "m5: Narayana Guru, Periyar, Ambedkar — expect the next personality question here."
+  answer:
+    - "Group-wise (lower castes, women, peasants, workers) with one action per group; close with limits and legacy."
+  untested:
+    - "Comparative 'reform vs revival' movements; Muslim reform (m4); women reformers (Pandita Ramabai, Tarabai Shinde)."
+
+GS1-HIS-04:
+  pattern: Impact-and-response — how colonial rule affected tribals and how they resisted.
+  read_for:
+    - "m4: classify tribal revolts by cause (forest laws, land alienation, moneylenders, missionaries) and by form (armed, millenarian, reformist) with region spread."
+    - "m3: peasant movements on the same cause → response → outcome grid."
+    - "m1–m2: 1857 — causes, nature debate (sepoy mutiny vs first war of independence), consequences (1858 Act, army reorganisation)."
+  answer:
+    - "Impact (economic, social, cultural) → response (with 4–5 named movements from different regions) → significance."
+  untested:
+    - "1857 itself has not been asked in 2022–25 — keep a 250-word 'nature of 1857' answer ready."
+
+GS1-HIS-05:
+  pattern: Not asked in 2022–25. Background for every later freedom-struggle question.
+  read_for:
+    - "m1–m2: moderates' economic critique and methods vs extremists' mass politics — as a contribution assessment, not a timeline."
+    - "m3: Swadeshi's constructive side (national education, industries) — links to Gandhian programme."
+    - "m4–m5: revolutionaries abroad (Ghadar) and Home Rule as bridges to the mass phase."
+  answer:
+    - "Expect 'assess the contribution' framing: achievements, limitations, legacy."
+  untested:
+    - "Whole topic — keep it to one sitting and move on; revisit with 2013–21 PYQs."
+
+GS1-HIS-06:
+  pattern: Thinker comparison — Gandhi vs Tagore on education and nationalism; ideas over events.
+  read_for:
+    - "m6: Gandhi (Nai Talim, swaraj, mass nationalism) vs Tagore (Visva-Bharati, universalism, critique of nationalism) — make a comparison table."
+    - "m1–m4: each movement's aim, method, social base, reason for withdrawal, outcome."
+    - "m5: Poona Pact — Gandhi–Ambedkar positions."
+  answer:
+    - "For comparisons, use parallel points (same headings for both); conclude on convergence."
+  untested:
+    - "Gandhi–Ambedkar on caste; Khilafat and Hindu–Muslim unity; peasants and workers in Gandhian movements."
+
+GS1-HIS-07:
+  pattern: Event causes and results — Quit India.
+  read_for:
+    - "m1: chain of causes (Cripps failure, war, Japanese advance, economic distress) and results (short-term repression, long-term end of Raj)."
+    - "Regional contributors (syllabus L3): parallel governments (Satara, Tamluk, Ballia), underground radio, women leaders — use these as examples."
+    - "m2–m4: INA trials, RIN mutiny, Cabinet Mission, partition — as factors in British withdrawal."
+  answer:
+    - "Background → events → results; add 2–3 regional examples to show 'different parts of the country'."
+  untested:
+    - "Partition causes; INA's contribution; 'why did the British leave' multi-causal question."
+
+GS1-HIS-08:
+  pattern: High value — reorganisation of states as a continuous process, early consolidation across polity/economy/education/IR, and civil-service ethos.
+  read_for:
+    - "m1–m2: integration of princely states; linguistic reorganisation (Dhar, JVP, SRC); later reorganisations up to Telangana (2014) and J&K (2019) — treat it as a timeline."
+    - "m3: North-East — Assam reorganisation, tribal autonomy, Sixth Schedule."
+    - "m4–m5: planning, institution-building in education, NAM — each as a 'consolidation' dimension."
+    - "m6: Patel's vision for the all-India services."
+  answer:
+    - "'Trace' = phases with dates; multi-dimension questions = one heading per dimension; link the end to a current example."
+  untested:
+    - "Land reforms and the Five-Year Plans as consolidation; language policy (official language, 1960s agitation)."
+
+# ---------------------------------------------------------------- GS1 · World history
+GS1-WH-01:
+  pattern: Effects and contemporary relevance — railways' socio-economic effects worldwide; the French Revolution's enduring relevance.
+  read_for:
+    - "m2: ideas (liberty, equality, fraternity, popular sovereignty, nationalism, rights) and where they live on today (constitutions, UDHR, India's Preamble)."
+    - "m3–m4: Industrial Revolution spread and social effects — urbanisation, labour, class, colonial demand; railways as a case."
+  answer:
+    - "For 'relevance' questions: idea → historical expression → contemporary example."
+  untested:
+    - "m1 American Revolution — prepare its legacy (constitutionalism, federalism, rights) in the same frame."
+
+GS1-WH-02:
+  pattern: Not asked in 2022–25.
+  read_for:
+    - "Colonisation's drivers and forms; decolonisation waves (Asia after WWII, Africa in the 1960s); redrawal of borders (Versailles, Sykes–Picot, partitions, post-Soviet)."
+    - "Keep a world map with 6–8 boundary changes and their present-day conflicts."
+  answer:
+    - "Cause → process → legacy, with region-wise examples."
+  untested:
+    - "Whole topic — keep it to one sitting."
+
+GS1-WH-03:
+  pattern: '"How far" on WWI causes (balance of power).'
+  read_for:
+    - "m1: multi-causal frame — alliances, militarism, imperialism, nationalism, the July crisis."
+    - "m2–m4: interwar crises leading to WWII."
+    - "m5: ideologies — syllabus asks 'their forms and effect on the society', so read effects, not just definitions."
+  answer:
+    - "'How far' = accept part, add other causes, give a verdict."
+  untested:
+    - "WWII causes and consequences; ideologies' social effects; Cold War and decolonisation link."
+
+# ---------------------------------------------------------------- GS1 · Art & culture
+GS1-CUL-01:
+  pattern: Features questions — Harappan architecture.
+  read_for:
+    - "m1: town planning, drainage, citadel/lower town, Great Bath, granaries, dockyard — with site names."
+    - "m2: Mauryan pillars and capitals, stupas, palace remains, Barabar caves."
+    - "m3: rock-cut evolution — Barabar → Ajanta/Ellora → Elephanta → Mahabalipuram."
+  answer:
+    - "Features list with sites; a quick labelled sketch (grid plan, stupa parts) earns marks."
+  untested:
+    - "Mauryan art as court vs popular art; evolution of rock-cut architecture."
+
+GS1-CUL-02:
+  pattern: Highest-yield culture topic — 3 dynasty questions in 2 years (Pallava, Chola, Chandela), all 'contribution/elucidate'.
+  read_for:
+    - "Make one sheet per dynasty: temples (named), sculpture, bronzes, literature, patronage."
+    - "m1: Nagara/Dravida/Vesara comparison table with one example each."
+  answer:
+    - "Named monuments in every paragraph; sketch the Nagara vs Dravida plan."
+  untested:
+    - "Next likely dynasties: Chalukya, Rashtrakuta, Hoysala, Vijayanagara, Kakatiya, Odisha (Kalinga) school — prepare the same one-sheet format."
+
+GS1-CUL-03:
+  pattern: Not asked in 2022–25.
+  read_for:
+    - "Sultanate (true arch, dome, calligraphy) → Mughal (Persian–Indian synthesis, gardens) → provincial styles → Indo-Saracenic: one comparison table."
+  answer:
+    - "Features + example per phase."
+  untested:
+    - "Whole topic — keep it brief."
+
+GS1-CUL-04:
+  pattern: Thematic across periods — temple sculpture as a record of social life; lion and bull motifs in art.
+  read_for:
+    - "Trace motifs through time (Harappan seals → Mauryan capitals → Buddhist and temple art)."
+    - "m3: what sculptures show about society — dress, occupations, music, dance, festivals, gender."
+    - "m1: painting traditions — Ajanta, miniatures (Mughal, Rajput, Pahari)."
+  answer:
+    - "Chronological examples under one theme; name the site for every example."
+  untested:
+    - "Painting traditions; folk and tribal art (Warli, Madhubani, Gond)."
+
+GS1-CUL-05:
+  pattern: Not asked in 2022–25.
+  read_for:
+    - "Classical dances and music (features, states), folk theatre, puppetry — tables, not prose."
+    - "UNESCO intangible cultural heritage list for India, with recent inscriptions (e.g. Garba, 2023)."
+  answer:
+    - "Short, tabular notes; this topic suits Prelims more than Mains."
+  untested:
+    - "Whole topic — lowest priority in GS1."
+
+GS1-CUL-06:
+  pattern: Examine-type — Akbar's religious syncretism.
+  read_for:
+    - "m4: Sulh-i-kul, Ibadat Khana, Din-i-Ilahi, translations, Rajput policy — and the motives behind them (political vs spiritual)."
+    - "m3: Bhakti and Sufi saints — ideas, social message, impact on language and literature."
+    - "m1: literature — Sangam, Sanskrit classics, regional and Persian literature."
+  answer:
+    - "Aspects → motives → limits/legacy."
+  untested:
+    - "Bhakti–Sufi as social reform; Sangam literature as a historical source."
+
+GS1-CUL-07:
+  pattern: Most-asked history topic — 5 questions in 4 years on ancient/medieval society (Vedic society twice, geography and early India, Gupta/Chola, Sultanate technology).
+  read_for:
+    - "m2: Rig Vedic vs later Vedic table — polity, society, economy, religion; what continues today."
+    - "m1: geography's role — rivers, monsoon, passes, coasts in shaping early India."
+    - "m3–m4: each period's contributions (art, science, literature, administration) and technology (Sultanate: paper, spinning wheel, Persian wheel, arch)."
+  answer:
+    - "Comparison tables for change-over-time; 'still prevailing?' questions want a present-day link."
+  untested:
+    - "Mauryan and post-Mauryan society; Buddhism and Jainism as social movements; Vijayanagara economy."
+
+# ---------------------------------------------------------------- GS1 · Geography
+GS1-GEO-01:
+  pattern: Process questions — primary rocks, fjords, tectonics changing continents.
+  read_for:
+    - "m2: plate tectonics → continental drift and ocean-basin change (with diagrams)."
+    - "m3: rock types, characteristics, examples."
+    - "m4: glacial, fluvial, coastal landforms — formation steps with sketches."
+  answer:
+    - "Define → process with a labelled diagram → world/India examples on a sketch map."
+  untested:
+    - "m1 earth's interior; isostasy; geomorphic processes."
+
+GS1-GEO-02:
+  pattern: Most-asked topic in GS1 — 7 questions, almost all 'what is X, how does it form'. Every one is a phenomenon.
+  read_for:
+    - "One card per phenomenon: definition, mechanism, diagram, where/when, India example — troposphere, Purvaiya/monsoon, SST and cyclones, IMD colour codes, cloudbursts, auroras, tornadoes."
+    - "Add cards for likely next ones: jet streams, El Niño/La Niña/IOD, western disturbances, heat waves and heat domes, lightning, polar vortex."
+  answer:
+    - "10-markers: definition + mechanism diagram + one example. 15-markers: add distribution map and impacts."
+  untested:
+    - "El Niño/IOD and Indian monsoon; heat waves; jet streams."
+
+GS1-GEO-03:
+  pattern: Currents and chokepoints — forces driving currents and their role in fisheries; straits and isthmuses in trade.
+  read_for:
+    - "m2–m3: forces (winds, Coriolis, temperature, salinity, landmasses); warm–cold convergence = fishing grounds (Grand Banks, Peru)."
+    - "m5: chokepoints (Hormuz, Malacca, Bab-el-Mandeb, Suez, Panama, Gibraltar) — trade and security significance, current disruptions."
+  answer:
+    - "World map with currents/chokepoints is non-negotiable."
+  untested:
+    - "Ocean salinity/temperature distribution; tides; coral reefs."
+
+GS1-GEO-04:
+  pattern: Mechanism + distribution + consequences — tsunamis.
+  read_for:
+    - "Earthquake, tsunami and volcano: cause, distribution (Ring of Fire, plate boundaries), effects, Indian preparedness (INCOIS warnings, NDMA)."
+  answer:
+    - "Diagram + world map + 2 examples (2004 Indian Ocean, 2011 Tōhoku)."
+  untested:
+    - "Volcanism types and landforms; earthquake zoning in India."
+
+GS1-GEO-05:
+  pattern: High yield — 6 'resource potential/distribution' questions (Deccan trap, wind, freshwater, coastline, solar, offshore oil).
+  read_for:
+    - "For each resource: world + India distribution → geographical controls → potential → constraints."
+    - "Add likely next: critical minerals (lithium, rare earths), coal, iron ore, hydropower, groundwater."
+  answer:
+    - "Map first, then factors; end with potential vs constraints."
+  untested:
+    - "Critical minerals and their geography; hydroelectric potential of the Himalaya."
+
+GS1-GEO-06:
+  pattern: Location factors with a modern twist — rubber, food exports, non-farm primary activities, AI/drones with GIS/RS.
+  read_for:
+    - "Classic location factors for primary, secondary, tertiary industries (raw material, market, labour, power, policy) with examples."
+    - "m4: GIS/RS/AI in planning — applications in agriculture, urban, disaster."
+  answer:
+    - "Factor-wise headings, each with a world and an Indian example."
+  untested:
+    - "Iron and steel, textiles, IT services, semiconductors — location factors."
+
+GS1-GEO-07:
+  pattern: Climate-change effects on people — food security (tropics, Ganga groundwater), island nations, vegetation diversity.
+  read_for:
+    - "Each change (ice caps, sea level, groundwater, vegetation) → effect on food, livelihoods, habitats → response."
+    - "Data: IPCC AR6 sea-level and temperature projections; CGWB groundwater assessment."
+  answer:
+    - "Cause → effect → examples (Tuvalu, Maldives, Kiribati; Punjab/Haryana groundwater) → adaptation."
+  untested:
+    - "Glacier retreat in the Himalaya; changes in flora and fauna (syllabus wording)."
+
+# ---------------------------------------------------------------- GS1 · Society
+GS1-SOC-01:
+  pattern: Most-asked society topic — 6 opinion-style questions on caste (fluid/static), marriage, tribes, diversity vs marginality, tribal displacement.
+  read_for:
+    - "m1: caste concepts — sanskritisation, dominant caste, caste in politics and economy; why it is both fluid and static."
+    - "m2/m5: tribes — 'single category' debate, displacement and rehabilitation, PESA/FRA."
+    - "m4: marriage — sacrament vs contract, intercaste/interreligious trends."
+  answer:
+    - "Take a stand in the intro, argue both sides, cite a sociologist (Srinivas, Ghurye, Béteille, Xaxa) and a data point."
+  untested:
+    - "m3 sect beyond 2022; joint family change; religion and society."
+
+GS1-SOC-02:
+  pattern: Concept + causes — suicides of young women; equality vs equity vs empowerment; migration of skilled young women.
+  read_for:
+    - "m2: precise definitions and how gender concerns enter programme design."
+    - "Data: NCRB (suicides), NFHS-5 and PLFS (female labour force participation)."
+    - "m1: women's organisations — historical (AIWC) and contemporary (SEWA, SHGs)."
+  answer:
+    - "Define clearly, add data, close with policy measures."
+  untested:
+    - "Women's organisations themselves (syllabus words); women in the workforce and care work."
+
+GS1-SOC-03:
+  pattern: Concept + geography — demographic winter; population density in the Ganga basin.
+  read_for:
+    - "m1: demographic transition, dividend vs winter, TFR trends (NFHS-5: 2.0), ageing."
+    - "m3: population distribution controls — land, soil, water, history."
+    - "m2: migration types and drivers."
+  answer:
+    - "Concept → world/India data → implications → policy."
+  untested:
+    - "Population policy; sex ratio; ageing as a policy issue."
+
+GS1-SOC-04:
+  pattern: Development debates — human vs economic development, government–NGO–private collaboration, environment vs poor people's needs.
+  read_for:
+    - "m1: why human development lags growth — health, education, inequality; HDI data."
+    - "m2: green growth vs livelihoods (forests, mining, fishing communities)."
+    - "m3: partnership models with examples."
+  answer:
+    - "Comment/why questions: both sides + Indian examples + balanced way forward."
+  untested:
+    - "Poverty measurement; regional poverty patterns."
+
+GS1-SOC-05:
+  pattern: Asked every year — tier-2 cities, segregation of the poor, migration to large cities, smart cities and distributive justice.
+  read_for:
+    - "Urban push–pull factors, slums and segregation, middle-class consumption."
+    - "Schemes: Smart Cities Mission, AMRUT, PMAY-U — design vs outcomes."
+  answer:
+    - "Issue → evidence (Census, slum data) → schemes → way forward."
+  untested:
+    - "Urban governance and finances (overlaps GS2 POL-06); urban heat and floods."
+
+GS1-SOC-06:
+  pattern: Contemporary-life questions — WFH, mobile phones and children, fast food, consumer culture, technology and scarce resources.
+  read_for:
+    - "A globalisation-effects framework: family, youth, culture, consumption, work, technology — positive and negative."
+  answer:
+    - "Never one-sided ('only aggressive consumer culture?' → no); use everyday Indian examples."
+  untested:
+    - "Globalisation and caste/tribe; cultural homogenisation vs glocalisation."
+
+GS1-SOC-07:
+  pattern: All 15-markers — sect, secularism, ethnic identity and communalism, regional disparity, affirmative action.
+  read_for:
+    - "Concepts: Indian vs Western secularism; communalism's causes; regionalism vs regional disparity."
+    - "m1: affirmative action outcomes and gaps; creamy layer; sub-categorisation."
+    - "m2: state-wise disparity data (per-capita income, HDI)."
+  answer:
+    - "Define → analyse with data → constitutional/policy response → way forward; 15M depth needed."
+  untested:
+    - "Social empowerment (syllabus words) beyond reservations; regionalism movements."
+
+# ---------------------------------------------------------------- GS2 · Polity
+GS2-POL-01:
+  pattern: Not asked in 2022–25. Foundation for everything else in polity.
+  read_for:
+    - "m1–m2: what each Act added (representation, federalism, responsible government) — the lineage of today's institutions."
+    - "m3–m4: Constituent Assembly debates and borrowed features."
+  answer:
+    - "Use as background in other answers (e.g. 'GoI Act 1935 → Governor's discretion')."
+  untested:
+    - "Whole topic — keep it to one sitting."
+
+GS2-POL-02:
+  pattern: Rights through case law — movement and residence, living constitution and Article 21, gender justice, privacy and DNA testing.
+  read_for:
+    - "m3: Art 21 expansion timeline — Maneka Gandhi, Puttaswamy, environment and livelihood cases."
+    - "m4: gender-justice provisions (Art 14, 15(3), 39, 42, 51A(e)) with cases (Vishaka, Shayara Bano, Joseph Shine)."
+    - "m2: reasonable restrictions under Art 19."
+  answer:
+    - "Provision → case laws (name + one-line holding) → present position."
+  untested:
+    - "Art 32 and writs; FR vs DPSP balance (Minerva Mills)."
+
+GS2-POL-03:
+  pattern: Amending power and its limits (procedural + substantive/basic structure).
+  read_for:
+    - "m3–m4: Art 368 procedure types; basic structure from Kesavananda to later cases."
+    - "m1–m2: DPSP and FDs — enforcement and judicial use."
+  answer:
+    - "Procedural limits, then substantive limits with cases, then a balanced conclusion."
+  untested:
+    - "DPSP–FR relationship; Fundamental Duties' enforceability."
+
+GS2-POL-04:
+  pattern: Asked every year — party positions on autonomy, decline of Art 356, recent Centre–State changes, J&K Assembly after 2019.
+  read_for:
+    - "m3: Art 356 — S.R. Bommai and why use declined (courts, coalition politics)."
+    - "m2: Governor — discretion, bill assent delays, recent Supreme Court rulings."
+    - "m5: J&K Reorganisation Act 2019 — UT Assembly powers."
+    - "Commissions: Sarkaria, Punchhi recommendations."
+  answer:
+    - "Legal factors + political factors + recommendations; always add a current Centre–State example."
+  untested:
+    - "Emergency provisions (Art 352/360); inter-state councils and zonal councils."
+
+GS2-POL-05:
+  pattern: Fiscal federalism — 101st Amendment (GST) and the evolving pattern of Centre–State finances.
+  read_for:
+    - "m2: GST Council design, compensation, disputes."
+    - "m1/m3: Finance Commission devolution, cesses and surcharges, centrally sponsored schemes."
+  answer:
+    - "Evolution (Planning Commission → NITI, FC awards) → recent reforms → impact."
+  untested:
+    - "Borrowing limits on states; 16th Finance Commission."
+
+GS2-POL-06:
+  pattern: Asked every year 2022–24 — grassroots decentralisation, states not empowering ULBs, rural–urban merger.
+  read_for:
+    - "m1–m2: 3Fs (funds, functions, functionaries); state finance commissions; own-revenue data."
+    - "m3: pros and cons of merging rural bodies into urban."
+  answer:
+    - "Constitutional design → ground reality with data → 2nd ARC 6th Report recommendations."
+  untested:
+    - "PESA and gram sabhas; women's reservation in local bodies (proxy representation)."
+
+GS2-POL-07:
+  pattern: Judiciary's expanding role — environmental constitutionalism, growth of PIL, constitutional morality.
+  read_for:
+    - "m2: PIL growth and criticism (judicial overreach)."
+    - "m3: constitutional morality cases (Naz Foundation/Navtej, Sabarimala, NCT Delhi)."
+    - "m1: separation of powers — doctrine and Indian practice."
+  answer:
+    - "Concept → case laws → critique → balance."
+  untested:
+    - "Judicial review vs parliamentary sovereignty."
+
+GS2-POL-08:
+  pattern: A 10-marker every year since 2023 — legal aid/NALSA, Lok Adalat vs arbitration, tribunal reforms 2021.
+  read_for:
+    - "m1: tribunals vs courts; Tribunals Reforms Act 2021 and Madras Bar Association cases."
+    - "m2: Lok Adalat vs arbitration — jurisdiction, binding nature."
+    - "m3: eligibility for free legal aid; NALSA's work."
+  answer:
+    - "Crisp 150-word frames: definition, features, comparison, assessment."
+  untested:
+    - "Gram Nyayalayas; mediation law."
+
+GS2-POL-09:
+  pattern: Comparison every year — India vs France (president), UK (sovereignty), USA (secularism, pardon).
+  read_for:
+    - "One comparison table per country: executive, legislature, judiciary, federalism, rights, amendment, secularism."
+  answer:
+    - "Compare-and-contrast in parallel points; end on what India can learn."
+  untested:
+    - "Judicial review in USA vs India; federalism comparisons."
+
+GS2-POL-10:
+  pattern: Presiding officers and committees — Vice-President as RS chair, state presiding officers, financial committees.
+  read_for:
+    - "m3–m4: role, neutrality debates, Speaker's role in disqualification."
+    - "m1: committee system structure; PAC, Estimates, CoPU effectiveness."
+  answer:
+    - "Role → issues → reforms (PRS data on sittings, bills referred to committees)."
+  untested:
+    - "m2 privileges; decline in sittings and debate."
+
+GS2-POL-11:
+  pattern: Executive powers — Governor's ordinances and re-promulgation, cabinet vs parliamentary supremacy, pressure groups.
+  read_for:
+    - "m3: ordinance conditions and Krishna Kumar Singh case."
+    - "m2: cabinet dominance — anti-defection, whip, majority governments."
+    - "m4: pressure groups — types and role (environmental groups asked)."
+  answer:
+    - "Constitutional provision → judicial view → current concern."
+  untested:
+    - "President's discretionary powers; pardon (note: comparison form asked under POL-09)."
+
+GS2-POL-12:
+  pattern: Judicial independence and appointments — collegium evolution, India vs USA.
+  read_for:
+    - "m2: Judges cases (1, 2, 3), NJAC verdict (2015), MoP."
+    - "m3: accountability mechanisms — impeachment, in-house procedure."
+  answer:
+    - "Evolution → pros/cons → comparison → reform suggestions."
+  untested:
+    - "m4 pendency and judicial reforms (data: NJDG)."
+
+GS2-POL-13:
+  pattern: 4 questions (2022 ×2, 2024, 2025) — election petitions and grounds, ECI and MCC, ONOE, corrupt practices under RPA.
+  read_for:
+    - "m1–m3: RPA 1951 — disqualifications, corrupt practices (s.123), election petitions; key cases."
+    - "m4: MCC evolution and ECI powers."
+    - "m5: ONOE — committee recommendations, pros and cons."
+  answer:
+    - "Quote the section number; cite committee names (Indrajit Gupta, Law Commission, Kovind)."
+  untested:
+    - "Electoral bonds and party funding; criminalisation of politics."
+
+GS2-POL-14:
+  pattern: One body per year — NCBC (constitutional status), CAG (propriety audit), Attorney General.
+  read_for:
+    - "Per body: article, appointment, powers, limitations, recent controversies."
+  answer:
+    - "Article + role + one recent example + reform."
+  untested:
+    - "ECI, UPSC, Finance Commission as constitutional bodies; NCSC/NCST."
+
+GS2-POL-15:
+  pattern: Statutory bodies through a current lens — CCI on MNC dominance, NCPCR in the digital era.
+  read_for:
+    - "Per body: statute, mandate, recent decisions, limitations."
+  answer:
+    - "Mandate → recent cases → gaps → measures."
+  untested:
+    - "NHRC effectiveness; Lokpal performance."
+
+# ---------------------------------------------------------------- GS2 · Governance & social justice
+GS2-GOV-01:
+  pattern: Implementation and decentralised decision-making — Gati Shakti coordination; decisions far from information sources.
+  read_for:
+    - "Policy cycle failures; subsidiarity; examples of decentralised success (Kerala People's Plan, aspirational districts)."
+    - "m3: Gati Shakti — design, data layers, coordination."
+  answer:
+    - "Critically evaluate = agree partly + examples + reform."
+  untested:
+    - "Regulatory design; outcome budgeting."
+
+GS2-GOV-02:
+  pattern: Asked every year — donor dependence, civil society and women's representation, charitable trusts, CSOs as anti-State.
+  read_for:
+    - "Roles of NGOs, SHGs, CSOs, trusts; regulation (FCRA); 2nd ARC 9th Report."
+  answer:
+    - "Take a stand; distinguish anti-State from non-State; cite examples on both sides."
+  untested:
+    - "SHGs as a development model (likely next)."
+
+GS2-GOV-03:
+  pattern: Design of welfare — RPwD Act in practice, are welfare schemes discriminatory, women's social capital.
+  read_for:
+    - "Legal frameworks and schemes per group; implementation gaps; data."
+  answer:
+    - "Law/scheme → gaps → sensitisation and design reforms."
+  untested:
+    - "SC/ST and minority schemes; elderly and transgender persons."
+
+GS2-GOV-04:
+  pattern: Public healthcare vs marketisation.
+  read_for:
+    - "Health spending and out-of-pocket data; Ayushman Bharat (PM-JAY, Ayushman Arogya Mandirs); workforce gaps; NFHS-5."
+  answer:
+    - "Problem data → state role → grassroots measures."
+  untested:
+    - "Mental health, NCDs, public health cadre."
+
+GS2-GOV-05:
+  pattern: Asked every year 2022–24 — RTE incentives, HRD neglect, education–skill–employment links, Public Examinations Act 2024.
+  read_for:
+    - "NEP 2020 themes; RTE outcomes (ASER); skill schemes and outcomes; exam integrity law."
+  answer:
+    - "Policy → outcome data → gaps → reforms."
+  untested:
+    - "Higher education regulation; learning poverty."
+
+GS2-GOV-06:
+  pattern: Causes of poverty — inflation/unemployment management, poverty–malnutrition cycle, unequal asset ownership.
+  read_for:
+    - "MPI trends (NITI), malnutrition data (NFHS-5), asset inequality."
+  answer:
+    - "Cycle diagrams work well; data + scheme + way forward."
+  untested:
+    - "Hunger indices and their critique; food security law."
+
+GS2-GOV-07:
+  pattern: "Most-asked governance topic — 5 questions on DBT, e-governance (three times) and the citizens' charter."
+  read_for:
+    - "e-governance models (broadcast, interactive service, etc.); user-centric design; digital divide."
+    - "Citizens' charter weaknesses (2nd ARC 12th Report); RTI functioning; DBT gains and exclusion errors."
+  answer:
+    - "Promise → shortfalls → design fixes; name 2–3 Indian e-gov projects."
+  untested:
+    - "RTI amendments and information commissions."
+
+GS2-GOV-08:
+  pattern: Integrity and public trust in civil servants.
+  read_for:
+    - "Neutrality vs commitment; 2nd ARC 10th Report; Mission Karmayogi; lateral entry."
+  answer:
+    - "Principle → challenges → reforms; overlaps with GS4."
+  untested:
+    - "Civil service reforms and performance appraisal."
+
+# ---------------------------------------------------------------- GS2 · International relations
+GS2-IR-01:
+  pattern: Not asked directly in 2022–25 — but China and Pakistan run through other questions (supply chains, borders, SCO).
+  read_for:
+    - "Per country: recent timeline, irritants, cooperation, India's options."
+  answer:
+    - "Keep a 1-page brief per country; update monthly."
+  untested:
+    - "Whole topic — high probability of returning."
+
+GS2-IR-02:
+  pattern: Crisis-and-strategy — Sri Lanka's economic crisis and India's role; Maldives' geostrategic importance.
+  read_for:
+    - "Per country: India's assistance, China factor, maritime and trade stakes."
+  answer:
+    - "History → current event → strategic stakes → way forward."
+  untested:
+    - "Bangladesh and Nepal developments; Myanmar."
+
+GS2-IR-03:
+  pattern: Regions and themes — Central Asia, Africa digital partnership, energy security in West Asia.
+  read_for:
+    - "Per partner: trade, energy, connectivity, defence, diaspora; recent summits."
+  answer:
+    - "Evolution → current drivers → challenges → outlook."
+  untested:
+    - "USA and Russia bilateral (very likely next)."
+
+GS2-IR-04:
+  pattern: Groupings — BIMSTEC vs SAARC, I2U2, SCO conflicts.
+  read_for:
+    - "Per grouping: members, purpose, India's objectives, limits."
+  answer:
+    - "Purpose → India's interests → challenges → India's role."
+  untested:
+    - "Quad, BRICS expansion, G20."
+
+GS2-IR-05:
+  pattern: Global shifts and India — diaspora, NATO, West's China+1, waning globalisation.
+  read_for:
+    - "De-globalisation drivers; supply-chain shifts; diaspora's economic and political role."
+  answer:
+    - "Opinion questions: stand + examples + India's interest."
+  untested:
+    - "Indo-Pacific strategies of others; sanctions regimes."
+
+GS2-IR-06:
+  pattern: Every year a 15-marker — climate fora, IMO, UNSC CTC, UN reform.
+  read_for:
+    - "Per institution: structure, mandate, effectiveness, India's role and reform demands."
+  answer:
+    - "Mandate → performance → limits → reform."
+  untested:
+    - "WTO dispute settlement crisis; WHO and pandemic treaty."
+
+# ---------------------------------------------------------------- GS3 · Economy
+GS3-ECO-01:
+  pattern: Growth and jobs — labour productivity-led growth, digitalisation status, structural unemployment and its measurement.
+  read_for:
+    - "m3: unemployment types; PLFS methodology (usual status, CWS) and its gaps."
+    - "m5: productivity vs employment-intensive growth."
+    - "m4: digital economy data and constraints."
+  answer:
+    - "Concept → data → problems → suggestions."
+  untested:
+    - "m1 planning and NITI Aayog's role."
+
+GS3-ECO-02:
+  pattern: Inclusive growth measurement — care economy, social spending trend, HDI vs IHDI.
+  read_for:
+    - "HDI vs IHDI method; India's ranks and the inequality loss."
+    - "Social sector spending trend (Economic Survey)."
+    - "Care economy: unpaid work data, women's participation."
+  answer:
+    - "Distinguish in a table; add India figures."
+  untested:
+    - "Gini and wealth inequality; regional inclusion."
+
+GS3-ECO-03:
+  pattern: Inflation and inclusion — food inflation and monetary policy limits; financial inclusion.
+  read_for:
+    - "Food inflation drivers (supply shocks, perishables) and why repo rate tools are weak against them."
+    - "Financial inclusion: JAM, UPI, credit gaps."
+  answer:
+    - "Cause list → policy effectiveness → supply-side measures."
+  untested:
+    - "Banking NPAs and reforms; monetary policy framework (inflation targeting)."
+
+GS3-ECO-04:
+  pattern: State fiscal health — Fiscal Health Index as a tool.
+  read_for:
+    - "Deficit types; FRBM targets and escape clauses; FHI parameters and state rankings; the latest Union Budget's fiscal numbers."
+  answer:
+    - "Define → mechanism → incentive effect → limits."
+  untested:
+    - "Budget process; outcome budgeting; off-budget borrowing."
+
+GS3-ECO-05:
+  pattern: Industrial policy — MSMEs and manufacturing share, labour codes, PLI.
+  read_for:
+    - "Per policy: rationale, design, achievements (data), shortcomings, fixes."
+  answer:
+    - "Rationale → achievements → gaps → improvements."
+  untested:
+    - "Liberalisation 1991's effects (syllabus words); ease of doing business."
+
+GS3-ECO-06:
+  pattern: Energy transition — 50% renewables by 2030, EVs, clean-tech energy independence by 2047.
+  read_for:
+    - "Targets (500 GW non-fossil, NDC), progress data, subsidies shift, storage and grid issues, green hydrogen, biofuels."
+  answer:
+    - "Target → progress → constraints → measures."
+  untested:
+    - "Nuclear energy; coal transition and just transition."
+
+GS3-ECO-07:
+  pattern: Infrastructure delivery — PPP and station redevelopment, electronic tolling, UDAN.
+  read_for:
+    - "PPP models (BOT, HAM, TOT) and failures (Kelkar Committee)."
+    - "Scheme-specific facts: FASTag/GNSS tolling, UDAN routes and airports."
+  answer:
+    - "Need → model/scheme → achievements → limitations."
+  untested:
+    - "Ports (Sagarmala), logistics policy, railways freight corridors."
+
+GS3-ECO-08:
+  pattern: Trade in a protectionist world.
+  read_for:
+    - "BoP and CAD trends; FTAs and India's stance; tariff wars; export diversification."
+  answer:
+    - "Challenges → opportunities → measures."
+  untested:
+    - "Exchange-rate management; rupee internationalisation."
+
+# ---------------------------------------------------------------- GS3 · Agriculture
+GS3-AGR-01:
+  pattern: High yield — 4 questions on cropping-pattern change, high-value crops, irrigation challenges, groundwater depletion.
+  read_for:
+    - "Drivers of cropping choices (prices, MSP bias, water, markets); irrigation schemes (PMKSY, micro-irrigation); groundwater data (CGWB)."
+  answer:
+    - "Factors → consequences → government measures → suggestions."
+  untested:
+    - "Crop diversification policy; climate-resilient agriculture."
+
+GS3-AGR-02:
+  pattern: Markets and supply chains — upstream/downstream bottlenecks, e-technology, supply-chain management.
+  read_for:
+    - "APMC issues, e-NAM, FPOs, cold chains, digital agriculture mission."
+  answer:
+    - "Bottleneck → solution pairs."
+  untested:
+    - "Agricultural export policy; futures markets."
+
+GS3-AGR-03:
+  pattern: Asked every year 2022–24 — PDS, subsidies and WTO, millets, buffer stocks.
+  read_for:
+    - "Subsidy boxes under WTO AoA and peace clause; MSP and procurement; PDS reforms (ONORC); buffer norms and storage."
+  answer:
+    - "Mechanism → issue → reform; use FCI/NFSA numbers."
+  untested:
+    - "MSP legal guarantee debate; technology missions (syllabus words)."
+
+GS3-AGR-04:
+  pattern: Same question twice (2022, 2025) — scope and significance of food processing and employment measures.
+  read_for:
+    - "Scope (value addition, wastage, exports); schemes (PMKSY, PLI for food processing, PMFME)."
+  answer:
+    - "Scope → constraints → schemes → way forward."
+  untested:
+    - "Upstream/downstream linkages and location factors (syllabus words)."
+
+GS3-AGR-05:
+  pattern: Land reforms (objectives, ceilings, success factors) and integrated farming.
+  read_for:
+    - "Land reform phases; why Kerala and West Bengal succeeded; ceiling economics; tenancy; integrated farming models."
+  answer:
+    - "Objectives → measures → outcomes by state."
+  untested:
+    - "Animal rearing economics (syllabus words); land records digitisation."
+
+# ---------------------------------------------------------------- GS3 · Science & technology
+GS3-SCI-01:
+  pattern: Application questions — cellulose decomposition, freshwater technologies, fusion and ITER.
+  read_for:
+    - "Technology → principle → applications → merits/demerits; India's role in mega-science projects."
+  answer:
+    - "Explain principle simply, then applications and limits."
+  untested:
+    - "Nuclear fission programme; indigenisation examples (syllabus L12)."
+
+GS3-SCI-02:
+  pattern: Mission-specific 15-markers every year 2022–24 — JWST, Chandrayaan-3, asteroids.
+  read_for:
+    - "Per mission: objectives, unique features, achievements, significance; planetary defence (DART)."
+  answer:
+    - "Features → goals → benefits; list facts precisely (names, dates)."
+  untested:
+    - "Gaganyaan, Aditya-L1, space sector reforms (IN-SPACe)."
+
+GS3-SCI-03:
+  pattern: AI in healthcare (with privacy) and semiconductor mission.
+  read_for:
+    - "AI applications and governance; India Semiconductor Mission features and challenges; DPI."
+  answer:
+    - "Concept → applications → risks → policy."
+  untested:
+    - "Quantum mission; robotics; DPI as a model."
+
+GS3-SCI-04:
+  pattern: Biotech and health — ageing challenges, vaccines, microbes for fuel, nanotech in agriculture.
+  read_for:
+    - "Basic principle of each technology + Indian applications + socio-economic impact."
+  answer:
+    - "Principle diagram + Indian examples."
+  untested:
+    - "Gene editing (CRISPR), GM crops, antimicrobial resistance."
+
+GS3-SCI-05:
+  pattern: IPR on life forms and low patent commercialisation.
+  read_for:
+    - "TRIPS, Section 3(d), patents on life forms, commercialisation barriers."
+  answer:
+    - "Global scenario → India's position → reasons → reforms."
+  untested:
+    - "Geographical indications; traditional knowledge (TKDL)."
+
+# ---------------------------------------------------------------- GS3 · Environment & disaster management
+GS3-ENV-01:
+  pattern: Wetland conservation programme and Ramsar sites.
+  read_for:
+    - "Conservation laws and programmes; protected-area network; Ramsar list (state-wise examples)."
+  answer:
+    - "Programme → examples → gaps."
+  untested:
+    - "Wildlife Protection Act amendments; Forest Conservation amendments; biodiversity law."
+
+GS3-ENV-02:
+  pattern: Asked every year — smog, oil pollution, river pollution, seawater intrusion, mining hazards.
+  read_for:
+    - "Per pollutant/process: formation, effects, mitigation, Indian law/scheme, an international instrument."
+  answer:
+    - "Definition → causes → impacts → mitigation + initiatives."
+  untested:
+    - "Air quality (NCAP), plastics, e-waste."
+
+GS3-ENV-03:
+  pattern: Climate regime — Kyoto, sea-level rise impacts, EIA and NGOs, CCUS, Paris/COP26/NDC update.
+  read_for:
+    - "Timeline: UNFCCC → Kyoto → Paris → COP26 → NDC 2022; India's targets; CCUS technology; EIA process and cases."
+  answer:
+    - "Commitment → progress → gaps; cite specific numbers precisely."
+  untested:
+    - "Loss and damage fund; carbon markets (CCTS)."
+
+GS3-DM-01:
+  pattern: Asked every year 2022–24 — cloudbursts, coastal erosion, dam failures, resilience and Sendai, urban floods.
+  read_for:
+    - "Per hazard: mechanism, Indian examples, policy (NDMA guidelines, Dam Safety Act 2021); Sendai's 7 targets; DM Act 2005."
+  answer:
+    - "Hazard → cause → named Indian examples → framework → gaps."
+  untested:
+    - "Heat waves, landslides, industrial disasters."
+
+# ---------------------------------------------------------------- GS3 · Internal security
+GS3-SEC-01:
+  pattern: LWE (twice) and the North-East peace process.
+  read_for:
+    - "LWE: causes, affected areas, SAMADHAN, development schemes; NE: insurgencies and accords of the last decade (Bodo, Karbi, NLFT, ULFA)."
+  answer:
+    - "Root causes → security + development strategy → outcomes."
+  untested:
+    - "Development–extremism linkage in general terms (syllabus words)."
+
+GS3-SEC-02:
+  pattern: Terrorism — hearts and minds in J&K, terror funding and NMFT, manifestations in India.
+  read_for:
+    - "Types and sources of terror; J&K measures; terror finance (FATF, NIA, UAPA); NMFT."
+  answer:
+    - "Manifestation → state response → gaps."
+  untested:
+    - "Radicalisation online; state-sponsored terrorism."
+
+GS3-SEC-03:
+  pattern: Cyber — cyber-security strategy, DPDP Act 2023, social media and encryption.
+  read_for:
+    - "Elements of cyber security; CERT-In; DPDP features; IT Rules 2021; encryption vs traceability."
+  answer:
+    - "Threat → legal/institutional measures → gaps → remedies."
+  untested:
+    - "Money laundering and PMLA (syllabus words)."
+
+GS3-SEC-04:
+  pattern: Most-asked security topic — 6 questions on organised crime, maritime security (twice), drones, narco-terror and borders.
+  read_for:
+    - "Border-wise challenges and BADP/BIM; drone threats and counter-drone; narco routes (Golden Crescent/Triangle); coastal security architecture."
+  answer:
+    - "Challenge → measures (organisational, technical, procedural) → way forward."
+  untested:
+    - "Bangladesh and Myanmar borders; human trafficking."
+
+GS3-SEC-05:
+  pattern: Internal-security challenges and the role of intelligence/investigative agencies.
+  read_for:
+    - "Mandates of CAPFs, IB, RAW, NIA, NCB; coordination (NATGRID, MAC); AFSPA debate."
+  answer:
+    - "Challenge → agency mandate → coordination gaps → reforms."
+  untested:
+    - "Police reforms (Prakash Singh)."

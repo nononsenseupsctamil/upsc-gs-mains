@@ -14,7 +14,7 @@ from datetime import date
 import progress_page
 import revision_schedule
 from common import (IMAGE_LINK_RE, PAPERS, ROOT, SUBJECT_TITLES, answers_dir, load_topics, merge_dates, note_path,
-                    split_front_matter, today_ist)
+                    split_front_matter, strategy_markdown, today_ist)
 
 DOCS = ROOT / "build/docs"
 PAPER_TITLES = {"gs1": "GS1 · History, Culture, Geography, Society",
@@ -33,6 +33,11 @@ def topic_page(t: dict) -> str:
     srcs = meta.get("sources") or []
     if srcs:
         lines += ['!!! info "Sources"', ""] + [f"    - {s}" for s in srcs] + [""]
+    strategy = strategy_markdown(t["topic_id"], heading_level=2)
+    if strategy:
+        # Collapsible block: drop the heading line, indent the rest under ??? (pymdownx.details).
+        inner = strategy.split("\n", 2)[2].strip().splitlines()
+        lines += ['??? tip "PYQ strategy"', ""] + [f"    {l}" if l else "" for l in inner] + [""]
     lines += [body.rstrip(), ""]
     ap = answers_dir(t) / "pyqs.md"
     if ap.exists():

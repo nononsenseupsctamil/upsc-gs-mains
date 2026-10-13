@@ -48,6 +48,35 @@ def load_pyqs() -> list[dict]:
     return out
 
 
+@lru_cache(maxsize=None)
+def load_strategy() -> dict[str, dict]:
+    path = ROOT / "syllabus/strategy.yaml"
+    return (yaml.safe_load(path.read_text()) or {}) if path.exists() else {}
+
+
+def strategy_markdown(topic_id: str, heading_level: int = 3) -> str:
+    """Render a topic's PYQ-based strategy. Counts and years come from the bank, judgement from strategy.yaml."""
+    s = load_strategy().get(topic_id)
+    if not s:
+        return ""
+    qs = pyqs_for(topic_id)
+    by_year: dict[int, list[str]] = {}
+    for q in sorted(qs, key=lambda q: (q["year"], q["qno"])):
+        by_year.setdefault(q["year"], []).append(f"{q['marks']}M")
+    years = min((q["year"] for q in load_pyqs()), default=0), max((q["year"] for q in load_pyqs()), default=0)
+    span = f"{years[0]}–{years[1]}"
+    weight = ("very high" if len(qs) >= 5 else "high" if len(qs) >= 3 else "medium" if len(qs) == 2
+              else "low–medium" if qs else "low (not asked)")
+    hist = "; ".join(f"{y} ({', '.join(m)})" for y, m in by_year.items()) or "none"
+    h = "#" * heading_level
+    out = [f"{h} Strategy", "", f"**PYQ weight {span}: {weight}** — {len(qs)} question{'s' if len(qs) != 1 else ''}: {hist}.",
+           "", f"**Pattern:** {s['pattern']}", ""]
+    for key, label in (("read_for", "Read for"), ("answer", "Answer approach"), ("untested", f"Not asked in {span}")):
+        if s.get(key):
+            out += [f"**{label}:**", ""] + [f"- {x}" for x in s[key]] + [""]
+    return "\n".join(out).rstrip() + "\n"
+
+
 def topics_by_id() -> dict[str, dict]:
     return {t["topic_id"]: t for t in load_topics()}
 

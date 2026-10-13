@@ -25,6 +25,7 @@ def repo(tmp_path, monkeypatch):
     monkeypatch.setattr(build_site, "DOCS", tmp_path / "build/docs")
     common.load_topics.cache_clear()
     common.load_pyqs.cache_clear()
+    common.load_strategy.cache_clear()
     lint.errors.clear()
     yield tmp_path
     common.load_topics.cache_clear()
