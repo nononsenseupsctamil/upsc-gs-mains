@@ -8,7 +8,23 @@ sources:
   - "NCERT Cl.8 *Our Pasts III*"
 ---
 
-## m6 · 18th-century India: Mughal decline and rise of regional states
+## m1 · European advent
+
+
+
+## m2 · Plassey/Buxar
+
+
+
+## m3 · Mysore/Maratha/Sikh wars
+
+
+
+## m4 · subsidiary alliance, lapse
+
+
+
+## m5 · why the Company won
 
 ### Three main developments of the 18th century
 
@@ -51,22 +67,3 @@ Twelve successors, starting with Bahadur Shah I.
 - Could not keep peace with the Sikhs → war with Banda Bahadur
 - Called *Shah-i-Bekhabar* ("headless king")
 - Ruled for 5 years
-
-## m1 · European advent
-
-
-
-## m2 · Plassey/Buxar
-
-
-
-## m3 · Mysore/Maratha/Sikh wars
-
-
-
-## m4 · subsidiary alliance, lapse
-
-
-
-## m5 · why the Company won
-
