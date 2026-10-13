@@ -38,7 +38,7 @@ The decline started after Aurangzeb. Reasons:
 
 - Empire too vast to hold together — an "inflated balloon"
 - Weak successors
-- Military expenditure on unnecessary wars — the "Deccan curse"
+- Military expenditure on unnecessary wars — the "Deccan ulcer"
 
 ### 2. Rise of autonomous states
 
@@ -46,7 +46,7 @@ Mughal decline led to the rise of autonomous states, in three categories:
 
 | Category | States |
 |---|---|
-| Successor kingdoms | Awadh, Hyderabad, Bengal |
+| Successor kingdoms | Awadh, Hyderabad, Bengal (founder: Murshid Quli Khan) |
 | New kingdoms | Marathas, Jats, Sikhs, Afghans |
 | Independent kingdoms | Mysore, Kerala, Rajputs |
 
@@ -60,10 +60,10 @@ Twelve successors, starting with Bahadur Shah I.
 
 #### Bahadur Shah I
 
-- Eldest son of Aurangzeb
+- Eldest surviving son of Aurangzeb
 - Pacifying policy towards opponents:
-  - released Shahu
+  - released Shahu — Shahu, along with the Peshwas, later built a strong Maratha confederacy
   - friendly treaties with the Jats, Bundelas and Rajputs
 - Could not keep peace with the Sikhs → war with Banda Bahadur
-- Called *Shah-i-Bekhabar* ("headless king")
+- Called *Shah-i-Bekhabar* ("heedless king")
 - Ruled for 5 years
