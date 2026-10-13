@@ -51,9 +51,10 @@ Set up locally with `python3 -m venv .venv && . .venv/bin/activate && pip instal
 
 ## PYQ bank
 
-2024–2025 GS1–3 text is in the bank (cross-checked against coaching transcriptions, `verified: false` until
-compared with the official PDF). 2022–2023 are mapped to topics but their text is pending import
-(`scripts/import_pyqs.py`). 2013–2021 are a backlog. **This repo never AI-generates or paraphrases exam questions.**
+GS1–3 questions from **2013–2026** (2019 only partly) in `data/pyqs/`, all `verified: false` until compared with
+the official PDF. 2022–25 carry their paper question numbers (`…-Q07`); older years and 2026 come from a
+subject-wise compilation without them (`…-S01`). CI requires answers for **2022 onwards**; older questions are
+listed in each issue for practice. **This repo never AI-generates or paraphrases exam questions.**
 
 ## Licence
 

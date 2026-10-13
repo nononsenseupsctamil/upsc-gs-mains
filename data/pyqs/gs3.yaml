@@ -1,31 +1,271 @@
 # PYQ bank — human-maintained. Scripts only READ this file; never generate or paraphrase text.
 # Compare each entry with the official UPSC PDF, then set verified: true.
-- id: GS3-ECO-02-M2025-Q01
-  topic_id: GS3-ECO-02
-  year: 2025
+- id: GS3-AGR-01-M2026-S01
+  topic_id: GS3-AGR-01
+  year: 2026
   paper: GS3
-  qno: 1
+  qno: null
   marks: 10
   words: 150
-  text: Distinguish between the Human Development Index (HDI) and Inequality-adjusted Human Development Index (IHDI) with
-    special reference to India. Why is the IHDI considered a better indicator of inclusive growth?
-  source_url: https://forumias.com/blog/upsc-mains-general-studies-3-2025-general-studies-3/
+  text: Describe the various Technology Missions initiated in Indian agriculture and examine their role in food security.
+  source_url: 'author''s compilation: AgriculturePYQ.pdf'
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: cross-checked
-- id: GS3-ECO-08-M2025-Q02
-  topic_id: GS3-ECO-08
-  year: 2025
+  confidence: single-source
+- id: GS3-AGR-01-M2026-S02
+  topic_id: GS3-AGR-01
+  year: 2026
   paper: GS3
-  qno: 2
+  qno: null
+  marks: 15
+  words: 250
+  text: How Indian agriculture has been transformed from food scarcity to food surplus level? Explain the various government
+    policies implemented for diversification of Indian agriculture.
+  source_url: 'author''s compilation: AgriculturePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-AGR-02-M2026-S01
+  topic_id: GS3-AGR-02
+  year: 2026
+  paper: GS3
+  qno: null
   marks: 10
   words: 150
-  text: What are the challenges before the Indian economy when the world is moving away from free trade and multilateralism
-    to protectionism and bilateralism? How can these challenges be met?
-  source_url: https://forumias.com/blog/upsc-mains-general-studies-3-2025-general-studies-3/
+  text: Explain the factors responsible for inefficiency of agri-produce marketing. How e-commerce helps to reduce inefficiency
+    of agri-produce marketing? Explain.
+  source_url: 'author''s compilation: AgriculturePYQ.pdf'
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: cross-checked
+  confidence: single-source
+- id: GS3-AGR-03-M2026-S01
+  topic_id: GS3-AGR-03
+  year: 2026
+  paper: GS3
+  qno: null
+  marks: 15
+  words: 250
+  text: Discuss the different types of subsidies and supports provided by the Government of India to agricultural sector.
+    Examine the related issues pertaining to Agreement on Agriculture of World Trade Organisation (WTO).
+  source_url: 'author''s compilation: AgriculturePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-AGR-04-M2026-S01
+  topic_id: GS3-AGR-04
+  year: 2026
+  paper: GS3
+  qno: null
+  marks: 10
+  words: 150
+  text: Explain by giving two examples, how biotechnology has helped the Indian farmers in processing their perishable crops.
+  source_url: 'author''s compilation: AgriculturePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-DM-01-M2026-S01
+  topic_id: GS3-DM-01
+  year: 2026
+  paper: GS3
+  qno: null
+  marks: 10
+  words: 150
+  text: Discuss how the contradiction between ‘rapid infrastructure development’ and ‘disaster-risk reduction’ in ecologically-sensitive
+    areas of India can be managed, with suitable examples.
+  source_url: 'author''s compilation: DisasterManagememtPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-DM-01-M2026-S02
+  topic_id: GS3-DM-01
+  year: 2026
+  paper: GS3
+  qno: null
+  marks: 15
+  words: 250
+  text: “Community participation is the cornerstone of effective disaster management”. Analyse this statement with suitable
+    examples from India. Also discuss the challenges to community participation and measures to strengthen it.
+  source_url: 'author''s compilation: DisasterManagememtPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-03-M2026-S01
+  topic_id: GS3-ECO-03
+  year: 2026
+  paper: GS3
+  qno: null
+  marks: 10
+  words: 150
+  text: What do you mean by Digital Rupee? In this context, explain the working and progress of India’s Central Bank Digital
+    Currency (CBDC).
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-03-M2026-S02
+  topic_id: GS3-ECO-03
+  year: 2026
+  paper: GS3
+  qno: null
+  marks: 10
+  words: 150
+  text: Examine the view that financial inclusion is an integral part of social and economic inclusion in a country like India.
+    Also throw light on the usefulness of the R.B.I.’s Financial Inclusion Index.
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-05-M2026-S01
+  topic_id: GS3-ECO-05
+  year: 2026
+  paper: GS3
+  qno: null
+  marks: 15
+  words: 250
+  text: How are startups in India promoting entrepreneurship, innovation and employment? Discuss the global and domestic challenges
+    in their working and suggest suitable measures to overcome these challenges.
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-06-M2026-S01
+  topic_id: GS3-ECO-06
+  year: 2026
+  paper: GS3
+  qno: null
+  marks: 15
+  words: 250
+  text: Explain the key challenges for India’s energy security. What measures do you suggest for ensuring energy security
+    along with economic growth and sustainability?
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ENV-01-M2026-S01
+  topic_id: GS3-ENV-01
+  year: 2026
+  paper: GS3
+  qno: null
+  marks: 10
+  words: 150
+  text: Discuss the aim and goals of Kunming-Montreal global biodiversity framework. Mention India’s commitments and initiatives
+    to achieve the goals and targets of this framework giving suitable examples.
+  source_url: 'author''s compilation: EnvironmentPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ENV-02-M2026-S01
+  topic_id: GS3-ENV-02
+  year: 2026
+  paper: GS3
+  qno: null
+  marks: 15
+  words: 250
+  text: What are the challenges to solid waste management in India? Discuss the governmental policy framework on solid waste
+    management. Discuss the success/failure cases of Delhi and Indore cities highlighting the salient feature of their solid
+    waste management initiatives.
+  source_url: 'author''s compilation: EnvironmentPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SCI-01-M2026-S01
+  topic_id: GS3-SCI-01
+  year: 2026
+  paper: GS3
+  qno: null
+  marks: 10
+  words: 150
+  text: Distinguish between a Fast Breeder Reactor (FBR) and a thermal nuclear reactor. In the context of first indigenously
+    developed prototype FBR at Kalpakkam, explain the term ‘criticality’. What are its implications for clean energy future
+    of our country?
+  source_url: 'author''s compilation: SandTPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+  notes: 'Topic mapping uncertain: nuclear fission/FBR not explicit; closest nuclear tech (fusion) topic; also ECO-06 clean
+    energy'
+- id: GS3-SCI-02-M2026-S01
+  topic_id: GS3-SCI-02
+  year: 2026
+  paper: GS3
+  qno: null
+  marks: 15
+  words: 250
+  text: Mention salient features of ‘Mission Drishti’. Discuss the imaging techniques used in the satellite launched on 3rd
+    May 2026. Why it is being considered world’s first satellite of its kind?
+  source_url: 'author''s compilation: SandTPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SCI-03-M2026-S01
+  topic_id: GS3-SCI-03
+  year: 2026
+  paper: GS3
+  qno: null
+  marks: 15
+  words: 250
+  text: What is agentic Artificial Intelligence (AI)? Explain its working. Describe its applications with suitable examples.
+    Discuss the advantages, risks and challenges associated with agentic AI systems.
+  source_url: 'author''s compilation: SandTPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SEC-02-M2026-S01
+  topic_id: GS3-SEC-02
+  year: 2026
+  paper: GS3
+  qno: null
+  marks: 15
+  words: 250
+  text: Separatist movements have been one of the major factors contributing to militancy and instability in Jammu & Kashmir
+    (J & K). Bring out actions taken by the Government to bring J & K into national mainstream. Discuss pre and post abrogation
+    status of Articles 370 and 35A. Also bring out positive impacts of abrogation of both articles in mainstreaming the state.
+  source_url: 'author''s compilation: InternalSecurityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SEC-02-M2026-S02
+  topic_id: GS3-SEC-02
+  year: 2026
+  paper: GS3
+  qno: null
+  marks: 15
+  words: 250
+  text: Discuss counterfeit currency and money laundering as major sources of terror funding in India. State the actions being
+    taken at International level to check these menaces. Highlight the role of Financial Action Task Force (FATF) and methods
+    of compliance by its member states in preventing terror funding.
+  source_url: 'author''s compilation: InternalSecurityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SEC-03-M2026-S01
+  topic_id: GS3-SEC-03
+  year: 2026
+  paper: GS3
+  qno: null
+  marks: 10
+  words: 150
+  text: Explain how fake news and disinformation pose threat to Internal Security and Public Order in Indian context? In this
+    regard, discuss salient features of amendments in respect of Information Technology (Intermediary Guidelines and Digital
+    Media Ethics Code) Rules 2021.
+  source_url: 'author''s compilation: InternalSecurityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SEC-04-M2026-S01
+  topic_id: GS3-SEC-04
+  year: 2026
+  paper: GS3
+  qno: null
+  marks: 10
+  words: 150
+  text: Ladakh is strategically located between China and Pakistan. As a measure to win hearts and minds of locals, discuss
+    the Border Area Development Programmes (BADP) by the Central Government and civic actions by the Army. Also discuss demand
+    of promulgation of provision of the Sixth Schedule of constitution for Ladakh.
+  source_url: 'author''s compilation: InternalSecurityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
 - id: GS3-AGR-01-M2025-Q03
   topic_id: GS3-AGR-01
   year: 2025
@@ -34,6 +274,19 @@
   marks: 10
   words: 150
   text: Explain the factors influencing the decision of the farmers on the selection of high value crops in India.
+  source_url: https://forumias.com/blog/upsc-mains-general-studies-3-2025-general-studies-3/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: cross-checked
+- id: GS3-AGR-01-M2025-Q13
+  topic_id: GS3-AGR-01
+  year: 2025
+  paper: GS3
+  qno: 13
+  marks: 15
+  words: 250
+  text: Examine the factors responsible for depleting groundwater in India. What are the steps taken by the government to
+    mitigate such depletion?
   source_url: https://forumias.com/blog/upsc-mains-general-studies-3-2025-general-studies-3/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
@@ -50,80 +303,28 @@
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
   confidence: cross-checked
-- id: GS3-SCI-01-M2025-Q05
-  topic_id: GS3-SCI-01
+- id: GS3-AGR-04-M2025-Q14
+  topic_id: GS3-AGR-04
   year: 2025
   paper: GS3
-  qno: 5
-  marks: 10
-  words: 150
-  text: The fusion energy programme in India has steadily evolved over the past few decades. Mention India's contributions
-    to the international fusion energy project – International Thermonuclear Experimental Reactor (ITER). What will be the
-    implications of the success of this project for the future of global energy?
+  qno: 14
+  marks: 15
+  words: 250
+  text: Examine the scope of the food processing industries in India. Elaborate the measures taken by the government in this
+    sector for generating employment opportunities.
   source_url: https://forumias.com/blog/upsc-mains-general-studies-3-2025-general-studies-3/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
   confidence: cross-checked
-- id: GS3-ECO-06-M2025-Q06
-  topic_id: GS3-ECO-06
+- id: GS3-ECO-02-M2025-Q01
+  topic_id: GS3-ECO-02
   year: 2025
   paper: GS3
-  qno: 6
+  qno: 1
   marks: 10
   words: 150
-  text: How can India achieve energy independence through clean technology by 2047? How can biotechnology play a crucial role
-    in this endeavour?
-  source_url: https://forumias.com/blog/upsc-mains-general-studies-3-2025-general-studies-3/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: cross-checked
-- id: GS3-ENV-03-M2025-Q07
-  topic_id: GS3-ENV-03
-  year: 2025
-  paper: GS3
-  qno: 7
-  marks: 10
-  words: 150
-  text: What is Carbon Capture, Utilization and Storage (CCUS)? What is the potential role of CCUS in tackling climate change?
-  source_url: https://forumias.com/blog/upsc-mains-general-studies-3-2025-general-studies-3/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: cross-checked
-- id: GS3-ENV-02-M2025-Q08
-  topic_id: GS3-ENV-02
-  year: 2025
-  paper: GS3
-  qno: 8
-  marks: 10
-  words: 150
-  text: Seawater intrusion in the coastal aquifers is a major concern in India. What are the causes of seawater intrusion
-    and the remedial measures to combat this hazard?
-  source_url: https://forumias.com/blog/upsc-mains-general-studies-3-2025-general-studies-3/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: cross-checked
-- id: GS3-SEC-02-M2025-Q09
-  topic_id: GS3-SEC-02
-  year: 2025
-  paper: GS3
-  qno: 9
-  marks: 10
-  words: 150
-  text: Terrorism is a global scourge. How has it manifested in India? Elaborate with contemporary examples. What are the
-    counter measures adopted by the State?
-  source_url: https://forumias.com/blog/upsc-mains-general-studies-3-2025-general-studies-3/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: cross-checked
-- id: GS3-SEC-01-M2025-Q10
-  topic_id: GS3-SEC-01
-  year: 2025
-  paper: GS3
-  qno: 10
-  marks: 10
-  words: 150
-  text: The Government of India recently stated that Left Wing Extremism (LWE) will be eliminated by 2026. What do you understand
-    by LWE and how are the people affected by it? What measures have been taken by the government to eliminate LWE?
+  text: Distinguish between the Human Development Index (HDI) and Inequality-adjusted Human Development Index (IHDI) with
+    special reference to India. Why is the IHDI considered a better indicator of inclusive growth?
   source_url: https://forumias.com/blog/upsc-mains-general-studies-3-2025-general-studies-3/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
@@ -154,55 +355,41 @@
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
   confidence: cross-checked
-- id: GS3-AGR-01-M2025-Q13
-  topic_id: GS3-AGR-01
+- id: GS3-ECO-06-M2025-Q06
+  topic_id: GS3-ECO-06
   year: 2025
   paper: GS3
-  qno: 13
-  marks: 15
-  words: 250
-  text: Examine the factors responsible for depleting groundwater in India. What are the steps taken by the government to
-    mitigate such depletion?
+  qno: 6
+  marks: 10
+  words: 150
+  text: How can India achieve energy independence through clean technology by 2047? How can biotechnology play a crucial role
+    in this endeavour?
   source_url: https://forumias.com/blog/upsc-mains-general-studies-3-2025-general-studies-3/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
   confidence: cross-checked
-- id: GS3-AGR-04-M2025-Q14
-  topic_id: GS3-AGR-04
+- id: GS3-ECO-08-M2025-Q02
+  topic_id: GS3-ECO-08
   year: 2025
   paper: GS3
-  qno: 14
-  marks: 15
-  words: 250
-  text: Examine the scope of the food processing industries in India. Elaborate the measures taken by the government in this
-    sector for generating employment opportunities.
+  qno: 2
+  marks: 10
+  words: 150
+  text: What are the challenges before the Indian economy when the world is moving away from free trade and multilateralism
+    to protectionism and bilateralism? How can these challenges be met?
   source_url: https://forumias.com/blog/upsc-mains-general-studies-3-2025-general-studies-3/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
   confidence: cross-checked
-- id: GS3-SCI-04-M2025-Q15
-  topic_id: GS3-SCI-04
+- id: GS3-ENV-02-M2025-Q08
+  topic_id: GS3-ENV-02
   year: 2025
   paper: GS3
-  qno: 15
-  marks: 15
-  words: 250
-  text: How does nanotechnology offer significant advancements in agriculture? How can this technology help to uplift the
-    socio-economic status of farmers?
-  source_url: https://forumias.com/blog/upsc-mains-general-studies-3-2025-general-studies-3/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: cross-checked
-  notes: 'Wording conflict: Other sources read "in the field of agriculture".'
-- id: GS3-SCI-03-M2025-Q16
-  topic_id: GS3-SCI-03
-  year: 2025
-  paper: GS3
-  qno: 16
-  marks: 15
-  words: 250
-  text: India aims to become a semiconductor manufacturing hub. What are the challenges faced by the sector in India? Mention
-    the salient features of the India Semiconductor Mission.
+  qno: 8
+  marks: 10
+  words: 150
+  text: Seawater intrusion in the coastal aquifers is a major concern in India. What are the causes of seawater intrusion
+    and the remedial measures to combat this hazard?
   source_url: https://forumias.com/blog/upsc-mains-general-studies-3-2025-general-studies-3/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
@@ -216,6 +403,18 @@
   words: 250
   text: Mineral resources are fundamental to the country's economy and these are exploited by mining. Why is mining considered
     an environmental hazard? Explain the remedial measures required to reduce the environmental hazard due to mining.
+  source_url: https://forumias.com/blog/upsc-mains-general-studies-3-2025-general-studies-3/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: cross-checked
+- id: GS3-ENV-03-M2025-Q07
+  topic_id: GS3-ENV-03
+  year: 2025
+  paper: GS3
+  qno: 7
+  marks: 10
+  words: 150
+  text: What is Carbon Capture, Utilization and Storage (CCUS)? What is the potential role of CCUS in tackling climate change?
   source_url: https://forumias.com/blog/upsc-mains-general-studies-3-2025-general-studies-3/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
@@ -234,6 +433,60 @@
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
   confidence: cross-checked
+- id: GS3-SCI-01-M2025-Q05
+  topic_id: GS3-SCI-01
+  year: 2025
+  paper: GS3
+  qno: 5
+  marks: 10
+  words: 150
+  text: The fusion energy programme in India has steadily evolved over the past few decades. Mention India's contributions
+    to the international fusion energy project – International Thermonuclear Experimental Reactor (ITER). What will be the
+    implications of the success of this project for the future of global energy?
+  source_url: https://forumias.com/blog/upsc-mains-general-studies-3-2025-general-studies-3/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: cross-checked
+- id: GS3-SCI-03-M2025-Q16
+  topic_id: GS3-SCI-03
+  year: 2025
+  paper: GS3
+  qno: 16
+  marks: 15
+  words: 250
+  text: India aims to become a semiconductor manufacturing hub. What are the challenges faced by the sector in India? Mention
+    the salient features of the India Semiconductor Mission.
+  source_url: https://forumias.com/blog/upsc-mains-general-studies-3-2025-general-studies-3/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: cross-checked
+- id: GS3-SCI-04-M2025-Q15
+  topic_id: GS3-SCI-04
+  year: 2025
+  paper: GS3
+  qno: 15
+  marks: 15
+  words: 250
+  text: How does nanotechnology offer significant advancements in agriculture? How can this technology help to uplift the
+    socio-economic status of farmers?
+  source_url: https://forumias.com/blog/upsc-mains-general-studies-3-2025-general-studies-3/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: cross-checked
+  notes: 'Wording conflict: Other sources read "in the field of agriculture".'
+- id: GS3-SEC-01-M2025-Q10
+  topic_id: GS3-SEC-01
+  year: 2025
+  paper: GS3
+  qno: 10
+  marks: 10
+  words: 150
+  text: The Government of India recently stated that Left Wing Extremism (LWE) will be eliminated by 2026. What do you understand
+    by LWE and how are the people affected by it? What measures have been taken by the government to eliminate LWE?
+  source_url: https://forumias.com/blog/upsc-mains-general-studies-3-2025-general-studies-3/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: cross-checked
 - id: GS3-SEC-01-M2025-Q19
   topic_id: GS3-SEC-01
   year: 2025
@@ -243,6 +496,19 @@
   words: 250
   text: What are the major challenges to internal security and peace process in the North-Eastern States? Map the various
     peace accords and agreements initiated by the government in the past decade.
+  source_url: https://forumias.com/blog/upsc-mains-general-studies-3-2025-general-studies-3/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: cross-checked
+- id: GS3-SEC-02-M2025-Q09
+  topic_id: GS3-SEC-02
+  year: 2025
+  paper: GS3
+  qno: 9
+  marks: 10
+  words: 150
+  text: Terrorism is a global scourge. How has it manifested in India? Elaborate with contemporary examples. What are the
+    counter measures adopted by the State?
   source_url: https://forumias.com/blog/upsc-mains-general-studies-3-2025-general-studies-3/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
@@ -260,41 +526,15 @@
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
   confidence: cross-checked
-- id: GS3-ECO-02-M2024-Q01
-  topic_id: GS3-ECO-02
+- id: GS3-AGR-01-M2024-Q13
+  topic_id: GS3-AGR-01
   year: 2024
   paper: GS3
-  qno: 1
-  marks: 10
-  words: 150
-  text: Examine the pattern and trend of public expenditure on social services in the post-reforms period in India. To what
-    extent this has been in consonance with achieving the objective of inclusive growth?
-  source_url: https://triumphias.com/blog/general-studies-paper-3-2024/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: cross-checked
-- id: GS3-ECO-03-M2024-Q02
-  topic_id: GS3-ECO-03
-  year: 2024
-  paper: GS3
-  qno: 2
-  marks: 10
-  words: 150
-  text: What are the causes of persistent high food inflation in India? Comment on the effectiveness of the monetary policy
-    of the RBI to control this type of inflation.
-  source_url: https://triumphias.com/blog/general-studies-paper-3-2024/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: cross-checked
-- id: GS3-AGR-05-M2024-Q03
-  topic_id: GS3-AGR-05
-  year: 2024
-  paper: GS3
-  qno: 3
-  marks: 10
-  words: 150
-  text: What were the factors responsible for the successful implementation of land reforms in some parts of the country?
-    Elaborate.
+  qno: 13
+  marks: 15
+  words: 250
+  text: What are the major challenges faced by Indian irrigation system in recent times? State the measures taken by the government
+    for efficient irrigation management.
   source_url: https://triumphias.com/blog/general-studies-paper-3-2024/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
@@ -307,124 +547,6 @@
   marks: 10
   words: 150
   text: Explain the role of millets for ensuring health and nutritional security in India.
-  source_url: https://triumphias.com/blog/general-studies-paper-3-2024/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: cross-checked
-- id: GS3-SCI-05-M2024-Q05
-  topic_id: GS3-SCI-05
-  year: 2024
-  paper: GS3
-  qno: 5
-  marks: 10
-  words: 150
-  text: What is the present world scenario of intellectual property rights with respect to life materials? Although, India
-    is second in the world to file patents, still only a few have been commercialized. Explain the reasons behind this less
-    commercialization.
-  source_url: https://triumphias.com/blog/general-studies-paper-3-2024/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: cross-checked
-- id: GS3-ECO-07-M2024-Q06
-  topic_id: GS3-ECO-07
-  year: 2024
-  paper: GS3
-  qno: 6
-  marks: 10
-  words: 150
-  text: What is the technology being employed for electronic toll collection on highways? What are its advantages and limitations?
-    What are the proposed changes that will make this process seamless? Would this transition carry any potential hazards?
-  source_url: https://triumphias.com/blog/general-studies-paper-3-2024/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: cross-checked
-- id: GS3-ENV-02-M2024-Q07
-  topic_id: GS3-ENV-02
-  year: 2024
-  paper: GS3
-  qno: 7
-  marks: 10
-  words: 150
-  text: Industrial pollution of river water is a significant environmental issue in India. Discuss the various mitigation
-    measures to deal with this problem and also the government's initiatives in this regard.
-  source_url: https://triumphias.com/blog/general-studies-paper-3-2024/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: cross-checked
-- id: GS3-ENV-03-M2024-Q08
-  topic_id: GS3-ENV-03
-  year: 2024
-  paper: GS3
-  qno: 8
-  marks: 10
-  words: 150
-  text: What role do environmental NGOs and activists play in influencing Environmental Impact Assessment (EIA) outcomes for
-    major projects in India? Cite four examples with all important details.
-  source_url: https://triumphias.com/blog/general-studies-paper-3-2024/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: cross-checked
-- id: GS3-SEC-04-M2024-Q09
-  topic_id: GS3-SEC-04
-  year: 2024
-  paper: GS3
-  qno: 9
-  marks: 10
-  words: 150
-  text: Explain how narco-terrorism has emerged as a serious threat across the country. Suggest suitable measures to counter
-    narco-terrorism.
-  source_url: https://triumphias.com/blog/general-studies-paper-3-2024/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: cross-checked
-- id: GS3-SEC-03-M2024-Q10
-  topic_id: GS3-SEC-03
-  year: 2024
-  paper: GS3
-  qno: 10
-  marks: 10
-  words: 150
-  text: Describe the context and salient features of the Digital Personal Data Protection Act, 2023.
-  source_url: https://triumphias.com/blog/general-studies-paper-3-2024/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: cross-checked
-- id: GS3-ECO-05-M2024-Q11
-  topic_id: GS3-ECO-05
-  year: 2024
-  paper: GS3
-  qno: 11
-  marks: 15
-  words: 250
-  text: Discuss the merits and demerits of the four 'Labour Codes' in the context of labour market reforms in India. What
-    has been the progress so far in this regard?
-  source_url: https://triumphias.com/blog/general-studies-paper-3-2024/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: cross-checked
-  notes: 'Wording conflict: TriumphIAS shows "market/reforms".'
-- id: GS3-ECO-07-M2024-Q12
-  topic_id: GS3-ECO-07
-  year: 2024
-  paper: GS3
-  qno: 12
-  marks: 15
-  words: 250
-  text: What is the need for expanding the regional air connectivity in India? In this context, discuss the government's UDAN
-    Scheme and its achievements.
-  source_url: https://triumphias.com/blog/general-studies-paper-3-2024/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: cross-checked
-- id: GS3-AGR-01-M2024-Q13
-  topic_id: GS3-AGR-01
-  year: 2024
-  paper: GS3
-  qno: 13
-  marks: 15
-  words: 250
-  text: What are the major challenges faced by Indian irrigation system in recent times? State the measures taken by the government
-    for efficient irrigation management.
   source_url: https://triumphias.com/blog/general-studies-paper-3-2024/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
@@ -442,28 +564,15 @@
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
   confidence: cross-checked
-- id: GS3-SCI-01-M2024-Q15
-  topic_id: GS3-SCI-01
+- id: GS3-AGR-05-M2024-Q03
+  topic_id: GS3-AGR-05
   year: 2024
   paper: GS3
-  qno: 15
-  marks: 15
-  words: 250
-  text: The world is facing an acute shortage of clean and safe freshwater. What are the alternative technologies which can
-    solve this crisis? Briefly discuss any three such technologies citing their key merits and demerits.
-  source_url: https://triumphias.com/blog/general-studies-paper-3-2024/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: cross-checked
-- id: GS3-SCI-02-M2024-Q16
-  topic_id: GS3-SCI-02
-  year: 2024
-  paper: GS3
-  qno: 16
-  marks: 15
-  words: 250
-  text: What are asteroids? How real is the threat of them causing extinction of life? What strategies have been developed
-    to prevent such a catastrophe?
+  qno: 3
+  marks: 10
+  words: 150
+  text: What were the factors responsible for the successful implementation of land reforms in some parts of the country?
+    Elaborate.
   source_url: https://triumphias.com/blog/general-studies-paper-3-2024/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
@@ -495,16 +604,146 @@
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
   confidence: cross-checked
-- id: GS3-SEC-04-M2024-Q19
-  topic_id: GS3-SEC-04
+- id: GS3-ECO-02-M2024-Q01
+  topic_id: GS3-ECO-02
   year: 2024
   paper: GS3
-  qno: 19
+  qno: 1
+  marks: 10
+  words: 150
+  text: Examine the pattern and trend of public expenditure on social services in the post-reforms period in India. To what
+    extent this has been in consonance with achieving the objective of inclusive growth?
+  source_url: https://triumphias.com/blog/general-studies-paper-3-2024/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: cross-checked
+- id: GS3-ECO-03-M2024-Q02
+  topic_id: GS3-ECO-03
+  year: 2024
+  paper: GS3
+  qno: 2
+  marks: 10
+  words: 150
+  text: What are the causes of persistent high food inflation in India? Comment on the effectiveness of the monetary policy
+    of the RBI to control this type of inflation.
+  source_url: https://triumphias.com/blog/general-studies-paper-3-2024/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: cross-checked
+- id: GS3-ECO-05-M2024-Q11
+  topic_id: GS3-ECO-05
+  year: 2024
+  paper: GS3
+  qno: 11
   marks: 15
   words: 250
-  text: India has a long and troubled border with China and Pakistan fraught with contentious issues. Examine the conflicting
-    issues and security challenges along the border. Also give out the development being undertaken in these areas under the
-    Border Area Development Programme (BADP) and Border Infrastructure and Management (BIM) Scheme.
+  text: Discuss the merits and demerits of the four 'Labour Codes' in the context of labour market reforms in India. What
+    has been the progress so far in this regard?
+  source_url: https://triumphias.com/blog/general-studies-paper-3-2024/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: cross-checked
+  notes: 'Wording conflict: TriumphIAS shows "market/reforms".'
+- id: GS3-ECO-07-M2024-Q06
+  topic_id: GS3-ECO-07
+  year: 2024
+  paper: GS3
+  qno: 6
+  marks: 10
+  words: 150
+  text: What is the technology being employed for electronic toll collection on highways? What are its advantages and limitations?
+    What are the proposed changes that will make this process seamless? Would this transition carry any potential hazards?
+  source_url: https://triumphias.com/blog/general-studies-paper-3-2024/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: cross-checked
+- id: GS3-ECO-07-M2024-Q12
+  topic_id: GS3-ECO-07
+  year: 2024
+  paper: GS3
+  qno: 12
+  marks: 15
+  words: 250
+  text: What is the need for expanding the regional air connectivity in India? In this context, discuss the government's UDAN
+    Scheme and its achievements.
+  source_url: https://triumphias.com/blog/general-studies-paper-3-2024/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: cross-checked
+- id: GS3-ENV-02-M2024-Q07
+  topic_id: GS3-ENV-02
+  year: 2024
+  paper: GS3
+  qno: 7
+  marks: 10
+  words: 150
+  text: Industrial pollution of river water is a significant environmental issue in India. Discuss the various mitigation
+    measures to deal with this problem and also the government's initiatives in this regard.
+  source_url: https://triumphias.com/blog/general-studies-paper-3-2024/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: cross-checked
+- id: GS3-ENV-03-M2024-Q08
+  topic_id: GS3-ENV-03
+  year: 2024
+  paper: GS3
+  qno: 8
+  marks: 10
+  words: 150
+  text: What role do environmental NGOs and activists play in influencing Environmental Impact Assessment (EIA) outcomes for
+    major projects in India? Cite four examples with all important details.
+  source_url: https://triumphias.com/blog/general-studies-paper-3-2024/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: cross-checked
+- id: GS3-SCI-01-M2024-Q15
+  topic_id: GS3-SCI-01
+  year: 2024
+  paper: GS3
+  qno: 15
+  marks: 15
+  words: 250
+  text: The world is facing an acute shortage of clean and safe freshwater. What are the alternative technologies which can
+    solve this crisis? Briefly discuss any three such technologies citing their key merits and demerits.
+  source_url: https://triumphias.com/blog/general-studies-paper-3-2024/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: cross-checked
+- id: GS3-SCI-02-M2024-Q16
+  topic_id: GS3-SCI-02
+  year: 2024
+  paper: GS3
+  qno: 16
+  marks: 15
+  words: 250
+  text: What are asteroids? How real is the threat of them causing extinction of life? What strategies have been developed
+    to prevent such a catastrophe?
+  source_url: https://triumphias.com/blog/general-studies-paper-3-2024/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: cross-checked
+- id: GS3-SCI-05-M2024-Q05
+  topic_id: GS3-SCI-05
+  year: 2024
+  paper: GS3
+  qno: 5
+  marks: 10
+  words: 150
+  text: What is the present world scenario of intellectual property rights with respect to life materials? Although, India
+    is second in the world to file patents, still only a few have been commercialized. Explain the reasons behind this less
+    commercialization.
+  source_url: https://triumphias.com/blog/general-studies-paper-3-2024/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: cross-checked
+- id: GS3-SEC-03-M2024-Q10
+  topic_id: GS3-SEC-03
+  year: 2024
+  paper: GS3
+  qno: 10
+  marks: 10
+  words: 150
+  text: Describe the context and salient features of the Digital Personal Data Protection Act, 2023.
   source_url: https://triumphias.com/blog/general-studies-paper-3-2024/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
@@ -523,28 +762,42 @@
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
   confidence: cross-checked
-- id: GS3-ECO-05-M2023-Q01
-  topic_id: GS3-ECO-05
-  year: 2023
+- id: GS3-SEC-04-M2024-Q09
+  topic_id: GS3-SEC-04
+  year: 2024
   paper: GS3
-  qno: 1
+  qno: 9
   marks: 10
   words: 150
-  text: Faster economic growth requires increased share of the manufacturing sector in GDP, particularly of MSMEs. Comment
-    on the present policies of the government in this regard.
-  source_url: https://www.clearias.com/gs-paper-3-upsc-2023-mains/
+  text: Explain how narco-terrorism has emerged as a serious threat across the country. Suggest suitable measures to counter
+    narco-terrorism.
+  source_url: https://triumphias.com/blog/general-studies-paper-3-2024/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: single-source
-- id: GS3-ECO-01-M2023-Q02
-  topic_id: GS3-ECO-01
+  confidence: cross-checked
+- id: GS3-SEC-04-M2024-Q19
+  topic_id: GS3-SEC-04
+  year: 2024
+  paper: GS3
+  qno: 19
+  marks: 15
+  words: 250
+  text: India has a long and troubled border with China and Pakistan fraught with contentious issues. Examine the conflicting
+    issues and security challenges along the border. Also give out the development being undertaken in these areas under the
+    Border Area Development Programme (BADP) and Border Infrastructure and Management (BIM) Scheme.
+  source_url: https://triumphias.com/blog/general-studies-paper-3-2024/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: cross-checked
+- id: GS3-AGR-01-M2023-Q13
+  topic_id: GS3-AGR-01
   year: 2023
   paper: GS3
-  qno: 2
-  marks: 10
-  words: 150
-  text: What is the status of digitalization in the Indian economy? Examine the problems faced in this regard and suggest
-    improvements.
+  qno: 13
+  marks: 15
+  words: 250
+  text: Explain the changes in cropping patterns in India in the context of changes in consumption patterns and marketing
+    conditions.
   source_url: https://www.clearias.com/gs-paper-3-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
@@ -557,6 +810,19 @@
   marks: 10
   words: 150
   text: How does e-Technology help farmers in production and marketing of agricultural produce? Explain it.
+  source_url: https://www.clearias.com/gs-paper-3-upsc-2023-mains/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-AGR-03-M2023-Q14
+  topic_id: GS3-AGR-03
+  year: 2023
+  paper: GS3
+  qno: 14
+  marks: 15
+  words: 250
+  text: What are the direct and indirect subsidies provided to farm sector in India. Discuss the issues raised by the World
+    Trade Organization (WTO) in relation to agricultural subsidies.
   source_url: https://www.clearias.com/gs-paper-3-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
@@ -574,32 +840,6 @@
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
   confidence: single-source
-- id: GS3-SCI-03-M2023-Q05
-  topic_id: GS3-SCI-03
-  year: 2023
-  paper: GS3
-  qno: 5
-  marks: 10
-  words: 150
-  text: Introduce the concept of Artificial Intelligence (AI). How does Al help clinical diagnosis? Do you perceive any threat
-    to privacy of the individual in the use of Al in healthcare?
-  source_url: https://www.clearias.com/gs-paper-3-upsc-2023-mains/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: single-source
-  notes: Source transcription (ClearIAS) shows 'Al' (likely 'AI'). Kept verbatim — check the official PDF.
-- id: GS3-SCI-04-M2023-Q06
-  topic_id: GS3-SCI-04
-  year: 2023
-  paper: GS3
-  qno: 6
-  marks: 10
-  words: 150
-  text: Discuss several ways in which microorganisms can help in meeting the current fuel shortage.
-  source_url: https://www.clearias.com/gs-paper-3-upsc-2023-mains/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: single-source
 - id: GS3-DM-01-M2023-Q07
   topic_id: GS3-DM-01
   year: 2023
@@ -613,41 +853,15 @@
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
   confidence: single-source
-- id: GS3-ENV-02-M2023-Q08
-  topic_id: GS3-ENV-02
+- id: GS3-ECO-01-M2023-Q02
+  topic_id: GS3-ECO-01
   year: 2023
   paper: GS3
-  qno: 8
+  qno: 2
   marks: 10
   words: 150
-  text: What is oil pollution? What are its impacts on the marine ecosystem? In what way is pollution particularly harmful
-    for a country like India.
-  source_url: https://www.clearias.com/gs-paper-3-upsc-2023-mains/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: single-source
-- id: GS3-SEC-02-M2023-Q09
-  topic_id: GS3-SEC-02
-  year: 2023
-  paper: GS3
-  qno: 9
-  marks: 10
-  words: 150
-  text: Winning of ‘Hearts and Minds’ in terrorism affected areas is an essential step in restoring the trust of the population.
-    Discuss the measures adopted by the Government in this respect as part of the conflict resolution in Jammu and Kashmir.
-  source_url: https://www.clearias.com/gs-paper-3-upsc-2023-mains/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: single-source
-- id: GS3-SEC-04-M2023-Q10
-  topic_id: GS3-SEC-04
-  year: 2023
-  paper: GS3
-  qno: 10
-  marks: 10
-  words: 150
-  text: The use of unmanned aerial vehicles (UAVs) by our adversaries across the borders to ferry arms/ammunitions, drugs,
-    etc, is a serious threat to the internal security. Comment on the measures being taken to tackle this threat.
+  text: What is the status of digitalization in the Indian economy? Examine the problems faced in this regard and suggest
+    improvements.
   source_url: https://www.clearias.com/gs-paper-3-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
@@ -678,28 +892,15 @@
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
   confidence: single-source
-- id: GS3-AGR-01-M2023-Q13
-  topic_id: GS3-AGR-01
+- id: GS3-ECO-05-M2023-Q01
+  topic_id: GS3-ECO-05
   year: 2023
   paper: GS3
-  qno: 13
-  marks: 15
-  words: 250
-  text: Explain the changes in cropping patterns in India in the context of changes in consumption patterns and marketing
-    conditions.
-  source_url: https://www.clearias.com/gs-paper-3-upsc-2023-mains/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: single-source
-- id: GS3-AGR-03-M2023-Q14
-  topic_id: GS3-AGR-03
-  year: 2023
-  paper: GS3
-  qno: 14
-  marks: 15
-  words: 250
-  text: What are the direct and indirect subsidies provided to farm sector in India. Discuss the issues raised by the World
-    Trade Organization (WTO) in relation to agricultural subsidies.
+  qno: 1
+  marks: 10
+  words: 150
+  text: Faster economic growth requires increased share of the manufacturing sector in GDP, particularly of MSMEs. Comment
+    on the present policies of the government in this regard.
   source_url: https://www.clearias.com/gs-paper-3-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
@@ -713,6 +914,45 @@
   words: 250
   text: The adoption of electric vehicles is rapidly growing worldwide. How do electric vehicles contribute to reducing carbon
     emissions and what are the key benefits they offer compared to traditional combustion engine vehicles?
+  source_url: https://www.clearias.com/gs-paper-3-upsc-2023-mains/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ENV-01-M2023-Q17
+  topic_id: GS3-ENV-01
+  year: 2023
+  paper: GS3
+  qno: 17
+  marks: 15
+  words: 250
+  text: Comment on the National Wetland Conservation Programme initiated by the Government of India and name a few India’s
+    wetlands of international importance included in the Ramsar Sites.
+  source_url: https://www.clearias.com/gs-paper-3-upsc-2023-mains/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ENV-02-M2023-Q08
+  topic_id: GS3-ENV-02
+  year: 2023
+  paper: GS3
+  qno: 8
+  marks: 10
+  words: 150
+  text: What is oil pollution? What are its impacts on the marine ecosystem? In what way is pollution particularly harmful
+    for a country like India.
+  source_url: https://www.clearias.com/gs-paper-3-upsc-2023-mains/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ENV-03-M2023-Q18
+  topic_id: GS3-ENV-03
+  year: 2023
+  paper: GS3
+  qno: 18
+  marks: 15
+  words: 250
+  text: The Intergovernmental Panel on Climate Change (IPCC) has predicted a global sea level rise of about one metre by AD
+    2100. What would be its impact in India and the other countries in the Indian Ocean region?
   source_url: https://www.clearias.com/gs-paper-3-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
@@ -731,41 +971,41 @@
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
   confidence: single-source
-- id: GS3-ENV-01-M2023-Q17
-  topic_id: GS3-ENV-01
+- id: GS3-SCI-03-M2023-Q05
+  topic_id: GS3-SCI-03
   year: 2023
   paper: GS3
-  qno: 17
-  marks: 15
-  words: 250
-  text: Comment on the National Wetland Conservation Programme initiated by the Government of India and name a few India’s
-    wetlands of international importance included in the Ramsar Sites.
+  qno: 5
+  marks: 10
+  words: 150
+  text: Introduce the concept of Artificial Intelligence (AI). How does Al help clinical diagnosis? Do you perceive any threat
+    to privacy of the individual in the use of Al in healthcare?
   source_url: https://www.clearias.com/gs-paper-3-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
   confidence: single-source
-- id: GS3-ENV-03-M2023-Q18
-  topic_id: GS3-ENV-03
+  notes: Source transcription (ClearIAS) shows 'Al' (likely 'AI'). Kept verbatim — check the official PDF.
+- id: GS3-SCI-04-M2023-Q06
+  topic_id: GS3-SCI-04
   year: 2023
   paper: GS3
-  qno: 18
-  marks: 15
-  words: 250
-  text: The Intergovernmental Panel on Climate Change (IPCC) has predicted a global sea level rise of about one metre by AD
-    2100. What would be its impact in India and the other countries in the Indian Ocean region?
+  qno: 6
+  marks: 10
+  words: 150
+  text: Discuss several ways in which microorganisms can help in meeting the current fuel shortage.
   source_url: https://www.clearias.com/gs-paper-3-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
   confidence: single-source
-- id: GS3-SEC-05-M2023-Q19
-  topic_id: GS3-SEC-05
+- id: GS3-SEC-02-M2023-Q09
+  topic_id: GS3-SEC-02
   year: 2023
   paper: GS3
-  qno: 19
-  marks: 15
-  words: 250
-  text: What are the internal security challenges being faced by India? Give out the role of Central Intelligence and Investigative
-    Agencies tasked to counter such threats.
+  qno: 9
+  marks: 10
+  words: 150
+  text: Winning of ‘Hearts and Minds’ in terrorism affected areas is an essential step in restoring the trust of the population.
+    Discuss the measures adopted by the Government in this respect as part of the conflict resolution in Jammu and Kashmir.
   source_url: https://www.clearias.com/gs-paper-3-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
@@ -784,28 +1024,40 @@
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
   confidence: single-source
-- id: GS3-ECO-07-M2022-Q01
-  topic_id: GS3-ECO-07
-  year: 2022
+- id: GS3-SEC-04-M2023-Q10
+  topic_id: GS3-SEC-04
+  year: 2023
   paper: GS3
-  qno: 1
+  qno: 10
   marks: 10
   words: 150
-  text: Why is Public Private Partnership (PPP) required in Infrastructural projects? Examine the role of PPP model in the
-    redevelopment of Railway Stations in India.
-  source_url: https://www.clearias.com/gs-paper-3-upsc-2022-mains/
+  text: The use of unmanned aerial vehicles (UAVs) by our adversaries across the borders to ferry arms/ammunitions, drugs,
+    etc, is a serious threat to the internal security. Comment on the measures being taken to tackle this threat.
+  source_url: https://www.clearias.com/gs-paper-3-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
   confidence: single-source
-- id: GS3-ECO-03-M2022-Q02
-  topic_id: GS3-ECO-03
+- id: GS3-SEC-05-M2023-Q19
+  topic_id: GS3-SEC-05
+  year: 2023
+  paper: GS3
+  qno: 19
+  marks: 15
+  words: 250
+  text: What are the internal security challenges being faced by India? Give out the role of Central Intelligence and Investigative
+    Agencies tasked to counter such threats.
+  source_url: https://www.clearias.com/gs-paper-3-upsc-2023-mains/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-AGR-02-M2022-Q13
+  topic_id: GS3-AGR-02
   year: 2022
   paper: GS3
-  qno: 2
-  marks: 10
-  words: 150
-  text: Is inclusive growth possible under market economy? State the significance of financial inclusion in achieving economic
-    growth in India.
+  qno: 13
+  marks: 15
+  words: 250
+  text: What are the main bottlenecks in upstream and downstream process of marketing of agricultural products in India?
   source_url: https://www.clearias.com/gs-paper-3-upsc-2022-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
@@ -834,28 +1086,91 @@
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
   confidence: single-source
-- id: GS3-SCI-04-M2022-Q05
-  topic_id: GS3-SCI-04
+- id: GS3-AGR-05-M2022-Q14
+  topic_id: GS3-AGR-05
   year: 2022
   paper: GS3
-  qno: 5
-  marks: 10
-  words: 150
-  text: The increase in life expectancy in the country has led to newer health challenges in the community. What are those
-    challenges and what steps need to be taken to meet them?
+  qno: 14
+  marks: 15
+  words: 250
+  text: What is Integrated Farming System? How is it helpful to small and marginal farmers in India?
   source_url: https://www.clearias.com/gs-paper-3-upsc-2022-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
   confidence: single-source
-- id: GS3-SCI-01-M2022-Q06
-  topic_id: GS3-SCI-01
+- id: GS3-DM-01-M2022-Q08
+  topic_id: GS3-DM-01
   year: 2022
   paper: GS3
-  qno: 6
+  qno: 8
   marks: 10
   words: 150
-  text: Each year a large amount of plant material, cellulose is deposited on the surface of Planet Earth. What are the natural
-    process this cellulose undergoes before yielding carbon dioxide, water and other end products?
+  text: Explain the mechanism and occurrence of cloudburst in the context of Indian subcontinent. Discuss two recent examples.
+  source_url: https://www.clearias.com/gs-paper-3-upsc-2022-mains/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-DM-01-M2022-Q18
+  topic_id: GS3-DM-01
+  year: 2022
+  paper: GS3
+  qno: 18
+  marks: 15
+  words: 250
+  text: Explain the causes and effects of coastal erosion in India. What are the available coastal management techniques for
+    combating the hazard?
+  source_url: https://www.clearias.com/gs-paper-3-upsc-2022-mains/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-01-M2022-Q11
+  topic_id: GS3-ECO-01
+  year: 2022
+  paper: GS3
+  qno: 11
+  marks: 15
+  words: 250
+  text: “Economic growth in the recent past has been led by increase in labour productivity”.Explain this statement. Suggest
+    the growth pattern that will lead to creation of more jobs without compromising labour productivity.
+  source_url: https://www.clearias.com/gs-paper-3-upsc-2022-mains/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-03-M2022-Q02
+  topic_id: GS3-ECO-03
+  year: 2022
+  paper: GS3
+  qno: 2
+  marks: 10
+  words: 150
+  text: Is inclusive growth possible under market economy? State the significance of financial inclusion in achieving economic
+    growth in India.
+  source_url: https://www.clearias.com/gs-paper-3-upsc-2022-mains/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-06-M2022-Q12
+  topic_id: GS3-ECO-06
+  year: 2022
+  paper: GS3
+  qno: 12
+  marks: 15
+  words: 250
+  text: Do you think India will meet 50 percent of its energy needs from renewable energy by 2030? Justify your answer. How
+    will the shift of subsidies from fossil fuels to renewables help achieve the above objective? Explain.
+  source_url: https://www.clearias.com/gs-paper-3-upsc-2022-mains/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-07-M2022-Q01
+  topic_id: GS3-ECO-07
+  year: 2022
+  paper: GS3
+  qno: 1
+  marks: 10
+  words: 150
+  text: Why is Public Private Partnership (PPP) required in Infrastructural projects? Examine the role of PPP model in the
+    redevelopment of Railway Stations in India.
   source_url: https://www.clearias.com/gs-paper-3-upsc-2022-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
@@ -873,14 +1188,94 @@
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
   confidence: single-source
-- id: GS3-DM-01-M2022-Q08
-  topic_id: GS3-DM-01
+- id: GS3-ENV-03-M2022-Q17
+  topic_id: GS3-ENV-03
   year: 2022
   paper: GS3
-  qno: 8
+  qno: 17
+  marks: 15
+  words: 250
+  text: Discuss global warming and mention its effects on global climate. Explain the control measures to bring down the level
+    of greenhouse gases which cause global warming, in the light of Kyoto Protocol, 1997.
+  source_url: https://www.clearias.com/gs-paper-3-upsc-2022-mains/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SCI-01-M2022-Q06
+  topic_id: GS3-SCI-01
+  year: 2022
+  paper: GS3
+  qno: 6
   marks: 10
   words: 150
-  text: Explain the mechanism and occurrence of cloudburst in the context of Indian subcontinent. Discuss two recent examples.
+  text: Each year a large amount of plant material, cellulose is deposited on the surface of Planet Earth. What are the natural
+    process this cellulose undergoes before yielding carbon dioxide, water and other end products?
+  source_url: https://www.clearias.com/gs-paper-3-upsc-2022-mains/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SCI-02-M2022-Q15
+  topic_id: GS3-SCI-02
+  year: 2022
+  paper: GS3
+  qno: 15
+  marks: 15
+  words: 250
+  text: Launched on 25th December, 2021, James Webb Space Telescope has been much news since then. What are its unique features
+    which make it superior to its predecessor Space Telescopes? What are the key goals of this mission? What potential benefits
+    does it hold for the human race?
+  source_url: https://www.clearias.com/gs-paper-3-upsc-2022-mains/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SCI-04-M2022-Q05
+  topic_id: GS3-SCI-04
+  year: 2022
+  paper: GS3
+  qno: 5
+  marks: 10
+  words: 150
+  text: The increase in life expectancy in the country has led to newer health challenges in the community. What are those
+    challenges and what steps need to be taken to meet them?
+  source_url: https://www.clearias.com/gs-paper-3-upsc-2022-mains/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SCI-04-M2022-Q16
+  topic_id: GS3-SCI-04
+  year: 2022
+  paper: GS3
+  qno: 16
+  marks: 15
+  words: 250
+  text: What is the basic principle behind vaccine development? How do vaccines work? What approaches were adopted by the
+    Indian vaccine manufacturers to produce COVID-19 vaccines?
+  source_url: https://www.clearias.com/gs-paper-3-upsc-2022-mains/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SEC-01-M2022-Q20
+  topic_id: GS3-SEC-01
+  year: 2022
+  paper: GS3
+  qno: 20
+  marks: 15
+  words: 250
+  text: Naxalism is a social, economic and developmental issue manifesting violent internal security threat. In this context,
+    discuss the emerging issues and suggest a multilayered strategy to tackle the menace of Naxalism
+  source_url: https://www.clearias.com/gs-paper-3-upsc-2022-mains/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SEC-03-M2022-Q19
+  topic_id: GS3-SEC-03
+  year: 2022
+  paper: GS3
+  qno: 19
+  marks: 15
+  words: 250
+  text: What are the different elements of cyber security? Keeping in view the challenges in cyber security examine the extent
+    to which India has successfully developed a comprehensive National Cyber Security Strategy.
   source_url: https://www.clearias.com/gs-paper-3-upsc-2022-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
@@ -911,132 +1306,2187 @@
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
   confidence: single-source
-- id: GS3-ECO-01-M2022-Q11
-  topic_id: GS3-ECO-01
-  year: 2022
+- id: GS3-AGR-01-M2021-S01
+  topic_id: GS3-AGR-01
+  year: 2021
   paper: GS3
-  qno: 11
-  marks: 15
-  words: 250
-  text: “Economic growth in the recent past has been led by increase in labour productivity”.Explain this statement. Suggest
-    the growth pattern that will lead to creation of more jobs without compromising labour productivity.
-  source_url: https://www.clearias.com/gs-paper-3-upsc-2022-mains/
+  qno: null
+  marks: null
+  words: null
+  text: How and to what extent would micro-irrigation help in solving India’s water crisis?
+  source_url: 'author''s compilation: AgriculturePYQ.pdf'
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
   confidence: single-source
-- id: GS3-ECO-06-M2022-Q12
-  topic_id: GS3-ECO-06
-  year: 2022
+- id: GS3-AGR-01-M2021-S02
+  topic_id: GS3-AGR-01
+  year: 2021
   paper: GS3
-  qno: 12
-  marks: 15
-  words: 250
-  text: Do you think India will meet 50 percent of its energy needs from renewable energy by 2030? Justify your answer. How
-    will the shift of subsidies from fossil fuels to renewables help achieve the above objective? Explain.
-  source_url: https://www.clearias.com/gs-paper-3-upsc-2022-mains/
+  qno: null
+  marks: null
+  words: null
+  text: What are the present challenges before crop diversification? How do emerging technologies provide an opportunity for
+    crop diversification?
+  source_url: 'author''s compilation: AgriculturePYQ.pdf'
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
   confidence: single-source
-- id: GS3-AGR-02-M2022-Q13
-  topic_id: GS3-AGR-02
-  year: 2022
+- id: GS3-AGR-03-M2021-S01
+  topic_id: GS3-AGR-03
+  year: 2021
   paper: GS3
-  qno: 13
-  marks: 15
-  words: 250
-  text: What are the main bottlenecks in upstream and downstream process of marketing of agricultural products in India?
-  source_url: https://www.clearias.com/gs-paper-3-upsc-2022-mains/
+  qno: null
+  marks: null
+  words: null
+  text: What are the salient features of the National Food Security Act, 2013? How has the Food Security Bill helped in eliminating
+    hunger and malnutrition in India?
+  source_url: 'author''s compilation: AgriculturePYQ.pdf'
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
   confidence: single-source
-- id: GS3-AGR-05-M2022-Q14
+- id: GS3-AGR-05-M2021-S01
   topic_id: GS3-AGR-05
-  year: 2022
+  year: 2021
   paper: GS3
-  qno: 14
-  marks: 15
-  words: 250
-  text: What is Integrated Farming System? How is it helpful to small and marginal farmers in India?
-  source_url: https://www.clearias.com/gs-paper-3-upsc-2022-mains/
+  qno: null
+  marks: null
+  words: null
+  text: How did land reforms in some parts of the country help to improve the socio-economic conditions of marginal and small
+    farmers?
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
   confidence: single-source
-- id: GS3-SCI-02-M2022-Q15
-  topic_id: GS3-SCI-02
-  year: 2022
-  paper: GS3
-  qno: 15
-  marks: 15
-  words: 250
-  text: Launched on 25th December, 2021, James Webb Space Telescope has been much news since then. What are its unique features
-    which make it superior to its predecessor Space Telescopes? What are the key goals of this mission? What potential benefits
-    does it hold for the human race?
-  source_url: https://www.clearias.com/gs-paper-3-upsc-2022-mains/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: single-source
-- id: GS3-SCI-04-M2022-Q16
-  topic_id: GS3-SCI-04
-  year: 2022
-  paper: GS3
-  qno: 16
-  marks: 15
-  words: 250
-  text: What is the basic principle behind vaccine development? How do vaccines work? What approaches were adopted by the
-    Indian vaccine manufacturers to produce COVID-19 vaccines?
-  source_url: https://www.clearias.com/gs-paper-3-upsc-2022-mains/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: single-source
-- id: GS3-ENV-03-M2022-Q17
-  topic_id: GS3-ENV-03
-  year: 2022
-  paper: GS3
-  qno: 17
-  marks: 15
-  words: 250
-  text: Discuss global warming and mention its effects on global climate. Explain the control measures to bring down the level
-    of greenhouse gases which cause global warming, in the light of Kyoto Protocol, 1997.
-  source_url: https://www.clearias.com/gs-paper-3-upsc-2022-mains/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: single-source
-- id: GS3-DM-01-M2022-Q18
+- id: GS3-DM-01-M2021-S01
   topic_id: GS3-DM-01
-  year: 2022
+  year: 2021
   paper: GS3
-  qno: 18
-  marks: 15
-  words: 250
-  text: Explain the causes and effects of coastal erosion in India. What are the available coastal management techniques for
-    combating the hazard?
-  source_url: https://www.clearias.com/gs-paper-3-upsc-2022-mains/
+  qno: null
+  marks: null
+  words: null
+  text: Discuss about the vulnerability of India to earthquake related hazards. Give examples including the salient features
+    of major disasters caused by earthquakes in different parts of India during the last three decades.
+  source_url: 'author''s compilation: DisasterManagememtPYQ.pdf'
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
   confidence: single-source
-- id: GS3-SEC-03-M2022-Q19
+- id: GS3-DM-01-M2021-S02
+  topic_id: GS3-DM-01
+  year: 2021
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Describe the various causes and the effects of landslides. Mention the important components of the National Landslide
+    Risk Management Strategy.
+  source_url: 'author''s compilation: DisasterManagememtPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-01-M2021-S01
+  topic_id: GS3-ECO-01
+  year: 2021
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Explain the difference between computing methodology of India’s Gross Domestic Product (GDP) before the year 2015
+    and after the year 2015.
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-01-M2021-S02
+  topic_id: GS3-ECO-01
+  year: 2021
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Do you agree that the Indian economy has recently experienced V-shaped recovery? Give reasons in support of your answer.
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-04-M2021-S01
+  topic_id: GS3-ECO-04
+  year: 2021
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Distinguish between Capital Budget and Revenue Budget. Explain the components of both these Budgets.
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-07-M2021-S01
+  topic_id: GS3-ECO-07
+  year: 2021
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: “Investment in infrastructure is essential for more rapid and inclusive economic growth.” Discuss in the light of
+    India’s experience.
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ENV-02-M2021-S01
+  topic_id: GS3-ENV-02
+  year: 2021
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Describe the key points of the revised Global Air Quality Guidelines (AQGs) recently released by the World Health
+    Organisation (WHO). How are these different from its last update in 2005? What changes in India’s National Clean Air Programme
+    are required to achieve revised standards?
+  source_url: 'author''s compilation: EnvironmentPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ENV-03-M2021-S01
+  topic_id: GS3-ENV-03
+  year: 2021
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Explain the purpose of the Green Grid Initiative launched at World Leaders Summit of the COP26 UN Climate Change Conference
+    in Glasgow in November, 2021. When was this idea first floated in the International Solar Alliance (ISA)?
+  source_url: 'author''s compilation: EnvironmentPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ENV-03-M2021-S02
+  topic_id: GS3-ENV-03
+  year: 2021
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Describe the major outcomes of the 26th session of the Conference of the Parties (COP) to the United Nations Framework
+    Convention on Climate Change (UNFCCC). What are the commitments made by India in this conference?
+  source_url: 'author''s compilation: EnvironmentPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SCI-01-M2021-S01
+  topic_id: GS3-SCI-01
+  year: 2021
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: How is S-400 air defence system technically superior to any other system presently available in the world?
+  source_url: 'author''s compilation: SandTPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+  notes: 'Topic mapping uncertain: defence technology has no dedicated topic'
+- id: GS3-SCI-01-M2021-S02
+  topic_id: GS3-SCI-01
+  year: 2021
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: The Nobel Prize in Physics of 2014 was jointly awarded to Akasaki, Amano and Nakamura for the invention of Blue LEDs
+    in 1990s. How has this invention impacted the everyday life of human beings?
+  source_url: 'author''s compilation: SandTPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SCI-04-M2021-S01
+  topic_id: GS3-SCI-04
+  year: 2021
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: What are the research and developmental achievements in applied biotechnology? How will these achievements help to
+    uplift the poorer sections of the society?
+  source_url: 'author''s compilation: SandTPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SEC-02-M2021-S01
+  topic_id: GS3-SEC-02
+  year: 2021
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Analyse the multidimensional challenges posed by external state and non-state actors, to the internal security of
+    India. Also discuss measures required to be taken to combat these threats.
+  source_url: 'author''s compilation: InternalSecurityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SEC-02-M2021-S02
+  topic_id: GS3-SEC-02
+  year: 2021
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Analyse the complexity and intensity of terrorism, its causes, linkages and obnoxious nexus. Also suggest measures
+    required to be taken to eradicate the menace of terrorism.
+  source_url: 'author''s compilation: InternalSecurityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SEC-03-M2021-S01
   topic_id: GS3-SEC-03
-  year: 2022
+  year: 2021
   paper: GS3
-  qno: 19
-  marks: 15
-  words: 250
-  text: What are the different elements of cyber security? Keeping in view the challenges in cyber security examine the extent
-    to which India has successfully developed a comprehensive National Cyber Security Strategy.
-  source_url: https://www.clearias.com/gs-paper-3-upsc-2022-mains/
+  qno: null
+  marks: null
+  words: null
+  text: Discuss how emerging technologies and globalisation contribute to money laundering. Elaborate measures to tackle the
+    problem of money laundering both at national and international levels.
+  source_url: 'author''s compilation: InternalSecurityPYQ.pdf'
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
   confidence: single-source
-- id: GS3-SEC-01-M2022-Q20
-  topic_id: GS3-SEC-01
-  year: 2022
+- id: GS3-SEC-03-M2021-S02
+  topic_id: GS3-SEC-03
+  year: 2021
   paper: GS3
-  qno: 20
-  marks: 15
-  words: 250
-  text: Naxalism is a social, economic and developmental issue manifesting violent internal security threat. In this context,
-    discuss the emerging issues and suggest a multilayered strategy to tackle the menace of Naxalism
-  source_url: https://www.clearias.com/gs-paper-3-upsc-2022-mains/
+  qno: null
+  marks: null
+  words: null
+  text: Keeping in view of India’s internal security, analyse the impact of cross-border cyber-attacks. Also, discuss defensive
+    measures against these sophisticated attacks.
+  source_url: 'author''s compilation: InternalSecurityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-AGR-01-M2020-S01
+  topic_id: GS3-AGR-01
+  year: 2020
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: What are the major factors responsible for making the rice-wheat system a success? In spite of this success how has
+    this system become bane in India?
+  source_url: 'author''s compilation: AgriculturePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-AGR-01-M2020-S02
+  topic_id: GS3-AGR-01
+  year: 2020
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Suggest measures to improve water storage and irrigation system to make its judicious use under depleting scenario.
+  source_url: 'author''s compilation: AgriculturePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-AGR-01-M2020-S03
+  topic_id: GS3-AGR-01
+  year: 2020
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: What are the salient features of the Jal Shakti Abhiyan launched by the Government of India for water conservation
+    and water security?
+  source_url: 'author''s compilation: EnvironmentPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+  notes: 'Topic mapping uncertain: water conservation/groundwater scheme; no dedicated water-security topic; could be ENV-01'
+- id: GS3-AGR-02-M2020-S01
+  topic_id: GS3-AGR-02
+  year: 2020
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: What are the main constraints in transport and marketing of agricultural produce in India?
+  source_url: 'author''s compilation: AgriculturePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-AGR-04-M2020-S01
+  topic_id: GS3-AGR-04
+  year: 2020
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: What are the challenges and opportunities of the food processing sector in the country? How can the income of the
+    farmers be substantially increased by encouraging food processing?
+  source_url: 'author''s compilation: AgriculturePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-DM-01-M2020-S01
+  topic_id: GS3-DM-01
+  year: 2020
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Discuss the recent measures initiated in disaster management by the Government of India departing from the earlier
+    reactive approach.
+  source_url: 'author''s compilation: DisasterManagememtPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-01-M2020-S01
+  topic_id: GS3-ECO-01
+  year: 2020
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Define potential GDP and explain its determinants. What are the factors that have been inhibiting India from realizing
+    its potential GDP?
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-02-M2020-S01
+  topic_id: GS3-ECO-02
+  year: 2020
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Explain intra-generational and inter-generational issues of equity from the perspective of inclusive growth and sustainable
+    development.
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-04-M2020-S01
+  topic_id: GS3-ECO-04
+  year: 2020
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Explain the rationale behind the Goods and Services Tax (Compensation to States) Act of 2017. How has COVID-19 impacted
+    the GST compensation fund and created new federal tensions?
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-06-M2020-S01
+  topic_id: GS3-ECO-06
+  year: 2020
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Describe the benefits of deriving electric energy from sunlight in contrast to the conventional energy generation.
+    What are the initiatives offered by our government for this purpose?
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-07-M2020-S01
+  topic_id: GS3-ECO-07
+  year: 2020
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Explain the meaning of investment in an economy in terms of capital formation. Discuss the factors to be considered
+    while designing a concession agreement between a public entity and private entity.
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ENV-02-M2020-S01
+  topic_id: GS3-ENV-02
+  year: 2020
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: What are the key features of the National Clean Air Programme (NCAP) initiated by the government of India?
+  source_url: 'author''s compilation: EnvironmentPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ENV-03-M2020-S01
+  topic_id: GS3-ENV-03
+  year: 2020
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: How does the draft Environment Impact Assessment (EIA) Notification, 2020 differ from the existing EIA Notification,
+    2006?
+  source_url: 'author''s compilation: EnvironmentPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SCI-01-M2020-S01
+  topic_id: GS3-SCI-01
+  year: 2020
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: How is science interwoven deeply with our lives? What are the striking changes in agriculture triggered off by science-based
+    technologies?
+  source_url: 'author''s compilation: SandTPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SCI-04-M2020-S01
+  topic_id: GS3-SCI-04
+  year: 2020
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: What do you understand by nanotechnology and how is it helping in health sector?
+  source_url: 'author''s compilation: SandTPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SCI-04-M2020-S02
+  topic_id: GS3-SCI-04
+  year: 2020
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: COVID-19 pandemic has caused unprecedented devastation worldwide. However, technological advancements are being availed
+    readily to win over the crisis. Give an account of how technology was sought to aid management of the pandemic.
+  source_url: 'author''s compilation: SandTPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SEC-01-M2020-S01
+  topic_id: GS3-SEC-01
+  year: 2020
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: What are the determinants of left-wing extremism in Eastern part of India? What strategy should the Government of
+    India, civil administration and security forces adopt to counter the threat in the affected areas?
+  source_url: 'author''s compilation: InternalSecurityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SEC-03-M2020-S01
+  topic_id: GS3-SEC-03
+  year: 2020
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Discuss different types of cyber crimes and measures required to be taken to fight the menace.
+  source_url: 'author''s compilation: InternalSecurityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SEC-04-M2020-S01
+  topic_id: GS3-SEC-04
+  year: 2020
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: For effective border area management, discuss the steps required to be taken to deny local support to militants and
+    also suggest ways to manage favourable perception among locals.
+  source_url: 'author''s compilation: InternalSecurityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SEC-04-M2020-S02
+  topic_id: GS3-SEC-04
+  year: 2020
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Analyze internal security threats and transborder crimes along Myanmar, Bangladesh and Pakistan borders including
+    Line of Control (LoC). Also discuss the role played by various security forces in this regard.
+  source_url: 'author''s compilation: InternalSecurityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-AGR-01-M2018-S01
+  topic_id: GS3-AGR-01
+  year: 2018
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Assess the role of National Horticulture Mission (NHM) in boosting the production, productivity and income of horticulture
+    farms. How far has it succeeded in increasing the income of farmers?
+  source_url: 'author''s compilation: AgriculturePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-AGR-01-M2018-S02
+  topic_id: GS3-AGR-01
+  year: 2018
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: How has the emphasis on certain crops brought about changes in cropping patterns in recent past? Elaborate the emphasis
+    on millets production and consumption.
+  source_url: 'author''s compilation: AgriculturePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-AGR-02-M2018-S01
+  topic_id: GS3-AGR-02
+  year: 2018
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Examine the role of supermarkets in supply chain management of fruits, vegetables, and food items. How do they eliminate
+    number of intermediaries?
+  source_url: 'author''s compilation: AgriculturePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-AGR-03-M2018-S01
+  topic_id: GS3-AGR-03
+  year: 2018
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: What do you mean by Minimum Support Price (MSP)? How will MSP rescue the farmers from the low income trap?
+  source_url: 'author''s compilation: AgriculturePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-AGR-05-M2018-S01
+  topic_id: GS3-AGR-05
+  year: 2018
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Sikkim is the first ‘Organic State’ in India. What are the ecological and economical benefits of Organic State?
+  source_url: 'author''s compilation: EnvironmentPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+  notes: 'Topic mapping uncertain: organic farming not explicit in any micro; closest integrated farming; also ENV angle'
+- id: GS3-DM-01-M2018-S01
+  topic_id: GS3-DM-01
+  year: 2018
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Describe various measures taken in India for Disaster Risk Reduction (DRR) before and after signing ‘Sendai Framework
+    for DRR (2015-30)’. How is this framework different from ‘Hyogo Framework for Action, 2005’?
+  source_url: 'author''s compilation: DisasterManagememtPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-01-M2018-S01
+  topic_id: GS3-ECO-01
+  year: 2018
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: How are principles followed by the NITI Aayog different from those followed by erstwhile Planning Commission in India?
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-04-M2018-S01
+  topic_id: GS3-ECO-04
+  year: 2018
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Comment on the important changes introduced in respect of the Long Term Capital Gains Tax (LTCGT) and Dividend Distribution
+    Tax (DDT) in the Union Budget for 2018-2019.
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-06-M2018-S01
+  topic_id: GS3-ECO-06
+  year: 2018
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: “Access to affordable, reliable, sustainable and modern energy is the sine qua non to achieve Sustainable Development
+    Goals (SDGs).” Comment on the progress made in India in this regard.
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-08-M2018-S01
+  topic_id: GS3-ECO-08
+  year: 2018
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: How would the recent phenomena of protectionism and currency manipulations in world trade affect macroeconomic stability
+    of India?
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ENV-01-M2018-S01
+  topic_id: GS3-ENV-01
+  year: 2018
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: What is wetland? Explain the Ramsar concept of ‘wise use’ in the context of wetland conservation. Cite two examples
+    of Ramsar sites from India.
+  source_url: 'author''s compilation: EnvironmentPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ENV-01-M2018-S02
+  topic_id: GS3-ENV-01
+  year: 2018
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: How does biodiversity vary in India? How is the Biological Diversity Act, 2002 helpful in conservation of flora and
+    fauna?
+  source_url: 'author''s compilation: EnvironmentPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ENV-02-M2018-S01
+  topic_id: GS3-ENV-02
+  year: 2018
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: What are the impediments disposing the huge quantities of discarded solid waste which are continuously being generated?
+    How do we remove safely the toxic wastes that have been accumulated in our habitable environment?
+  source_url: 'author''s compilation: EnvironmentPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SCI-01-M2018-S01
+  topic_id: GS3-SCI-01
+  year: 2018
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Discuss the work of ‘Bose-Einstein Statistics’ done by Prof. Satyendra Nath Bose and show how it revolutionized the
+    field of Physics.
+  source_url: 'author''s compilation: SandTPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+  notes: 'Topic mapping uncertain: contribution of Indian scientists not explicit in any micro'
+- id: GS3-SCI-01-M2018-S02
+  topic_id: GS3-SCI-01
+  year: 2018
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: With growing energy needs should India keep on expanding its nuclear energy programme? Discuss the facts and fears
+    associated with nuclear energy?
+  source_url: 'author''s compilation: SandTPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+  notes: 'Topic mapping uncertain: nuclear energy not explicit; could be ECO-06 (energy)'
+- id: GS3-SCI-04-M2018-S01
+  topic_id: GS3-SCI-04
+  year: 2018
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Why is there so much activity in the field of biotechnology in our country? How has this activity benefitted the field
+    of biopharma?
+  source_url: 'author''s compilation: SandTPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SEC-01-M2018-S01
+  topic_id: GS3-SEC-01
+  year: 2018
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Left Wing Extremism (LWE) is showing a downward trend, but still affects many parts of the country. Briefly explain
+    the Government of India’s approach to counter the challenges posed by LWE.
+  source_url: 'author''s compilation: InternalSecurityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SEC-02-M2018-S01
+  topic_id: GS3-SEC-02
+  year: 2018
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: The China-Pakistan Economic Corridor (CPEC) is viewed as a cardinal subset of China’s larger ‘One Belt One Road’ initiative.
+    Give a brief description of CPEC and enumerate the reasons why India has distanced itself from the same.
+  source_url: 'author''s compilation: InternalSecurityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+  notes: 'Topic mapping uncertain: CPEC description and India''s stance is largely IR (GS2); closest external-actor security
+    topic'
+- id: GS3-SEC-03-M2018-S01
+  topic_id: GS3-SEC-03
+  year: 2018
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Data security has assumed significant importance in the digitized world due to rising cyber crimes. The Justice B.N.
+    Srikrishna Committee Report addresses issues related to data security. What, in your view, are the strengths and weaknesses
+    of the Report relating to protection of personal data in cyber space?
+  source_url: 'author''s compilation: InternalSecurityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SEC-04-M2018-S01
+  topic_id: GS3-SEC-04
+  year: 2018
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: India’s proximity to the two of the world’s biggest illicit opium growing states has enhanced her internal security
+    concerns. Explain the linkages between drug trafficking and other illicit activities such as gunrunning, money laundering
+    and human trafficking. What counter measures should be taken to prevent the same?
+  source_url: 'author''s compilation: InternalSecurityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-AGR-01-M2017-S01
+  topic_id: GS3-AGR-01
+  year: 2017
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Explain various types of revolutions, took place in Agriculture after Independence in India. How these revolutions
+    have helped in poverty alleviation and food security in India?
+  source_url: 'author''s compilation: AgriculturePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-AGR-01-M2017-S02
+  topic_id: GS3-AGR-01
+  year: 2017
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: What are the major reasons for declining rice and wheat yield in the cropping system? How crop diversification is
+    helpful to stabilise the yield of the crops in the system?
+  source_url: 'author''s compilation: AgriculturePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-AGR-01-M2017-S03
+  topic_id: GS3-AGR-01
+  year: 2017
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Not many years ago, river linking was a concept but it is becoming reality in the country. Discuss the advantages
+    of river linking and its possible impact on the environment.
+  source_url: 'author''s compilation: EnvironmentPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+  notes: 'Topic mapping uncertain: river interlinking (irrigation/water) plus environmental impact (ENV-03 EIA)'
+- id: GS3-AGR-03-M2017-S01
+  topic_id: GS3-AGR-03
+  year: 2017
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: How do subsidies affect the cropping pattern, crop diversity and economy of farmers? What is the significance of crop
+    insurance, minimum support price and food processing for small and marginal farmers?
+  source_url: 'author''s compilation: AgriculturePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-AGR-04-M2017-S01
+  topic_id: GS3-AGR-04
+  year: 2017
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: What are the reasons for poor acceptance of cost-effective small processing unit? How the food processing unit will
+    be helpful to uplift the socio-economic status of poor farmers?
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-DM-01-M2017-S01
+  topic_id: GS3-DM-01
+  year: 2017
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: On December 2004, tsunami brought havoc on fourteen countries including India. Discuss the factors responsible for
+    occurrence of tsunami and its effects on life and economy. In the light of guidelines of NDMA (2010) describe the mechanisms
+    for preparedness to reduce the risk during such events.
+  source_url: 'author''s compilation: DisasterManagememtPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-01-M2017-S01
+  topic_id: GS3-ECO-01
+  year: 2017
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Among several factors for India’s potential growth, savings rate is the most effective one. Do you agree? What are
+    the other factors available for growth potential?
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-02-M2017-S01
+  topic_id: GS3-ECO-02
+  year: 2017
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: What are the salient features of ‘inclusive growth’? Has India been experiencing such a growth process? Analyse and
+    suggest measures for inclusive growth.
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-04-M2017-S01
+  topic_id: GS3-ECO-04
+  year: 2017
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: One of the intended objectives of Union-Budget 2017-18 is to ‘transform, energize and clean India’. Analyze the measures
+    proposed in the Budget 2017-18 to achieve the objective.
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-05-M2017-S01
+  topic_id: GS3-ECO-05
+  year: 2017
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Account for the failure of manufacturing sector in achieving the goal of labour-intensive exports. Suggest measures
+    for more labour-intensive rather than capital-intensive exports.
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-05-M2017-S02
+  topic_id: GS3-ECO-05
+  year: 2017
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: “Industrial growth rate has lagged behind in the overall growth of Gross-Domestic-Product (GDP) in the post-reform
+    period” Give reasons. How far the recent changes in Industrial Policy are capable of increasing the industrial growth
+    rate?
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-07-M2017-S01
+  topic_id: GS3-ECO-07
+  year: 2017
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Examine the development of Airports in India through joint ventures under Public – Private Partnership (PPP) model.
+    What are the challenges faced by the authorities in this regard.
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ENV-03-M2017-S01
+  topic_id: GS3-ENV-03
+  year: 2017
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: ‘Climate change’ is a global problem. How India will be affected by climate change? How Himalayan and coastal states
+    of India will be affected by climate change?
+  source_url: 'author''s compilation: EnvironmentPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SCI-01-M2017-S01
+  topic_id: GS3-SCI-01
+  year: 2017
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Give an account of the growth and development of nuclear science and technology in India. What is the advantage of
+    fast breeder reactor programme in India?
+  source_url: 'author''s compilation: SandTPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+  notes: 'Topic mapping uncertain: nuclear S&T/FBR not explicit; closest nuclear tech topic; also ECO-06'
+- id: GS3-SCI-02-M2017-S01
+  topic_id: GS3-SCI-02
+  year: 2017
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: India has achieved remarkable successes in unmanned space missions including the Chandrayaan and Mars Orbiter Mission,
+    but has not ventured into manned space mission. What are the main obstacles to launching a manned space mission, both
+    in terms of technology and logistics? Examine critically.
+  source_url: 'author''s compilation: SandTPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SCI-04-M2017-S01
+  topic_id: GS3-SCI-04
+  year: 2017
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Stem cell therapy is gaining popularity in India to treat a wide variety of medical conditions including Leukaemia,
+    Thalassemia, damaged cornea and several burns. Describe briefly what stem cell therapy is and what advantages it has over
+    other treatments?
+  source_url: 'author''s compilation: SandTPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SEC-01-M2017-S01
+  topic_id: GS3-SEC-01
+  year: 2017
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: The North-Eastern region of India has been infested with insurgency for a very long time. Analyze the major reasons
+    for the survival of armed insurgency in this region.
+  source_url: 'author''s compilation: InternalSecurityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SEC-02-M2017-S01
+  topic_id: GS3-SEC-02
+  year: 2017
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: The scourge of terrorism is a grave challenge to national security. What solutions do you suggest to curb this growing
+    menace? What are the major sources of terrorist funding?
+  source_url: 'author''s compilation: InternalSecurityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SEC-03-M2017-S01
+  topic_id: GS3-SEC-03
+  year: 2017
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Discuss the potential threats of Cyber attack and the security framework to prevent it.
+  source_url: 'author''s compilation: InternalSecurityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SEC-03-M2017-S02
+  topic_id: GS3-SEC-03
+  year: 2017
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Mob violence is emerging as a serious law and order problem in India. By giving suitable examples, analyze the causes
+    and consequences of such violence.
+  source_url: 'author''s compilation: InternalSecurityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+  notes: 'Topic mapping uncertain: mob violence (law and order) has no dedicated topic; closest via social-media rumour angle'
+- id: GS3-AGR-01-M2016-S01
+  topic_id: GS3-AGR-01
+  year: 2016
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: What is water-use efficiency? Describe the role of micro-irrigation in increasing the water-use efficiency.
+  source_url: 'author''s compilation: AgriculturePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-AGR-01-M2016-S02
+  topic_id: GS3-AGR-01
+  year: 2016
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: What is allelopathy? Discuss its role in major cropping systems of irrigated agriculture.
+  source_url: 'author''s compilation: AgriculturePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-AGR-03-M2016-S01
+  topic_id: GS3-AGR-03
+  year: 2016
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Given the vulnerability of Indian agriculture to vagaries of nature, discuss the need for crop insurance and bring
+    out the salient features of the Pradhan Mantri Fasal Bima Yojana (PMFBY).
+  source_url: 'author''s compilation: AgriculturePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+  notes: 'Topic mapping uncertain: Crop insurance/PMFBY has no explicit micro-topic; closest is government supports to farmers'
+- id: GS3-AGR-05-M2016-S01
+  topic_id: GS3-AGR-05
+  year: 2016
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Discuss the role of land reforms in agricultural development Identify the factors that were responsible for the success
+    of land reforms in India.
+  source_url: 'author''s compilation: AgriculturePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-AGR-05-M2016-S02
+  topic_id: GS3-AGR-05
+  year: 2016
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Livestock rearing has a big potential for providing non-farm employment and income in rural areas. Discuss suggesting
+    suitable measures to promote this sector in India.
+  source_url: 'author''s compilation: AgriculturePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-AGR-05-M2016-S03
+  topic_id: GS3-AGR-05
+  year: 2016
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: In view of the declining average size of land holdings in India which has made agriculture non–viable for a majority
+    of farmers, should contract farming and land leasing be promoted in agriculture? Critically evaluate the pros and cons.
+  source_url: 'author''s compilation: AgriculturePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-DM-01-M2016-S01
+  topic_id: GS3-DM-01
+  year: 2016
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: The frequency of urban floods due to high intensity rainfall is increasing over the years. Discussing the reasons
+    for urban floods, highlight the mechanisms for preparedness to reduce the risk during such events.
+  source_url: 'author''s compilation: DisasterManagememtPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-DM-01-M2016-S02
+  topic_id: GS3-DM-01
+  year: 2016
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: With reference to National Disaster Management Authority (NDMA) guidelines, discuss the measures to be adopted to
+    mitigate the impact of recent incidents of cloudbursts in many places of Uttarakhand.
+  source_url: 'author''s compilation: DisasterManagememtPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-01-M2016-S01
+  topic_id: GS3-ECO-01
+  year: 2016
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: How globalization has led to the reduction of employment in the formal sector of the Indian economy? Is increased
+    informalization detrimental to the development of the country?
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-02-M2016-S01
+  topic_id: GS3-ECO-02
+  year: 2016
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Comment on the challenges for inclusive growth which include careless and useless manpower in the Indian context.
+    Suggest measures to be taken for facing these challenges.
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-03-M2016-S01
+  topic_id: GS3-ECO-03
+  year: 2016
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Pradhan Mantri Jan Dhan Yojana (PMJDY) is necessary for bringing unbanked to the institutional finance fold. Do you
+    agree with this for financial inclusion of the poor section of the Indian society? Give arguments to justify your opinion.
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-04-M2016-S01
+  topic_id: GS3-ECO-04
+  year: 2016
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Women empowerment in India needs gender budgeting. What are the requirements and status of gender budgeting in the
+    Indian context?
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-05-M2016-S01
+  topic_id: GS3-ECO-05
+  year: 2016
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Justify the need for FDI for the development of the Indian economy. Why there is gap between MoUs signed and actual
+    FDIs? Suggest remedial steps to be taken for increasing actual FDIs in India.
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-06-M2016-S01
+  topic_id: GS3-ECO-06
+  year: 2016
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Give an account of the current status and the targets to be achieved pertaining to renewable energy sources in the
+    country. Discuss in brief the importance of National Programme on Light Emitting Diodes (LEDs).
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-07-M2016-S01
+  topic_id: GS3-ECO-07
+  year: 2016
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: What are ‘Smart Cities’? Examine their relevance for urban development in India. Will it increase rural- urban differences?
+    Give arguments for ’Smart Villages’ in the light of PURA and RURBAN Mission.
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+  notes: 'Topic mapping uncertain: Smart Cities/urban development has no dedicated topic; closest is infrastructure investment
+    models'
+- id: GS3-ENV-03-M2016-S01
+  topic_id: GS3-ENV-03
+  year: 2016
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Rehabilitation of human settlements is one of the important environmental impacts which always attracts controversy
+    while planning major projects. Discuss the measures suggested for mitigation of this impact while proposing major developmental
+    projects.
+  source_url: 'author''s compilation: EnvironmentPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SCI-02-M2016-S01
+  topic_id: GS3-SCI-02
+  year: 2016
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Discuss India’s achievements in the field of Space Science and Technology. How the application of this technology
+    has helped India in its socio-economic development?
+  source_url: 'author''s compilation: SandTPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SCI-04-M2016-S01
+  topic_id: GS3-SCI-04
+  year: 2016
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Why is nanotechnology one of the key technologies of the 21st century? Describe the salient features of Indian Government’s
+    Mission on Nanoscience and Technology and the scope of its application in the development process of the country.
+  source_url: 'author''s compilation: SandTPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SEC-02-M2016-S01
+  topic_id: GS3-SEC-02
+  year: 2016
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: The terms ‘Hot Pursuit’ and ‘Surgical Strikes’ are often used in connection with armed action against terrorist attacks.
+    Discuss the strategic impact of such actions.
+  source_url: 'author''s compilation: InternalSecurityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SEC-02-M2016-S02
+  topic_id: GS3-SEC-02
+  year: 2016
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: ‘Terrorism is emerging as a competitive industry over the last few decades.” Analyse the above statement.
+  source_url: 'author''s compilation: InternalSecurityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SEC-03-M2016-S01
+  topic_id: GS3-SEC-03
+  year: 2016
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Use of internet and social media by non-state actors for subversive activities is a major security concern. How have
+    these been misused in the recent past? Suggest effective guidelines to curb the above threat.
+  source_url: 'author''s compilation: InternalSecurityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SEC-04-M2016-S01
+  topic_id: GS3-SEC-04
+  year: 2016
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Border management is a complex task due to difficult terrain and hostile relations with some countries. Elucidate
+    the challenges and strategies for effective border management.
+  source_url: 'author''s compilation: InternalSecurityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-AGR-02-M2015-S01
+  topic_id: GS3-AGR-02
+  year: 2015
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: How can the ‘Digital India’ programme help farmers to improve farm productivity and income? What steps has the Government
+    taken in this regard?
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-AGR-04-M2015-S01
+  topic_id: GS3-AGR-04
+  year: 2015
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: What are the impediments in marketing and supply chain management in developing the food processing industry in India?
+    Can e-commerce help in overcoming these bottlenecks?
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-DM-01-M2015-S01
+  topic_id: GS3-DM-01
+  year: 2015
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: The frequency of earthquakes appears to have increased in the Indian subcontinent. However, India’s preparedness for
+    mitigating their impact has significant gaps. Discuss various aspects.
+  source_url: 'author''s compilation: DisasterManagememtPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-01-M2015-S01
+  topic_id: GS3-ECO-01
+  year: 2015
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: The nature of economic growth in India in recent times is often described as jobless growth. Do you agree with this
+    view? Give arguments in favour of your answer.
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-04-M2015-S01
+  topic_id: GS3-ECO-04
+  year: 2015
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: In what way could replacement of price subsidy with Direct Benefit Transfer (DBT) change the scenario of subsidies
+    in India? Discuss.
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+  notes: 'Topic mapping uncertain: Subsidy reform via DBT spans fiscal (GS3-ECO-04), agri subsidies (GS3-AGR-03) and social
+    spending (GS3-ECO-02)'
+- id: GS3-ECO-05-M2015-S01
+  topic_id: GS3-ECO-05
+  year: 2015
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: “Success of ‘Make in India’ programme depends on the success of ‘Skill India’ programme and radical labour reforms.”
+    Discuss with logical arguments.
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-05-M2015-S02
+  topic_id: GS3-ECO-05
+  year: 2015
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: There is a clear acknowledgement that Special Economic Zones (SEZs) are a tool of industrial development, manufacturing
+    and exports. Recognising this potential, the whole instrumentality of SEZs require augmentation. Discuss the issues plaguing
+    the success of SEZs with respect to taxation, governing laws and administration.
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-06-M2015-S01
+  topic_id: GS3-ECO-06
+  year: 2015
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: To what factors can the recent dramatic fall in equipment costs and tariff of solar energy be attributed? What implications
+    does the trend have for the thermal power producers and the related industry?
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-08-M2015-S01
+  topic_id: GS3-ECO-08
+  year: 2015
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Craze for gold in Indians has led to a surge in import of gold in recent years and put pressure on balance of payments
+    and external value of rupee. In view of this, examine the merits of Gold Monetization Scheme.
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ENV-02-M2015-S01
+  topic_id: GS3-ENV-02
+  year: 2015
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Discuss the Namami Gange and National Mission for Clean Ganga (NMCG) programmes and causes of mixed results from the
+    previous schemes. What quantum leaps can help preserve the river Ganga better than incremental inputs?
+  source_url: 'author''s compilation: EnvironmentPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SCI-02-M2015-S01
+  topic_id: GS3-SCI-02
+  year: 2015
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: What do you understand by ‘Standard Positioning System’ and ‘Precision Positioning System’ in the GPS era? Discuss
+    the advantages India perceives from its ambitious IRNSS programme employing just seven satellites.
+  source_url: 'author''s compilation: SandTPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SCI-03-M2015-S01
+  topic_id: GS3-SCI-03
+  year: 2015
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: What are the areas of prohibitive labour that can be sustainably managed by robots? Discuss the initiatives that can
+    propel research in premier research institutes for substantive and gainful innovation.
+  source_url: 'author''s compilation: SandTPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SCI-05-M2015-S01
+  topic_id: GS3-SCI-05
+  year: 2015
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: India’s Traditional Knowledge Digital Library (TKDL), which has a database containing formatted information on more
+    than 2 million medicinal formulations is proving a powerful weapon in country’s fight against erroneous patents. Discuss
+    the pros and cons of making this database publicly available under open-source licensing.
+  source_url: 'author''s compilation: SandTPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SEC-01-M2015-S01
+  topic_id: GS3-SEC-01
+  year: 2015
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: The persisting drives of the Government for development of large industries in backward areas have resulted in isolating
+    the tribal population and the farmers who face multiple displacements. With Malkangiri and Naxalbari foci, discuss the
+    corrective strategies needed to win the Left Wing Extremism (LWE) doctrine affected citizens back into the mainstream
+    of social and economic growth.
+  source_url: 'author''s compilation: InternalSecurityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SEC-02-M2015-S01
+  topic_id: GS3-SEC-02
+  year: 2015
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Religious indoctrination via digital media has resulted in Indian youth joining the ISIS. What is ISIS and its mission?
+    How can ISIS be dangerous to the internal security of our country?
+  source_url: 'author''s compilation: InternalSecurityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SEC-03-M2015-S01
+  topic_id: GS3-SEC-03
+  year: 2015
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Discuss the advantages and security implications of cloud hosting of servers vis-a-vis in-house machine- based hosting
+    for government businesses.
+  source_url: 'author''s compilation: InternalSecurityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SEC-03-M2015-S02
+  topic_id: GS3-SEC-03
+  year: 2015
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Considering the threats cyberspace poses for the country, India needs a “Digital Armed Forces” to prevent crimes.
+    Critically evaluate the National Cyber Security Policy, 2013 outlining the challenges perceived in its effective implementation.
+  source_url: 'author''s compilation: InternalSecurityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SEC-05-M2015-S01
+  topic_id: GS3-SEC-05
+  year: 2015
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Human right activists constantly highlight the view that the Armed Forces (Special Powers) Act, 1958 (AFSPA) is a
+    draconian act leading to cases of human rights abuses by the security forces. What sections of AFSPA are opposed by the
+    activists? Critically evaluate the requirement with reference to the view held by the Apex Court.
+  source_url: 'author''s compilation: InternalSecurityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-AGR-02-M2014-S01
+  topic_id: GS3-AGR-02
+  year: 2014
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: There is also a point of view that Agricultural Produce Market Committees (APMCs) set up under the State Acts have
+    not only impeded the development of agriculture but also have been the cause of food inflation in India. Critically examine.
+  source_url: 'author''s compilation: AgriculturePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-AGR-05-M2014-S01
+  topic_id: GS3-AGR-05
+  year: 2014
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: The Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013 has
+    come into effect from 1st January, 2014. What are the key issues which would get addressed with the Act in place? What
+    implications would it have on industrialization and agriculture in India?
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+  notes: 'Topic mapping uncertain: Land acquisition (LARR Act) not explicitly listed; closest to land reforms, industrialisation
+    angle touches GS3-ECO-05'
+- id: GS3-DM-01-M2014-S01
+  topic_id: GS3-DM-01
+  year: 2014
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Drought has been recognized as a disaster in view of its spatial expanse, temporal duration, slow onset and lasting
+    effects on vulnerable sections. With a focus on the September 2010 guidelines from the National Disaster Management Authority
+    (NDMA), discuss the mechanisms for preparedness to deal with likely El Niño and La Niña fallouts in India.
+  source_url: 'author''s compilation: DisasterManagememtPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-01-M2014-S01
+  topic_id: GS3-ECO-01
+  year: 2014
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Normally countries shift from agriculture to industry and then later to services, but India shifted directly from
+    agriculture to services. What are the reasons for the huge growth of services vis-à-vis industry in the country? Can India
+    become a developed country without a strong industrial base?
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-01-M2014-S02
+  topic_id: GS3-ECO-01
+  year: 2014
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: “While we flaunt India’s demographic dividend, we ignore the dropping rates of employability.” What are we missing
+    while doing so? Where will the jobs that India desperately needs come from? Explain.
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-02-M2014-S01
+  topic_id: GS3-ECO-02
+  year: 2014
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Capitalism has guided the world economy to unprecedented prosperity. However, it often encourages short-sightedness
+    and contributes to wide disparities between the rich and the poor. In this light, would it be correct to believe and adopt
+    capitalism for bringing inclusive growth in India? Discuss.
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-03-M2014-S01
+  topic_id: GS3-ECO-03
+  year: 2014
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: “In the villages itself no form of credit organization will be suitable except the cooperative society.” — All India
+    Rural Credit Survey. Discuss this statement in the background of agricultural finance in India. What constraints and challenges
+    do financial institutions supplying agricultural finance face? How can technology be used to better reach and serve rural
+    clients?
+  source_url: 'author''s compilation: AgriculturePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-05-M2014-S01
+  topic_id: GS3-ECO-05
+  year: 2014
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Foreign Direct Investment (FDI) in the defence sector is now set to be liberalized. What influence this is expected
+    to have on Indian defence and economy in the short and long run?
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-07-M2014-S01
+  topic_id: GS3-ECO-07
+  year: 2014
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Explain how Private Public Partnership arrangements, in long gestation infrastructure projects, can transfer unsustainable
+    liabilities to the future. What arrangements need to be put in place to ensure that successive generations’ capacities
+    are not compromised?
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-07-M2014-S02
+  topic_id: GS3-ECO-07
+  year: 2014
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: National Urban Transport Policy emphasises on ‘moving people’ instead of ‘moving vehicles’. Discuss critically the
+    success of the various strategies of the Government in this regard.
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ENV-03-M2014-S01
+  topic_id: GS3-ENV-03
+  year: 2014
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Should the pursuit of carbon credits and clean development mechanisms set up under UNFCCC-be maintained even though
+    there has been a massive slide in the value of a carbon credit? Discuss with respect to India’s energy needs for economic
+    growth.
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ENV-03-M2014-S02
+  topic_id: GS3-ENV-03
+  year: 2014
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Environmental Impact Assessment studies are increasingly undertaken before a project is cleared by the Government.
+    Discuss the environmental impacts of coal-fired thermal plants located at coal pitheads.
+  source_url: 'author''s compilation: EnvironmentPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SCI-01-M2014-S01
+  topic_id: GS3-SCI-01
+  year: 2014
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Scientific research in Indian universities is declining, because a career in science is not as attractive as are business
+    professions, engineering or administration, and the universities are becoming consumer- oriented. Critically comment.
+  source_url: 'author''s compilation: SandTPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+  notes: 'Topic mapping uncertain: research ecosystem in universities not explicit in any micro'
+- id: GS3-SCI-04-M2014-S01
+  topic_id: GS3-SCI-04
+  year: 2014
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Can overuse and free availability of antibiotics without Doctor’s prescription, be contributors to the emergence of
+    drug-resistant diseases in India? What are the available mechanisms for monitoring and control? Critically discuss the
+    various issues involved.
+  source_url: 'author''s compilation: SandTPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SCI-05-M2014-S01
+  topic_id: GS3-SCI-05
+  year: 2014
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: In a globalized world, Intellectual Property Rights assume significance and are a source of litigation. Broadly distinguish
+    between the terms—Copyrights, Patents and Trade Secrets.
+  source_url: 'author''s compilation: SandTPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SEC-02-M2014-S01
+  topic_id: GS3-SEC-02
+  year: 2014
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: “The diverse nature of India as a multi-religious and multi-ethnic society is not immune to the impact of radicalism
+    which is seen in her neighbourhood.” Discuss along with strategies to be adopted to counter this environment.
+  source_url: 'author''s compilation: InternalSecurityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SEC-02-M2014-S02
+  topic_id: GS3-SEC-02
+  year: 2014
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: China and Pakistan have entered into an agreement for development of an economic corridor. What threat does this pose
+    for India’s security? Critically examine.
+  source_url: 'author''s compilation: InternalSecurityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SEC-04-M2014-S01
+  topic_id: GS3-SEC-04
+  year: 2014
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: International civil aviation laws provide all countries complete and exclusive sovereignty over the airspace above
+    their territory. What do you understand by ‘airspace? What are the implications of these laws on the space above this
+    airspace? Discuss the challenges which this poses and suggest ways to contain the threat.
+  source_url: 'author''s compilation: InternalSecurityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+  notes: 'Topic mapping uncertain: airspace sovereignty/international aviation law; no dedicated topic; closest border/airspace
+    security'
+- id: GS3-SEC-04-M2014-S02
+  topic_id: GS3-SEC-04
+  year: 2014
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: How does illegal transborder migration pose a threat to India’s security? Discuss the strategies to curb this, bringing
+    out the factors which give impetus to such migration.
+  source_url: 'author''s compilation: InternalSecurityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SEC-04-M2014-S03
+  topic_id: GS3-SEC-04
+  year: 2014
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: In 2012, the longitudinal marking for high-risk areas for piracy was moved from 65 degrees east to 78 degrees east
+    in the Arabian Sea by the International Maritime Organization. What impact does this have on India’s maritime security
+    concerns?
+  source_url: 'author''s compilation: InternalSecurityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-AGR-03-M2013-S01
+  topic_id: GS3-AGR-03
+  year: 2013
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: What are the different types of agriculture subsidies given to farmers at the national and at state levels? Critically
+    analyse the agricultural subsidy regime with reference to the distortions created by it.
+  source_url: 'author''s compilation: AgriculturePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-AGR-03-M2013-S02
+  topic_id: GS3-AGR-03
+  year: 2013
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Food Security Bill is expected to eliminate hunger and malnutrition in India. Critically discuss various apprehensions
+    in its effective implementation along with the concerns it has generated in WTO.
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-AGR-04-M2013-S01
+  topic_id: GS3-AGR-04
+  year: 2013
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: India needs to strengthen measures to promote the pink revolution in food industry for ensuring better nutrition and
+    health. Critically elucidate the statement.
+  source_url: 'author''s compilation: AgriculturePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-AGR-05-M2013-S01
+  topic_id: GS3-AGR-05
+  year: 2013
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: 'Establish relationship between land reforms, agriculture productivity and elimination of poverty in the Indian economy.
+    Discuss the difficulties in designing and implementation of agriculture friendly land reforms in India. PDF Refernece
+    URL: https://www.drishtiias.com/printpdf/previous-years-paper-agriculture Powered by TCPDF (www.tcpdf.org)'
+  source_url: 'author''s compilation: AgriculturePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-DM-01-M2013-S01
+  topic_id: GS3-DM-01
+  year: 2013
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: 'How important are vulnerability and risk assessment for pre-disaster management? As an administrator, what are key
+    areas that you would focus on in a Disaster Management System. PDF Refernece URL: https://www.drishtiias.com/printpdf/previous-years-paper-disaster-management
+    Powered by TCPDF (www.tcpdf.org)'
+  source_url: 'author''s compilation: DisasterManagememtPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-02-M2013-S01
+  topic_id: GS3-ECO-02
+  year: 2013
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: With a consideration towards the strategy of inclusive growth, the new Companies Bill, 2013 has indirectly made CSR
+    a mandatory obligation. Discuss the challenges expected in its implementation in right earnest. Also discuss other provisions
+    in the Bill and their implications.
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+  notes: 'Topic mapping uncertain: Companies Act/CSR has no dedicated topic; framed around inclusive growth'
+- id: GS3-ECO-04-M2013-S01
+  topic_id: GS3-ECO-04
+  year: 2013
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: What were the reasons for the introduction of Fiscal Responsibility and Budget Management (FRBM) Act, 2003? Discuss
+    critically its salient features and their effectiveness.
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-04-M2013-S02
+  topic_id: GS3-ECO-04
+  year: 2013
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: What is the meaning of the term ‘tax expenditure’? Taking housing sector as an example, discuss how it influences
+    the budgetary policies of the government.
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-04-M2013-S03
+  topic_id: GS3-ECO-04
+  year: 2013
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Discuss the rationale for introducing Goods and Services Tax (GST) in India. Bring out critically the reasons for
+    the delay in roll out for its regime.
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-05-M2013-S01
+  topic_id: GS3-ECO-05
+  year: 2013
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Examine the impact of liberalization on companies owned by Indians. Are they competing with the MNCs satisfactorily?
+    Discuss.
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-05-M2013-S02
+  topic_id: GS3-ECO-05
+  year: 2013
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: (a) Discuss the impact of FDI entry into Multi-trade retail sector on supply chain management in commodity trade pattern
+    of the economy. (b) Though India allowed Foreign Direct Investment (FDI) in what is called multi-brand retail through
+    the joint venture route in September 2012, the FDI, even after a year, has not picked up. Discuss the reasons.
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-06-M2013-S01
+  topic_id: GS3-ECO-06
+  year: 2013
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Write a note on India’s green energy corridor to alleviate the problem of conventional energy.
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ECO-07-M2013-S01
+  topic_id: GS3-ECO-07
+  year: 2013
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: 'Adoption of PPP model for infrastructure development of the country has not been free of criticism. Critically discuss
+    pros and cons of the model. PDF Refernece URL: https://www.drishtiias.com/printpdf/previous-years-paper-economic-development
+    Powered by TCPDF (www.tcpdf.org)'
+  source_url: 'author''s compilation: EconomicPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ENV-02-M2013-S01
+  topic_id: GS3-ENV-02
+  year: 2013
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: What are the consequences of Illegal mining? Discuss the Ministry of Environment and Forests’ concept of GO AND NO
+    GO zones for coal mining sector.
+  source_url: 'author''s compilation: EnvironmentPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-ENV-02-M2013-S02
+  topic_id: GS3-ENV-02
+  year: 2013
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: 'Enumerate the National Water Policy of India. Taking river Ganges as an example, discuss the strategies which may
+    be adopted for river water pollution control and management. What are the legal provisions of management and handling
+    of hazardous wastes in India? PDF Refernece URL: https://www.drishtiias.com/printpdf/previous-years-paper-environment-and-ecology
+    Powered by TCPDF (www.tcpdf.org)'
+  source_url: 'author''s compilation: EnvironmentPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SCI-01-M2013-S01
+  topic_id: GS3-SCI-01
+  year: 2013
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: What do you understand by Umpire Decision Review System in Cricket? Discuss its various components. Explain how silicone
+    tape on the edge of a bat may fool the system?
+  source_url: 'author''s compilation: SandTPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SCI-01-M2013-S02
+  topic_id: GS3-SCI-01
+  year: 2013
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: '(a) What is an FRP composite material? How are they manufactured? Discuss their applications in aviation and automobile
+    industries. (b) What do you understand by Run-of-river hydroelectricity project? How is it different from any other hydroelectricity
+    project? PDF Refernece URL: https://www.drishtiias.com/printpdf/previous-years-paper-science-technology Powered by TCPDF
+    (www.tcpdf.org)'
+  source_url: 'author''s compilation: SandTPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+  notes: 'Topic mapping uncertain: FRP composites (materials) and run-of-river hydro (ECO-06); no exact fit'
+- id: GS3-SCI-03-M2013-S01
+  topic_id: GS3-SCI-03
+  year: 2013
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: (a) What is a digital signature? What does its authentication mean? Give various salient built-in features of a digital
+    signature. (b) How does the 3D printing technology work? List out the advantages and disadvantages of the technology.
+  source_url: 'author''s compilation: SandTPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SCI-04-M2013-S01
+  topic_id: GS3-SCI-04
+  year: 2013
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: What do you understand by Fixed Dose Drug Combinations (FDCs)? Discuss their merits and demerits.
+  source_url: 'author''s compilation: SandTPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SCI-05-M2013-S01
+  topic_id: GS3-SCI-05
+  year: 2013
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Bringing out the circumstances in 2005 which forced amendment to the section 3(d) in Indian Patent Law, 1970, discuss
+    how it has been utilized by the Supreme Court in its judgement in rejecting Novratis’ patent application for ‘Glivec’.
+    Discuss briefly the pros and cons of the decision.
+  source_url: 'author''s compilation: SandTPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SEC-01-M2013-S01
+  topic_id: GS3-SEC-01
+  year: 2013
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Article 244 of the Indian Constitution relates to administration of scheduled areas and tribal areas. Analyse the
+    impact of non-implementation of the provisions of the Fifth schedule on the growth of Left Wing extremism.
+  source_url: 'author''s compilation: InternalSecurityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SEC-03-M2013-S01
+  topic_id: GS3-SEC-03
+  year: 2013
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Money laundering poses a serious security threat to a country’s economic sovereignty. What is its significance for
+    India and what steps are required to be taken to control this menace?
+  source_url: 'author''s compilation: InternalSecurityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SEC-03-M2013-S02
+  topic_id: GS3-SEC-03
+  year: 2013
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: What are social networking sites and what security implications do these sites present?
+  source_url: 'author''s compilation: InternalSecurityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SEC-03-M2013-S03
+  topic_id: GS3-SEC-03
+  year: 2013
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: Cyber warfare is considered by some defense analysts to be a larger threat than even Al Qaeda or terrorism. What do
+    you understand by Cyber warfare? Outline the cyber threats which India is vulnerable to and bring out the state of the
+    country’s preparedness to deal with the same.
+  source_url: 'author''s compilation: InternalSecurityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS3-SEC-04-M2013-S01
+  topic_id: GS3-SEC-04
+  year: 2013
+  paper: GS3
+  qno: null
+  marks: null
+  words: null
+  text: 'How far are India’s internal security challenges linked with border management particularly in view of the long porous
+    borders with most countries of South Asia and Myanmar? PDF Refernece URL: https://www.drishtiias.com/printpdf/previous-years-paper-internal-security
+    Powered by TCPDF (www.tcpdf.org)'
+  source_url: 'author''s compilation: InternalSecurityPYQ.pdf'
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
   confidence: single-source

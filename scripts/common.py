@@ -13,7 +13,8 @@ ROOT = Path(__file__).resolve().parent.parent
 IST = timezone(timedelta(hours=5, minutes=30))
 
 TOPIC_ID_RE = re.compile(r"^GS[123]-[A-Z]{2,3}-\d{2}$")
-PYQ_ID_RE = re.compile(r"^(GS[123]-[A-Z]{2,3}-\d{2})-M(\d{4})-Q(\d{2})$")
+# Q<NN> = question number in the paper; S<NN> = sequence within topic+year when the paper number is unknown.
+PYQ_ID_RE = re.compile(r"^(GS[123]-[A-Z]{2,3}-\d{2})-M(\d{4})-([QS])(\d{2})$")
 TITLE_ID_RE = re.compile(r"^\[(GS[123]-[A-Z]+-\d{2})\]")
 WORD_RE = re.compile(r"\b[\w'-]+\b")
 BULLET_RE = re.compile(r"^\s*(?:[-*+]|\d+[.)])\s+\S")
@@ -31,6 +32,8 @@ SUBJECT_TITLES = {
 }
 MILESTONES = {"M1 · Nov 13": date(2026, 11, 13), "M2 · Dec 13": date(2026, 12, 13),
               "M3 · Jan 13": date(2027, 1, 13), "M4 · Feb 13": date(2027, 2, 13)}
+REQUIRED_FROM_YEAR = 2022  # older PYQs are listed for practice; CI requires answers from this year on
+RECENT_LABEL = "2022–25"   # window the hand-written strategy text was based on
 IMAGE_EXTS = {".jpg", ".jpeg", ".png", ".webp"}
 MAX_IMAGE_BYTES = 1_500_000
 
@@ -60,18 +63,21 @@ def strategy_markdown(topic_id: str, heading_level: int = 3) -> str:
     if not s:
         return ""
     qs = pyqs_for(topic_id)
-    by_year: dict[int, list[str]] = {}
-    for q in sorted(qs, key=lambda q: (q["year"], q["qno"])):
-        by_year.setdefault(q["year"], []).append(f"{q['marks']}M")
-    years = min((q["year"] for q in load_pyqs()), default=0), max((q["year"] for q in load_pyqs()), default=0)
-    span = f"{years[0]}–{years[1]}"
-    weight = ("very high" if len(qs) >= 5 else "high" if len(qs) >= 3 else "medium" if len(qs) == 2
-              else "low–medium" if qs else "low (not asked)")
-    hist = "; ".join(f"{y} ({', '.join(m)})" for y, m in by_year.items()) or "none"
+    recent = [q for q in qs if q["year"] >= REQUIRED_FROM_YEAR]
+    years = sorted({q["year"] for q in load_pyqs()})
+    recent_span = f"{REQUIRED_FROM_YEAR}–{str(years[-1])[2:]}" if years else ""
+    all_span = f"{years[0]}–{str(years[-1])[2:]}" if years else ""
+    weight = ("very high" if len(recent) >= 5 else "high" if len(recent) >= 3 else "medium" if len(recent) == 2
+              else "low–medium" if recent else "low")
+    per_year = {}
+    for q in qs:
+        per_year[q["year"]] = per_year.get(q["year"], 0) + 1
+    hist = ", ".join(f"{y}×{n}" if n > 1 else str(y) for y, n in sorted(per_year.items(), reverse=True)) or "none"
     h = "#" * heading_level
-    out = [f"{h} Strategy", "", f"**PYQ weight {span}: {weight}** — {len(qs)} question{'s' if len(qs) != 1 else ''}: {hist}.",
-           "", f"**Pattern:** {s['pattern']}", ""]
-    for key, label in (("read_for", "Read for"), ("answer", "Answer approach"), ("untested", f"Not asked in {span}")):
+    out = [f"{h} Strategy", "",
+           f"**PYQ weight: {weight}** — {len(recent)} in {recent_span}, {len(qs)} in {all_span} ({hist}).",
+           "", f"**Pattern ({RECENT_LABEL}):** {s['pattern']}", ""]
+    for key, label in (("read_for", "Read for"), ("answer", "Answer approach"), ("untested", f"Not asked in {RECENT_LABEL}")):
         if s.get(key):
             out += [f"**{label}:**", ""] + [f"- {x}" for x in s[key]] + [""]
     return "\n".join(out).rstrip() + "\n"
@@ -82,11 +88,18 @@ def topics_by_id() -> dict[str, dict]:
 
 
 def pyqs_for(topic_id: str, required_only: bool = False) -> list[dict]:
-    """PYQs for a topic, newest first. required_only drops entries whose text is not imported yet."""
+    """PYQs for a topic, newest first. required_only keeps imported text from REQUIRED_FROM_YEAR on."""
     qs = [q for q in load_pyqs() if q["topic_id"] == topic_id]
     if required_only:
-        qs = [q for q in qs if q.get("confidence") != "text-pending" and q.get("text")]
-    return sorted(qs, key=lambda q: (-q["year"], q["qno"]))
+        qs = [q for q in qs if q.get("confidence") != "text-pending" and q.get("text")
+              and q["year"] >= REQUIRED_FROM_YEAR]
+    return sorted(qs, key=lambda q: (-q["year"], q["id"]))
+
+
+def marks_label(q: dict) -> str:
+    if q.get("marks") and q.get("words"):
+        return f"{q['marks']:g}M/{q['words']}w"
+    return f"{q['words']}w" if q.get("words") else "—"
 
 
 def note_path(t: dict) -> Path:

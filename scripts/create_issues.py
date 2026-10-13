@@ -18,8 +18,8 @@ import sys
 import tempfile
 import time
 
-from common import (MILESTONES, ROOT, TITLE_ID_RE, TOPIC_ID_RE, answers_dir, load_pyqs, load_strategy, load_topics,
-                    note_path, pyqs_for, strategy_markdown, topics_by_id)
+from common import (MILESTONES, REQUIRED_FROM_YEAR, ROOT, TITLE_ID_RE, TOPIC_ID_RE, answers_dir, load_pyqs,
+                    load_strategy, load_topics, marks_label, note_path, pyqs_for, strategy_markdown, topics_by_id)
 
 DOD = """1. Notes in your own words have a `## mN · …` section for every micro-topic (≥80 words or ≥5 bullets each), with ≥2 data points/reports and recent events worked in.
 2. Every PYQ below (text imported) has a `## <PYQ-ID>` section in `pyqs.md`: the question quoted verbatim and a scan of your timed, handwritten answer (7 min / 10-marker, 11 min / 15-marker).
@@ -36,6 +36,18 @@ def labels_for(t: dict) -> list[str]:
     return [t["paper"], f"subj:{t['subject']}", f"priority:{t['priority']}", f"size:{t['size']}"]
 
 
+def pyq_table(qs: list[dict]) -> list[str]:
+    rows = ["| ID | Year | Marks | Question | |", "|---|---|---|---|---|"]
+    for q in qs:
+        if q.get("text"):
+            text = q["text"].replace("|", "\\|")
+            flag = "✅" if q.get("verified") else "⚠️"
+        else:
+            text, flag = f"*Text pending import — see [{q['source_url']}]({q['source_url']})*", "⏳"
+        rows.append(f"| `{q['id']}` | {q['year']} | {marks_label(q)} | {text} | {flag} |")
+    return rows
+
+
 def render_body(t: dict) -> str:
     lines = official_lines()
     tid = t["topic_id"]
@@ -45,20 +57,17 @@ def render_body(t: dict) -> str:
             f"`notes/{t['paper']}/{t['subject']}/{tid}.md`.", ""]
     out += [f"- [ ] **{m['id']}** · {m['text']}" for m in t["micro_syllabus"]] + [""]
     qs = pyqs_for(tid)
-    out += [f"### PYQs ({len(qs)})", ""]
-    if qs:
+    recent = [q for q in qs if q["year"] >= REQUIRED_FROM_YEAR]
+    older = [q for q in qs if q["year"] < REQUIRED_FROM_YEAR]
+    out += [f"### PYQs ({len(recent)} to answer, {len(older)} older for practice)", ""]
+    if recent:
         out += [f"Answer each in `answers/{t['paper']}/{tid}/pyqs.md`. ⚠️ = not yet checked against the official "
-                "UPSC PDF; ⏳ = text not imported yet (not required by CI).", "",
-                "| ID | Year | Marks | Question | |", "|---|---|---|---|---|"]
-        for q in qs:
-            if q.get("text"):
-                text = q["text"].replace("|", "\\|")
-                flag = "✅" if q.get("verified") else "⚠️"
-            else:
-                text, flag = f"*Text pending import — see [{q['source_url']}]({q['source_url']})*", "⏳"
-            out.append(f"| `{q['id']}` | {q['year']} | {q['marks']}M/{q['words']}w | {text} | {flag} |")
+                "UPSC PDF; ⏳ = text not imported yet (not required by CI).", ""] + pyq_table(recent)
     else:
-        out.append("No PYQs in the bank yet.")
+        out.append(f"No PYQs from {REQUIRED_FROM_YEAR} onwards — nothing for CI to require.")
+    if older:
+        out += ["", f"<details><summary>Older PYQs ({older[-1]['year']}–{older[0]['year']}, {len(older)}) — "
+                "practice only, not required by CI</summary>", ""] + pyq_table(older) + ["", "</details>"]
     strategy = strategy_markdown(tid)
     if strategy:
         out += ["", strategy.rstrip()]
@@ -176,7 +185,7 @@ def scaffold(tid: str) -> None:
         print(f"exists, left alone: {ap.relative_to(ROOT)}")
     else:
         (ad / "img").mkdir(parents=True, exist_ok=True)
-        blocks = [f"## {q['id']}\n\n> {q['text']}\n>\n> (Mains {q['year']}, {q['marks']}M/{q['words']}w)\n\n"
+        blocks = [f"## {q['id']}\n\n> {q['text']}\n>\n> (Mains {q['year']}, {marks_label(q)})\n\n"
                   f"![answer](img/{q['id']}.jpg)\n\n**Key points / self-critique:**\n" for q in qs]
         ap.write_text(f"# {tid} · PYQ answers\n\n" + "\n".join(blocks))
         print(f"wrote {ap.relative_to(ROOT)} — save scans as {ad.relative_to(ROOT)}/img/<PYQ-ID>.jpg")
