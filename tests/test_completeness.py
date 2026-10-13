@@ -7,7 +7,7 @@ TID = "GS2-POL-04"
 
 def write_topic(root, words=90, quote=True, scan=True):
     t = common.topics_by_id()[TID]
-    body = "\n\n".join(f"## {m['id']} · {m['text']}\n\n" + ("word " * words) for m in t["micro_syllabus"])
+    body = "\n\n".join(f"## {common.micro_heading(m['text'])}\n\n" + ("word " * words) for m in t["micro_syllabus"])
     note = root / "notes/gs2/polity" / f"{TID}.md"
     note.parent.mkdir(parents=True)
     note.write_text(f"---\ntopic_id: {TID}\ntitle: Federalism I\nstatus: done\nsources: [Laxmikanth]\n---\n\n{body}\n")
@@ -35,9 +35,16 @@ def test_complete_topic_passes(repo):
     assert lint.errors == []
 
 
-def test_thin_micro_section_fails(repo):
-    write_topic(repo, words=10)
-    assert any(r[0].startswith("m1 ·") for r in failures(cc.check_topic(TID)))
+def test_short_notes_with_any_headings_pass(repo):
+    write_topic(repo, words=1)
+    note = repo / "notes/gs2/polity" / f"{TID}.md"
+    note.write_text(note.read_text() + "\n## My own heading\n\nshort\n")
+    assert failures(cc.check_topic(TID)) == []
+
+
+def test_skeleton_with_only_headings_fails(repo):
+    write_topic(repo, words=0)
+    assert any("no notes yet" in r[2] for r in failures(cc.check_topic(TID)))
 
 
 def test_missing_quote_and_scan_fail(repo):

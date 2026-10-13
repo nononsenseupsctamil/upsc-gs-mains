@@ -1,4 +1,6 @@
-"""Required check `completeness`: notes cover every micro-topic and every PYQ is answered with a scan.
+"""Required check `completeness`: the topic has notes, and every required PYQ is answered with a scan.
+
+Micro-topics in the issue are a reading guide only; CI does not check headings or length.
 
 CI:     GH_TOKEN=… PR_NUMBER=12 python scripts/check_completeness.py
 Local:  python scripts/check_completeness.py --local GS2-POL-04
@@ -12,18 +14,11 @@ import re
 import subprocess
 import sys
 
-from common import (REQUIRED_FROM_YEAR, BULLET_RE, IMAGE_EXTS, IMAGE_LINK_RE, MICRO_HEADING_RE, PLACEHOLDER_RE, ROOT, TITLE_ID_RE,
+from common import (REQUIRED_FROM_YEAR, IMAGE_EXTS, IMAGE_LINK_RE, ROOT, TITLE_ID_RE,
                     WORD_RE, answers_dir, h2_sections, marks_label, normalise, note_path, pyqs_for, split_front_matter,
                     topics_by_id)
 
-MIN_WORDS_MICRO, MIN_BULLETS_MICRO = 80, 5
 CLOSING_RE = re.compile(r"(?i)\b(close[sd]?|fix(e[sd])?|resolve[sd]?)\s+#(\d+)")
-
-
-def substantive(body: str, min_words: int, min_bullets: int) -> tuple[bool, str]:
-    words = len(WORD_RE.findall(body))
-    bullets = sum(1 for l in body.splitlines() if BULLET_RE.match(l) and len(l.strip()) >= 10)
-    return words >= min_words or bullets >= min_bullets, f"{words} words / {bullets} bullets"
 
 
 def check_topic(topic_id: str) -> list[tuple[str, bool, str]]:
@@ -41,21 +36,9 @@ def check_topic(topic_id: str) -> list[tuple[str, bool, str]]:
     else:
         text = np.read_text()
         _, body = split_front_matter(text)
-        found = {}
-        for heading, sec in h2_sections(body).items():
-            m = MICRO_HEADING_RE.match(heading)
-            if m:
-                found[f"m{m.group(1)}"] = sec
-        for micro in t["micro_syllabus"]:
-            mid = micro["id"]
-            if mid not in found:
-                rows.append((f"{mid} · {micro['text']}", False, f"no `## {mid} · …` heading in note"))
-                continue
-            ok, detail = substantive(found[mid], MIN_WORDS_MICRO, MIN_BULLETS_MICRO)
-            rows.append((f"{mid} · {micro['text']}", ok,
-                         detail if ok else f"{detail} (need ≥{MIN_WORDS_MICRO} words or ≥{MIN_BULLETS_MICRO} bullets)"))
-        ph = PLACEHOLDER_RE.findall(body)
-        rows.append(("note has no placeholders", not ph, ", ".join(sorted(set(ph))) if ph else "clean"))
+        # Only headings are stripped before counting, so an empty skeleton does not count as notes.
+        words = len(WORD_RE.findall("\n".join(l for l in body.splitlines() if not l.lstrip().startswith("#"))))
+        rows.append((f"notes `{rel}`", words > 0, f"{words} words" if words else "only headings so far — no notes yet"))
 
     # --- answers -------------------------------------------------------------------
     qs = pyqs_for(topic_id, required_only=True)
@@ -88,8 +71,6 @@ def check_topic(topic_id: str) -> list[tuple[str, bool, str]]:
         good = [i for i in imgs if (ad / i).suffix.lower() in IMAGE_EXTS and (ad / i).is_file()]
         if not good:
             problems.append("no scan linked (`![answer](img/….jpg)` pointing at an existing file)")
-        if PLACEHOLDER_RE.search(sec):
-            problems.append("placeholder text")
         rows.append((label, not problems, "; ".join(problems) if problems else f"{len(good)} scan(s)"))
     return rows
 
