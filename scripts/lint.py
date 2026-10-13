@@ -86,14 +86,22 @@ def lint_pyqs() -> None:
         if pid in seen:
             err(w, "duplicate id")
         seen.add(pid)
-        tid, year, qno = m.group(1), int(m.group(2)), int(m.group(3))
+        tid, year, kind, num = m.group(1), int(m.group(2)), m.group(3), int(m.group(4))
         if q.get("topic_id") != tid or tid not in topics:
             err(w, f"topic_id {q.get('topic_id')} must equal {tid} and exist in issues.yaml")
-        if q.get("year") != year or q.get("qno") != qno or q.get("paper") != tid[:3]:
-            err(w, "year/qno/paper fields disagree with id")
-        exp = (10, 150) if qno <= 10 else (15, 250)
-        if (q.get("marks"), q.get("words")) != exp:
-            err(w, f"marks/words must be {exp[0]}/{exp[1]} for Q{qno}")
+        if q.get("year") != year or q.get("paper") != tid[:3]:
+            err(w, "year/paper fields disagree with id")
+        if kind == "Q":
+            if q.get("qno") != num:
+                err(w, "qno disagrees with id")
+            exp = (10, 150) if num <= 10 else (15, 250)
+            if (q.get("marks"), q.get("words")) != exp:
+                err(w, f"marks/words must be {exp[0]}/{exp[1]} for Q{num}")
+        else:
+            if q.get("qno") is not None:
+                err(w, "S-numbered ids are for unknown paper numbers; qno must be null")
+            if q.get("words") not in (None, 150, 200, 250) or q.get("marks") not in (None, 10, 12.5, 15):
+                err(w, "words must be 150/200/250 and marks 10/12.5/15 (or null)")
         if q.get("confidence") not in CONFIDENCE:
             err(w, f"confidence must be one of {sorted(CONFIDENCE)}")
         if not isinstance(q.get("verified"), bool):

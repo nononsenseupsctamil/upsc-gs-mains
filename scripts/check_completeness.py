@@ -13,7 +13,7 @@ import subprocess
 import sys
 
 from common import (BULLET_RE, IMAGE_EXTS, IMAGE_LINK_RE, MICRO_HEADING_RE, PLACEHOLDER_RE, ROOT, TITLE_ID_RE,
-                    WORD_RE, answers_dir, h2_sections, normalise, note_path, pyqs_for, split_front_matter,
+                    WORD_RE, answers_dir, h2_sections, marks_label, normalise, note_path, pyqs_for, split_front_matter,
                     topics_by_id)
 
 MIN_WORDS_MICRO, MIN_BULLETS_MICRO = 80, 5
@@ -71,7 +71,7 @@ def check_topic(topic_id: str) -> list[tuple[str, bool, str]]:
         return rows
     sections = h2_sections(ap.read_text())
     for q in qs:
-        label = f"{q['id']} ({q['marks']}M)"
+        label = f"{q['id']} ({marks_label(q)})"
         sec = next((s for h, s in sections.items() if h.split()[0] == q["id"]), None) if sections else None
         if sec is None:
             rows.append((label, False, f"no `## {q['id']}` section"))

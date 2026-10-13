@@ -1,15 +1,438 @@
 # PYQ bank — human-maintained. Scripts only READ this file; never generate or paraphrase text.
 # Compare each entry with the official UPSC PDF, then set verified: true.
-- id: GS2-POL-13-M2025-Q01
-  topic_id: GS2-POL-13
-  year: 2025
+- id: GS2-GOV-01-M2026-S01
+  topic_id: GS2-GOV-01
+  year: 2026
   paper: GS2
-  qno: 1
+  qno: null
+  marks: 15
+  words: 250
+  text: Can the constitutional mandate of rights-based welfare be effectively realised in the context of non- integrated governance
+    and minimal public investment? Examine
+  source_url: 'author''s compilation: GovernancePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-03-M2026-S01
+  topic_id: GS2-GOV-03
+  year: 2026
+  paper: GS2
+  qno: null
   marks: 10
   words: 150
-  text: Discuss the 'corrupt practices' for the purpose of the Representation of the People Act, 1951. Analyze whether the
-    increase in the assets of the legislators and/or their associates, disproportionate to their known sources of income,
-    would constitute undue influence and consequently a corrupt practice.
+  text: Does India’s tribal development policy reflect the aspirations for a socially grounded and equity-based governance?
+    Justify your answer
+  source_url: 'author''s compilation: GovernancePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-03-M2026-S02
+  topic_id: GS2-GOV-03
+  year: 2026
+  paper: GS2
+  qno: null
+  marks: 10
+  words: 150
+  text: Do constitutional bodies like the National Commission for Scheduled Castes (NCSC) and the National Commission for
+    Scheduled Tribes (NCST) possess adequate enforcement powers to secure substantive social equality? Suggest measures to
+    enhance their institutional effectiveness.
+  source_url: 'author''s compilation: SocialJusticePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-05-M2026-S01
+  topic_id: GS2-GOV-05
+  year: 2026
+  paper: GS2
+  qno: null
+  marks: 15
+  words: 250
+  text: Should education be treated primarily as a welfare obligation of the state or as a strategic investment for building
+    a globally competitive, knowledge-driven nation? Critically evaluate
+  source_url: 'author''s compilation: GovernancePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-06-M2026-S01
+  topic_id: GS2-GOV-06
+  year: 2026
+  paper: GS2
+  qno: null
+  marks: 10
+  words: 150
+  text: Malnutrition in India is not merely a public health concern; it is also a challenge of social equity, human development
+    and effective welfare governance. Discuss
+  source_url: 'author''s compilation: GovernancePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-07-M2026-S01
+  topic_id: GS2-GOV-07
+  year: 2026
+  paper: GS2
+  qno: null
+  marks: 15
+  words: 250
+  text: Transparency and accountability in governance are not about controlling corruption but about creating the trust of
+    stakeholders in the policy process by following the Rule of Law and Participatory Governance. Comment
+  source_url: 'author''s compilation: GovernancePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-08-M2026-S01
+  topic_id: GS2-GOV-08
+  year: 2026
+  paper: GS2
+  qno: null
+  marks: 10
+  words: 150
+  text: Analyse the advantages and limitations of the generalist structure of the Indian Civil Services in contemporary governance
+  source_url: 'author''s compilation: GovernancePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-IR-01-M2026-S01
+  topic_id: GS2-IR-01
+  year: 2026
+  paper: GS2
+  qno: null
+  marks: 15
+  words: 250
+  text: “China’s Belt and Road Initiative (BRI) has transformed South Asia from a regional space into a theatre of great power
+    competition.” Analyse the strategic implications of the BRI for India’s security and regional influence in South Asia
+  source_url: 'author''s compilation: IRPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-IR-04-M2026-S01
+  topic_id: GS2-IR-04
+  year: 2026
+  paper: GS2
+  qno: null
+  marks: 10
+  words: 150
+  text: “IPMDA (Indo-Pacific Partnership for Maritime Domain Awareness) bridges the gap between India’s SAGAR (Security and
+    Growth for All in the Region) vision and the Quad’s collective Indo-Pacific strategy.” Make a critical assessment of the
+    statement focusing on IPMDA
+  source_url: 'author''s compilation: IRPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-IR-04-M2026-S02
+  topic_id: GS2-IR-04
+  year: 2026
+  paper: GS2
+  qno: null
+  marks: 10
+  words: 150
+  text: “BRICS acts as a powerful counterweight in global governance, actively amplifying the voice and influence of the Global
+    South.” Explain the role of BRICS in projecting itself as an alternative to other groupings
+  source_url: 'author''s compilation: IRPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-IR-05-M2026-S01
+  topic_id: GS2-IR-05
+  year: 2026
+  paper: GS2
+  qno: null
+  marks: 15
+  words: 250
+  text: “India’s global diaspora acts as a living bridge, as a critical economic factor and knowledge network in transforming
+    cultural heritage into geopolitical influence and strategic leverage worldwide.” Critically examine this statement
+  source_url: 'author''s compilation: IRPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-02-M2026-S01
+  topic_id: GS2-POL-02
+  year: 2026
+  paper: GS2
+  qno: null
+  marks: 10
+  words: 150
+  text: Right to privacy relating to self-identity is very dear to every human being and well protected under Article 21 of
+    the Constitution. In this context, examine the effect of the amendment in 2026, to the Transgender Persons (Protection
+    of Rights) Act, 2019
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-02-M2026-S02
+  topic_id: GS2-POL-02
+  year: 2026
+  paper: GS2
+  qno: null
+  marks: 10
+  words: 150
+  text: “Women as a class neither belong to a minority group nor are they regarded as forming a backward class.” In the light
+    of this statement, discuss the evolution of women’s reservation from local bodies to Parliament
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-04-M2026-S01
+  topic_id: GS2-POL-04
+  year: 2026
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Discuss the position of the Governor in the federal polity of India. What is the nature of his power while giving
+    assent to a bill passed by the State Legislature? Is he bound by the aid and advice of his Council of Ministers in all
+    his functions (250 words)?
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-04-M2026-S02
+  topic_id: GS2-POL-04
+  year: 2026
+  paper: GS2
+  qno: null
+  marks: 15
+  words: 250
+  text: How far has the Indian federal framework been successful in accommodating regional and cultural diversities? Highlight
+    the role of asymmetric federalism and suggest measures to make dispute resolution mechanisms more effective
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-07-M2026-S01
+  topic_id: GS2-POL-07
+  year: 2026
+  paper: GS2
+  qno: null
+  marks: 15
+  words: 250
+  text: What is meant by judicial legislation? In this context, discuss the verdicts of the apex court allowing “passive euthanasia”
+    and a “living will”
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-09-M2026-S01
+  topic_id: GS2-POL-09
+  year: 2026
+  paper: GS2
+  qno: null
+  marks: 15
+  words: 250
+  text: Examine how the separation of powers is practised in India compared to the rigid presidential model of the United
+    States of America. In this context, compare the actual authority of the Indian Prime Minister with that of the President
+    of the USA
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-10-M2026-S01
+  topic_id: GS2-POL-10
+  year: 2026
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Examine whether the constitutional office of the Lok Sabha Speaker has become vulnerable to partisan politics under
+    the current anti-defection regime. What institutional changes are required to ensure the neutrality of the Lok Sabha Speaker
+    in managing a polarised House (150 words)?
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-11-M2026-S01
+  topic_id: GS2-POL-11
+  year: 2026
+  paper: GS2
+  qno: null
+  marks: 15
+  words: 250
+  text: To what extent do pressure groups, social movements and corporate lobbies deepen pluralistic democracy in India by
+    representing excluded interests? Analyse whether the growing convergence of corporate wealth and political power poses
+    a threat to the autonomy of formal democratic institutions
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-13-M2026-S01
+  topic_id: GS2-POL-13
+  year: 2026
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Is the right to vote a fundamental right? Discuss the position of the Election Commission of India while undertaking
+    the revision of electoral rolls. Can it also examine the question of citizenship of voters (150 words)?
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-01-M2025-Q17
+  topic_id: GS2-GOV-01
+  year: 2025
+  paper: GS2
+  qno: 17
+  marks: 15
+  words: 250
+  text: '"In contemporary development models, decision-making and problem-solving responsibilities are not located close to
+    the source of information and execution defeating the objectives of development." Critically evaluate.'
+  source_url: https://forumias.com/blog/upsc-mains-general-studies-2-2025-general-studies-2/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: cross-checked
+- id: GS2-GOV-02-M2025-Q08
+  topic_id: GS2-GOV-02
+  year: 2025
+  paper: GS2
+  qno: 8
+  marks: 10
+  words: 150
+  text: Civil Society Organizations are often perceived as being anti-State actors than non-State actors. Do you agree? Justify.
+  source_url: https://forumias.com/blog/upsc-mains-general-studies-2-2025-general-studies-2/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: cross-checked
+- id: GS2-GOV-03-M2025-Q06
+  topic_id: GS2-GOV-03
+  year: 2025
+  paper: GS2
+  qno: 6
+  marks: 10
+  words: 150
+  text: Women's social capital complements in advancing empowerment and gender equity. Explain.
+  source_url: https://forumias.com/blog/upsc-mains-general-studies-2-2025-general-studies-2/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: cross-checked
+- id: GS2-GOV-06-M2025-Q16
+  topic_id: GS2-GOV-06
+  year: 2025
+  paper: GS2
+  qno: 16
+  marks: 15
+  words: 250
+  text: Inequality in the ownership pattern of resources is one of the major causes of poverty. Discuss in the context of
+    'paradox of poverty'.
+  source_url: https://forumias.com/blog/upsc-mains-general-studies-2-2025-general-studies-2/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: cross-checked
+- id: GS2-GOV-07-M2025-Q07
+  topic_id: GS2-GOV-07
+  year: 2025
+  paper: GS2
+  qno: 7
+  marks: 10
+  words: 150
+  text: E-governance projects have a built-in bias towards technology and back-end integration than user-centric designs.
+    Examine.
+  source_url: https://forumias.com/blog/upsc-mains-general-studies-2-2025-general-studies-2/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: cross-checked
+- id: GS2-IR-03-M2025-Q09
+  topic_id: GS2-IR-03
+  year: 2025
+  paper: GS2
+  qno: 9
+  marks: 10
+  words: 150
+  text: India-Africa digital partnership is achieving mutual respect, co-development and long-term institutional partnerships.
+    Elaborate.
+  source_url: https://forumias.com/blog/upsc-mains-general-studies-2-2025-general-studies-2/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: cross-checked
+- id: GS2-IR-03-M2025-Q19
+  topic_id: GS2-IR-03
+  year: 2025
+  paper: GS2
+  qno: 19
+  marks: 15
+  words: 250
+  text: '"Energy security constitutes the dominant kingpin of India''s foreign policy, and is linked with India''s overarching
+    influence in Middle Eastern countries." How would you integrate energy security with India''s foreign policy trajectories
+    in the coming years?'
+  source_url: https://forumias.com/blog/upsc-mains-general-studies-2-2025-general-studies-2/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: cross-checked
+- id: GS2-IR-05-M2025-Q10
+  topic_id: GS2-IR-05
+  year: 2025
+  paper: GS2
+  qno: 10
+  marks: 10
+  words: 150
+  text: '"With the waning of globalization, post-Cold War world is becoming a site of sovereign nationalism." Elucidate.'
+  source_url: https://forumias.com/blog/upsc-mains-general-studies-2-2025-general-studies-2/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: cross-checked
+- id: GS2-IR-06-M2025-Q20
+  topic_id: GS2-IR-06
+  year: 2025
+  paper: GS2
+  qno: 20
+  marks: 15
+  words: 250
+  text: The reform process in the United Nations remains unresolved, because of the delicate imbalance of East and West and
+    entanglement of the USA vs. Russo-Chinese alliance." Examine and critically evaluate the East-West policy confrontations
+    in this regard.
+  source_url: https://forumias.com/blog/upsc-mains-general-studies-2-2025-general-studies-2/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: cross-checked
+  notes: 'Wording conflict: The opening quote mark is missing in the source.'
+- id: GS2-POL-03-M2025-Q12
+  topic_id: GS2-POL-03
+  year: 2025
+  paper: GS2
+  qno: 12
+  marks: 15
+  words: 250
+  text: Indian Constitution has conferred the amending power on the ordinary legislative institutions with a few procedural
+    hurdles. In view of this statement, examine the procedural and substantive limitations on the amending power of the Parliament
+    to change the Constitution.
+  source_url: https://forumias.com/blog/upsc-mains-general-studies-2-2025-general-studies-2/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: cross-checked
+- id: GS2-POL-04-M2025-Q04
+  topic_id: GS2-POL-04
+  year: 2025
+  paper: GS2
+  qno: 4
+  marks: 10
+  words: 150
+  text: Discuss the nature of Jammu and Kashmir Legislative Assembly after the Jammu and Kashmir Reorganization Act, 2019.
+    Briefly describe the powers and functions of the Assembly of the Union Territory of Jammu and Kashmir.
+  source_url: https://forumias.com/blog/upsc-mains-general-studies-2-2025-general-studies-2/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: cross-checked
+- id: GS2-POL-05-M2025-Q14
+  topic_id: GS2-POL-05
+  year: 2025
+  paper: GS2
+  qno: 14
+  marks: 15
+  words: 250
+  text: Examine the evolving pattern of Centre-State financial relations in the context of planned development in India. How
+    far have the recent reforms impacted the fiscal federalism in India?
+  source_url: https://forumias.com/blog/upsc-mains-general-studies-2-2025-general-studies-2/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: cross-checked
+- id: GS2-POL-07-M2025-Q11
+  topic_id: GS2-POL-07
+  year: 2025
+  paper: GS2
+  qno: 11
+  marks: 15
+  words: 250
+  text: '"Constitutional morality is the fulcrum which acts as an essential check upon the high functionaries and citizens
+    alike… ." In view of the above observation of the Supreme Court, explain the concept of constitutional morality and its
+    application to ensure balance between judicial independence and judicial accountability in India.'
   source_url: https://forumias.com/blog/upsc-mains-general-studies-2-2025-general-studies-2/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
@@ -41,118 +464,15 @@
   verified: false
   confidence: cross-checked
   notes: 'Wording conflict: Quote marks around ''preemptive pardons'' differ between sources.'
-- id: GS2-POL-04-M2025-Q04
-  topic_id: GS2-POL-04
+- id: GS2-POL-11-M2025-Q15
+  topic_id: GS2-POL-11
   year: 2025
   paper: GS2
-  qno: 4
-  marks: 10
-  words: 150
-  text: Discuss the nature of Jammu and Kashmir Legislative Assembly after the Jammu and Kashmir Reorganization Act, 2019.
-    Briefly describe the powers and functions of the Assembly of the Union Territory of Jammu and Kashmir.
-  source_url: https://forumias.com/blog/upsc-mains-general-studies-2-2025-general-studies-2/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: cross-checked
-- id: GS2-POL-14-M2025-Q05
-  topic_id: GS2-POL-14
-  year: 2025
-  paper: GS2
-  qno: 5
-  marks: 10
-  words: 150
-  text: '"The Attorney General of India plays a crucial role in guiding the legal framework of the Union Government and ensuring
-    sound governance through legal counsel." Discuss his responsibilities, rights and limitations in this regard.'
-  source_url: https://forumias.com/blog/upsc-mains-general-studies-2-2025-general-studies-2/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: cross-checked
-- id: GS2-GOV-03-M2025-Q06
-  topic_id: GS2-GOV-03
-  year: 2025
-  paper: GS2
-  qno: 6
-  marks: 10
-  words: 150
-  text: Women's social capital complements in advancing empowerment and gender equity. Explain.
-  source_url: https://forumias.com/blog/upsc-mains-general-studies-2-2025-general-studies-2/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: cross-checked
-- id: GS2-GOV-07-M2025-Q07
-  topic_id: GS2-GOV-07
-  year: 2025
-  paper: GS2
-  qno: 7
-  marks: 10
-  words: 150
-  text: E-governance projects have a built-in bias towards technology and back-end integration than user-centric designs.
-    Examine.
-  source_url: https://forumias.com/blog/upsc-mains-general-studies-2-2025-general-studies-2/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: cross-checked
-- id: GS2-GOV-02-M2025-Q08
-  topic_id: GS2-GOV-02
-  year: 2025
-  paper: GS2
-  qno: 8
-  marks: 10
-  words: 150
-  text: Civil Society Organizations are often perceived as being anti-State actors than non-State actors. Do you agree? Justify.
-  source_url: https://forumias.com/blog/upsc-mains-general-studies-2-2025-general-studies-2/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: cross-checked
-- id: GS2-IR-03-M2025-Q09
-  topic_id: GS2-IR-03
-  year: 2025
-  paper: GS2
-  qno: 9
-  marks: 10
-  words: 150
-  text: India-Africa digital partnership is achieving mutual respect, co-development and long-term institutional partnerships.
-    Elaborate.
-  source_url: https://forumias.com/blog/upsc-mains-general-studies-2-2025-general-studies-2/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: cross-checked
-- id: GS2-IR-05-M2025-Q10
-  topic_id: GS2-IR-05
-  year: 2025
-  paper: GS2
-  qno: 10
-  marks: 10
-  words: 150
-  text: '"With the waning of globalization, post-Cold War world is becoming a site of sovereign nationalism." Elucidate.'
-  source_url: https://forumias.com/blog/upsc-mains-general-studies-2-2025-general-studies-2/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: cross-checked
-- id: GS2-POL-07-M2025-Q11
-  topic_id: GS2-POL-07
-  year: 2025
-  paper: GS2
-  qno: 11
+  qno: 15
   marks: 15
   words: 250
-  text: '"Constitutional morality is the fulcrum which acts as an essential check upon the high functionaries and citizens
-    alike… ." In view of the above observation of the Supreme Court, explain the concept of constitutional morality and its
-    application to ensure balance between judicial independence and judicial accountability in India.'
-  source_url: https://forumias.com/blog/upsc-mains-general-studies-2-2025-general-studies-2/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: cross-checked
-- id: GS2-POL-03-M2025-Q12
-  topic_id: GS2-POL-03
-  year: 2025
-  paper: GS2
-  qno: 12
-  marks: 15
-  words: 250
-  text: Indian Constitution has conferred the amending power on the ordinary legislative institutions with a few procedural
-    hurdles. In view of this statement, examine the procedural and substantive limitations on the amending power of the Parliament
-    to change the Constitution.
+  text: What are environmental pressure groups? Discuss their role in raising awareness, influencing policies and advocating
+    for environmental protection in India.
   source_url: https://forumias.com/blog/upsc-mains-general-studies-2-2025-general-studies-2/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
@@ -170,54 +490,29 @@
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
   confidence: cross-checked
-- id: GS2-POL-05-M2025-Q14
-  topic_id: GS2-POL-05
+- id: GS2-POL-13-M2025-Q01
+  topic_id: GS2-POL-13
   year: 2025
   paper: GS2
-  qno: 14
-  marks: 15
-  words: 250
-  text: Examine the evolving pattern of Centre-State financial relations in the context of planned development in India. How
-    far have the recent reforms impacted the fiscal federalism in India?
+  qno: 1
+  marks: 10
+  words: 150
+  text: Discuss the 'corrupt practices' for the purpose of the Representation of the People Act, 1951. Analyze whether the
+    increase in the assets of the legislators and/or their associates, disproportionate to their known sources of income,
+    would constitute undue influence and consequently a corrupt practice.
   source_url: https://forumias.com/blog/upsc-mains-general-studies-2-2025-general-studies-2/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
   confidence: cross-checked
-- id: GS2-POL-11-M2025-Q15
-  topic_id: GS2-POL-11
+- id: GS2-POL-14-M2025-Q05
+  topic_id: GS2-POL-14
   year: 2025
   paper: GS2
-  qno: 15
-  marks: 15
-  words: 250
-  text: What are environmental pressure groups? Discuss their role in raising awareness, influencing policies and advocating
-    for environmental protection in India.
-  source_url: https://forumias.com/blog/upsc-mains-general-studies-2-2025-general-studies-2/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: cross-checked
-- id: GS2-GOV-06-M2025-Q16
-  topic_id: GS2-GOV-06
-  year: 2025
-  paper: GS2
-  qno: 16
-  marks: 15
-  words: 250
-  text: Inequality in the ownership pattern of resources is one of the major causes of poverty. Discuss in the context of
-    'paradox of poverty'.
-  source_url: https://forumias.com/blog/upsc-mains-general-studies-2-2025-general-studies-2/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: cross-checked
-- id: GS2-GOV-01-M2025-Q17
-  topic_id: GS2-GOV-01
-  year: 2025
-  paper: GS2
-  qno: 17
-  marks: 15
-  words: 250
-  text: '"In contemporary development models, decision-making and problem-solving responsibilities are not located close to
-    the source of information and execution defeating the objectives of development." Critically evaluate.'
+  qno: 5
+  marks: 10
+  words: 150
+  text: '"The Attorney General of India plays a crucial role in guiding the legal framework of the Union Government and ensuring
+    sound governance through legal counsel." Discuss his responsibilities, rights and limitations in this regard.'
   source_url: https://forumias.com/blog/upsc-mains-general-studies-2-2025-general-studies-2/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
@@ -235,100 +530,6 @@
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
   confidence: cross-checked
-- id: GS2-IR-03-M2025-Q19
-  topic_id: GS2-IR-03
-  year: 2025
-  paper: GS2
-  qno: 19
-  marks: 15
-  words: 250
-  text: '"Energy security constitutes the dominant kingpin of India''s foreign policy, and is linked with India''s overarching
-    influence in Middle Eastern countries." How would you integrate energy security with India''s foreign policy trajectories
-    in the coming years?'
-  source_url: https://forumias.com/blog/upsc-mains-general-studies-2-2025-general-studies-2/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: cross-checked
-- id: GS2-IR-06-M2025-Q20
-  topic_id: GS2-IR-06
-  year: 2025
-  paper: GS2
-  qno: 20
-  marks: 15
-  words: 250
-  text: The reform process in the United Nations remains unresolved, because of the delicate imbalance of East and West and
-    entanglement of the USA vs. Russo-Chinese alliance." Examine and critically evaluate the East-West policy confrontations
-    in this regard.
-  source_url: https://forumias.com/blog/upsc-mains-general-studies-2-2025-general-studies-2/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: cross-checked
-  notes: 'Wording conflict: The opening quote mark is missing in the source.'
-- id: GS2-POL-13-M2024-Q01
-  topic_id: GS2-POL-13
-  year: 2024
-  paper: GS2
-  qno: 1
-  marks: 10
-  words: 150
-  text: Examine the need for electoral reforms as suggested by various committees with particular reference to "one nation
-    – one election" principle.
-  source_url: https://triumphias.com/blog/general-studies-paper-2-2024/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: cross-checked
-- id: GS2-POL-08-M2024-Q02
-  topic_id: GS2-POL-08
-  year: 2024
-  paper: GS2
-  qno: 2
-  marks: 10
-  words: 150
-  text: Explain and distinguish between Lok Adalats and Arbitration Tribunals. Whether they entertain civil as well as criminal
-    cases?
-  source_url: https://triumphias.com/blog/general-studies-paper-2-2024/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: cross-checked
-- id: GS2-POL-11-M2024-Q03
-  topic_id: GS2-POL-11
-  year: 2024
-  paper: GS2
-  qno: 3
-  marks: 10
-  words: 150
-  text: '"The growth of cabinet system has practically resulted in the marginalisation of the parliamentary supremacy." Elucidate.'
-  source_url: https://triumphias.com/blog/general-studies-paper-2-2024/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: cross-checked
-- id: GS2-POL-14-M2024-Q04
-  topic_id: GS2-POL-14
-  year: 2024
-  paper: GS2
-  qno: 4
-  marks: 10
-  words: 150
-  text: '"The duty of the Comptroller and Auditor General is not merely to ensure the legality of expenditure but also its
-    propriety." Comment.'
-  source_url: https://triumphias.com/blog/general-studies-paper-2-2024/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: cross-checked
-- id: GS2-POL-06-M2024-Q05
-  topic_id: GS2-POL-06
-  year: 2024
-  paper: GS2
-  qno: 5
-  marks: 10
-  words: 150
-  text: Analyse the role of local bodies in providing good governance at local level and bring out the pros and cons merging
-    the rural local bodies with the urban local bodies.
-  source_url: https://triumphias.com/blog/general-studies-paper-2-2024/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: cross-checked
-  notes: 'Wording conflict: ForumIAS reads "cons of merging".'
 - id: GS2-GOV-02-M2024-Q06
   topic_id: GS2-GOV-02
   year: 2024
@@ -338,6 +539,33 @@
   words: 150
   text: Public charitable trusts have the potential to make India's development more inclusive as they relate to certain vital
     public issues. Comment.
+  source_url: https://triumphias.com/blog/general-studies-paper-2-2024/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: cross-checked
+- id: GS2-GOV-04-M2024-Q17
+  topic_id: GS2-GOV-04
+  year: 2024
+  paper: GS2
+  qno: 17
+  marks: 15
+  words: 250
+  text: In a crucial domain like the public healthcare system the Indian State should play a vital role to contain the adverse
+    impact of marketisation of the system. Suggest some measures through which the State can enhance the reach of public healthcare
+    at the grassroots level.
+  source_url: https://triumphias.com/blog/general-studies-paper-2-2024/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: cross-checked
+- id: GS2-GOV-05-M2024-Q11
+  topic_id: GS2-GOV-05
+  year: 2024
+  paper: GS2
+  qno: 11
+  marks: 15
+  words: 250
+  text: What are the aims and objects of recently passed and enforced, The Public Examination (Prevention of Unfair Means)
+    Act, 2024? Whether University/State Education Board examinations, too, are covered under the Act?
   source_url: https://triumphias.com/blog/general-studies-paper-2-2024/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
@@ -355,6 +583,34 @@
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
   confidence: cross-checked
+- id: GS2-GOV-07-M2024-Q16
+  topic_id: GS2-GOV-07
+  year: 2024
+  paper: GS2
+  qno: 16
+  marks: 15
+  words: 250
+  text: The Citizens' charter has been a landmark initiative in ensuring citizen-centric administration. But it is yet to
+    reach its full potential. Identify the factors hindering the realisation of its promise and suggest measures to overcome
+    them.
+  source_url: https://triumphias.com/blog/general-studies-paper-2-2024/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: cross-checked
+- id: GS2-GOV-07-M2024-Q18
+  topic_id: GS2-GOV-07
+  year: 2024
+  paper: GS2
+  qno: 18
+  marks: 15
+  words: 250
+  text: E-governance is not just about the routine application of digital technology in service delivery process. It is as
+    much about multifarious interactions for ensuring transparency and accountability. In this context evaluate the role of
+    the 'Interactive Service Model' of e-governance.
+  source_url: https://triumphias.com/blog/general-studies-paper-2-2024/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: cross-checked
 - id: GS2-GOV-08-M2024-Q08
   topic_id: GS2-GOV-08
   year: 2024
@@ -364,6 +620,33 @@
   words: 150
   text: The Doctrine of Democratic Governance makes it necessary that the public perception of the integrity and commitment
     of civil servants becomes absolutely positive. Discuss.
+  source_url: https://triumphias.com/blog/general-studies-paper-2-2024/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: cross-checked
+- id: GS2-IR-02-M2024-Q20
+  topic_id: GS2-IR-02
+  year: 2024
+  paper: GS2
+  qno: 20
+  marks: 15
+  words: 250
+  text: Discuss the geopolitical and geostrategic importance of Maldives for India with a focus on global trade and energy
+    flows. Further also discuss how this relationship affects India's maritime security and regional stability amidst international
+    competition?
+  source_url: https://triumphias.com/blog/general-studies-paper-2-2024/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: cross-checked
+- id: GS2-IR-03-M2024-Q10
+  topic_id: GS2-IR-03
+  year: 2024
+  paper: GS2
+  qno: 10
+  marks: 10
+  words: 150
+  text: Critically analyse India's evolving diplomatic, economic and strategic relations with the Central Asian Republics
+    (CARs) highlighting their increasing significance in regional and global geopolitics.
   source_url: https://triumphias.com/blog/general-studies-paper-2-2024/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
@@ -382,28 +665,16 @@
   verified: false
   confidence: cross-checked
   notes: 'Wording conflict: InsightsIAS reads "as a strategically".'
-- id: GS2-IR-03-M2024-Q10
-  topic_id: GS2-IR-03
+- id: GS2-IR-06-M2024-Q19
+  topic_id: GS2-IR-06
   year: 2024
   paper: GS2
-  qno: 10
-  marks: 10
-  words: 150
-  text: Critically analyse India's evolving diplomatic, economic and strategic relations with the Central Asian Republics
-    (CARs) highlighting their increasing significance in regional and global geopolitics.
-  source_url: https://triumphias.com/blog/general-studies-paper-2-2024/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: cross-checked
-- id: GS2-GOV-05-M2024-Q11
-  topic_id: GS2-GOV-05
-  year: 2024
-  paper: GS2
-  qno: 11
+  qno: 19
   marks: 15
   words: 250
-  text: What are the aims and objects of recently passed and enforced, The Public Examination (Prevention of Unfair Means)
-    Act, 2024? Whether University/State Education Board examinations, too, are covered under the Act?
+  text: '"Terrorism has become a significant threat to global peace and security." Evaluate the effectiveness of the United
+    Nations Security Council''s Counter Terrorism Committee (CTC) and its associated bodies in addressing and mitigating this
+    threat at the international level.'
   source_url: https://triumphias.com/blog/general-studies-paper-2-2024/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
@@ -434,6 +705,20 @@
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
   confidence: cross-checked
+- id: GS2-POL-06-M2024-Q05
+  topic_id: GS2-POL-06
+  year: 2024
+  paper: GS2
+  qno: 5
+  marks: 10
+  words: 150
+  text: Analyse the role of local bodies in providing good governance at local level and bring out the pros and cons merging
+    the rural local bodies with the urban local bodies.
+  source_url: https://triumphias.com/blog/general-studies-paper-2-2024/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: cross-checked
+  notes: 'Wording conflict: ForumIAS reads "cons of merging".'
 - id: GS2-POL-07-M2024-Q14
   topic_id: GS2-POL-07
   year: 2024
@@ -443,6 +728,19 @@
   words: 250
   text: Explain the reasons for the growth of public interest litigation in India. As a result of it, has the Indian Supreme
     Court emerged as the world's most powerful judiciary?
+  source_url: https://triumphias.com/blog/general-studies-paper-2-2024/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: cross-checked
+- id: GS2-POL-08-M2024-Q02
+  topic_id: GS2-POL-08
+  year: 2024
+  paper: GS2
+  qno: 2
+  marks: 10
+  words: 150
+  text: Explain and distinguish between Lok Adalats and Arbitration Tribunals. Whether they entertain civil as well as criminal
+    cases?
   source_url: https://triumphias.com/blog/general-studies-paper-2-2024/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
@@ -459,134 +757,66 @@
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
   confidence: cross-checked
-- id: GS2-GOV-07-M2024-Q16
-  topic_id: GS2-GOV-07
+- id: GS2-POL-11-M2024-Q03
+  topic_id: GS2-POL-11
   year: 2024
-  paper: GS2
-  qno: 16
-  marks: 15
-  words: 250
-  text: The Citizens' charter has been a landmark initiative in ensuring citizen-centric administration. But it is yet to
-    reach its full potential. Identify the factors hindering the realisation of its promise and suggest measures to overcome
-    them.
-  source_url: https://triumphias.com/blog/general-studies-paper-2-2024/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: cross-checked
-- id: GS2-GOV-04-M2024-Q17
-  topic_id: GS2-GOV-04
-  year: 2024
-  paper: GS2
-  qno: 17
-  marks: 15
-  words: 250
-  text: In a crucial domain like the public healthcare system the Indian State should play a vital role to contain the adverse
-    impact of marketisation of the system. Suggest some measures through which the State can enhance the reach of public healthcare
-    at the grassroots level.
-  source_url: https://triumphias.com/blog/general-studies-paper-2-2024/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: cross-checked
-- id: GS2-GOV-07-M2024-Q18
-  topic_id: GS2-GOV-07
-  year: 2024
-  paper: GS2
-  qno: 18
-  marks: 15
-  words: 250
-  text: E-governance is not just about the routine application of digital technology in service delivery process. It is as
-    much about multifarious interactions for ensuring transparency and accountability. In this context evaluate the role of
-    the 'Interactive Service Model' of e-governance.
-  source_url: https://triumphias.com/blog/general-studies-paper-2-2024/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: cross-checked
-- id: GS2-IR-06-M2024-Q19
-  topic_id: GS2-IR-06
-  year: 2024
-  paper: GS2
-  qno: 19
-  marks: 15
-  words: 250
-  text: '"Terrorism has become a significant threat to global peace and security." Evaluate the effectiveness of the United
-    Nations Security Council''s Counter Terrorism Committee (CTC) and its associated bodies in addressing and mitigating this
-    threat at the international level.'
-  source_url: https://triumphias.com/blog/general-studies-paper-2-2024/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: cross-checked
-- id: GS2-IR-02-M2024-Q20
-  topic_id: GS2-IR-02
-  year: 2024
-  paper: GS2
-  qno: 20
-  marks: 15
-  words: 250
-  text: Discuss the geopolitical and geostrategic importance of Maldives for India with a focus on global trade and energy
-    flows. Further also discuss how this relationship affects India's maritime security and regional stability amidst international
-    competition?
-  source_url: https://triumphias.com/blog/general-studies-paper-2-2024/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: cross-checked
-- id: GS2-POL-12-M2023-Q01
-  topic_id: GS2-POL-12
-  year: 2023
-  paper: GS2
-  qno: 1
-  marks: 10
-  words: 150
-  text: “Constitutionally guaranteed judicial independence is a prerequisite of democracy”. Comment.
-  source_url: https://www.clearias.com/gs-paper-2-upsc-2023-mains/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: single-source
-- id: GS2-POL-08-M2023-Q02
-  topic_id: GS2-POL-08
-  year: 2023
-  paper: GS2
-  qno: 2
-  marks: 10
-  words: 150
-  text: Who are entitled to receive free legal aid? Assess the role of National Legal Services Authority (NALSA) in rendering
-    free legal aid in India.
-  source_url: https://www.clearias.com/gs-paper-2-upsc-2023-mains/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: single-source
-- id: GS2-POL-06-M2023-Q03
-  topic_id: GS2-POL-06
-  year: 2023
   paper: GS2
   qno: 3
   marks: 10
   words: 150
-  text: “The states in India seem reluctant to empower urban local bodies both functionally as well as financially.” Comment.
-  source_url: https://www.clearias.com/gs-paper-2-upsc-2023-mains/
+  text: '"The growth of cabinet system has practically resulted in the marginalisation of the parliamentary supremacy." Elucidate.'
+  source_url: https://triumphias.com/blog/general-studies-paper-2-2024/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: single-source
-- id: GS2-POL-09-M2023-Q04
-  topic_id: GS2-POL-09
-  year: 2023
+  confidence: cross-checked
+- id: GS2-POL-13-M2024-Q01
+  topic_id: GS2-POL-13
+  year: 2024
+  paper: GS2
+  qno: 1
+  marks: 10
+  words: 150
+  text: Examine the need for electoral reforms as suggested by various committees with particular reference to "one nation
+    – one election" principle.
+  source_url: https://triumphias.com/blog/general-studies-paper-2-2024/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: cross-checked
+- id: GS2-POL-14-M2024-Q04
+  topic_id: GS2-POL-14
+  year: 2024
   paper: GS2
   qno: 4
   marks: 10
   words: 150
-  text: Compare and contrast the British and Indian approaches to Parliamentary sovereignty.
+  text: '"The duty of the Comptroller and Auditor General is not merely to ensure the legality of expenditure but also its
+    propriety." Comment.'
+  source_url: https://triumphias.com/blog/general-studies-paper-2-2024/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: cross-checked
+- id: GS2-GOV-02-M2023-Q14
+  topic_id: GS2-GOV-02
+  year: 2023
+  paper: GS2
+  qno: 14
+  marks: 15
+  words: 250
+  text: Discuss the contribution of civil society groups for women’s effective and meaningful participation and representation
+    in state legislatures in India.
   source_url: https://www.clearias.com/gs-paper-2-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
   confidence: single-source
-- id: GS2-POL-10-M2023-Q05
-  topic_id: GS2-POL-10
+- id: GS2-GOV-03-M2023-Q17
+  topic_id: GS2-GOV-03
   year: 2023
   paper: GS2
-  qno: 5
-  marks: 10
-  words: 150
-  text: Discuss the role of Presiding Officers of state legislatures in maintaining order and impartiality in conducting legislative
-    work and in facilitating best democratic practices.
+  qno: 17
+  marks: 15
+  words: 250
+  text: “Development and welfare schemes for the vulnerable, by its nature, are discriminatory in approach.” Do you agree?
+    Give reasons for your answer.
   source_url: https://www.clearias.com/gs-paper-2-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
@@ -604,15 +834,15 @@
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
   confidence: single-source
-- id: GS2-POL-15-M2023-Q07
-  topic_id: GS2-POL-15
+- id: GS2-GOV-05-M2023-Q18
+  topic_id: GS2-GOV-05
   year: 2023
   paper: GS2
-  qno: 7
-  marks: 10
-  words: 150
-  text: Discuss the role of the Competition Commission of India in containing the abuse of dominant position by the Multi-National
-    Corporations in India. Refer to the recent decisions.
+  qno: 18
+  marks: 15
+  words: 250
+  text: Skill development programmes have succeeded in increasing human resources supply to various sectors. In the context
+    of the statement analyze the linkages between education, skill, and employment.
   source_url: https://www.clearias.com/gs-paper-2-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
@@ -656,6 +886,34 @@
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
   confidence: single-source
+- id: GS2-IR-05-M2023-Q19
+  topic_id: GS2-IR-05
+  year: 2023
+  paper: GS2
+  qno: 19
+  marks: 15
+  words: 250
+  text: ‘The expansion and strengthening of NATO and a stronger US-Europe strategic partnership works well for India’ What
+    is your opinion about this statement? Give reasons and examples to support your answer.
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2023-mains/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-IR-06-M2023-Q20
+  topic_id: GS2-IR-06
+  year: 2023
+  paper: GS2
+  qno: 20
+  marks: 15
+  words: 250
+  text: ‘Sea is an important Component of the Cosmos” Discuss in the light of the above statement the role of the IMO (International
+    Maritime Organisation) in protecting environment and enhancing maritime safety and security.
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2023-mains/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+  notes: Source transcription (ClearIAS) shows mismatched quotes around 'Sea is … Cosmos'. Kept verbatim — check the official
+    PDF.
 - id: GS2-POL-02-M2023-Q11
   topic_id: GS2-POL-02
   year: 2023
@@ -697,19 +955,6 @@
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
   confidence: single-source
-- id: GS2-GOV-02-M2023-Q14
-  topic_id: GS2-GOV-02
-  year: 2023
-  paper: GS2
-  qno: 14
-  marks: 15
-  words: 250
-  text: Discuss the contribution of civil society groups for women’s effective and meaningful participation and representation
-    in state legislatures in India.
-  source_url: https://www.clearias.com/gs-paper-2-upsc-2023-mains/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: single-source
 - id: GS2-POL-05-M2023-Q15
   topic_id: GS2-POL-05
   year: 2023
@@ -719,6 +964,56 @@
   words: 250
   text: Explain the significance of the 101st Constitutional Amendment Act. To what extent does it reflect the accommodative
     spirit of federalism
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2023-mains/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-06-M2023-Q03
+  topic_id: GS2-POL-06
+  year: 2023
+  paper: GS2
+  qno: 3
+  marks: 10
+  words: 150
+  text: “The states in India seem reluctant to empower urban local bodies both functionally as well as financially.” Comment.
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2023-mains/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-08-M2023-Q02
+  topic_id: GS2-POL-08
+  year: 2023
+  paper: GS2
+  qno: 2
+  marks: 10
+  words: 150
+  text: Who are entitled to receive free legal aid? Assess the role of National Legal Services Authority (NALSA) in rendering
+    free legal aid in India.
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2023-mains/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-09-M2023-Q04
+  topic_id: GS2-POL-09
+  year: 2023
+  paper: GS2
+  qno: 4
+  marks: 10
+  words: 150
+  text: Compare and contrast the British and Indian approaches to Parliamentary sovereignty.
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2023-mains/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-10-M2023-Q05
+  topic_id: GS2-POL-10
+  year: 2023
+  paper: GS2
+  qno: 5
+  marks: 10
+  words: 150
+  text: Discuss the role of Presiding Officers of state legislatures in maintaining order and impartiality in conducting legislative
+    work and in facilitating best democratic practices.
   source_url: https://www.clearias.com/gs-paper-2-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
@@ -736,121 +1031,28 @@
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
   confidence: single-source
-- id: GS2-GOV-03-M2023-Q17
-  topic_id: GS2-GOV-03
+- id: GS2-POL-12-M2023-Q01
+  topic_id: GS2-POL-12
   year: 2023
-  paper: GS2
-  qno: 17
-  marks: 15
-  words: 250
-  text: “Development and welfare schemes for the vulnerable, by its nature, are discriminatory in approach.” Do you agree?
-    Give reasons for your answer.
-  source_url: https://www.clearias.com/gs-paper-2-upsc-2023-mains/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: single-source
-- id: GS2-GOV-05-M2023-Q18
-  topic_id: GS2-GOV-05
-  year: 2023
-  paper: GS2
-  qno: 18
-  marks: 15
-  words: 250
-  text: Skill development programmes have succeeded in increasing human resources supply to various sectors. In the context
-    of the statement analyze the linkages between education, skill, and employment.
-  source_url: https://www.clearias.com/gs-paper-2-upsc-2023-mains/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: single-source
-- id: GS2-IR-05-M2023-Q19
-  topic_id: GS2-IR-05
-  year: 2023
-  paper: GS2
-  qno: 19
-  marks: 15
-  words: 250
-  text: ‘The expansion and strengthening of NATO and a stronger US-Europe strategic partnership works well for India’ What
-    is your opinion about this statement? Give reasons and examples to support your answer.
-  source_url: https://www.clearias.com/gs-paper-2-upsc-2023-mains/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: single-source
-- id: GS2-IR-06-M2023-Q20
-  topic_id: GS2-IR-06
-  year: 2023
-  paper: GS2
-  qno: 20
-  marks: 15
-  words: 250
-  text: ‘Sea is an important Component of the Cosmos” Discuss in the light of the above statement the role of the IMO (International
-    Maritime Organisation) in protecting environment and enhancing maritime safety and security.
-  source_url: https://www.clearias.com/gs-paper-2-upsc-2023-mains/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: single-source
-  notes: Source transcription (ClearIAS) shows mismatched quotes around 'Sea is … Cosmos'. Kept verbatim — check the official
-    PDF.
-- id: GS2-POL-07-M2022-Q01
-  topic_id: GS2-POL-07
-  year: 2022
   paper: GS2
   qno: 1
   marks: 10
   words: 150
-  text: The most significant achievement of modern law in India is the constitutionalization of environmental problems by
-    the Supreme Court. Discuss this statement with the help of relevant case laws.
-  source_url: https://www.clearias.com/gs-paper-2-upsc-2022-mains/
+  text: “Constitutionally guaranteed judicial independence is a prerequisite of democracy”. Comment.
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
   confidence: single-source
-- id: GS2-POL-02-M2022-Q02
-  topic_id: GS2-POL-02
-  year: 2022
+- id: GS2-POL-15-M2023-Q07
+  topic_id: GS2-POL-15
+  year: 2023
   paper: GS2
-  qno: 2
+  qno: 7
   marks: 10
   words: 150
-  text: Right of movement and residence throughout the territory of India are freely available to Indian citizens, but these
-    rights are not absolute. Comment
-  source_url: https://www.clearias.com/gs-paper-2-upsc-2022-mains/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: single-source
-- id: GS2-POL-06-M2022-Q03
-  topic_id: GS2-POL-06
-  year: 2022
-  paper: GS2
-  qno: 3
-  marks: 10
-  words: 150
-  text: To what extent in your opinion has the decentralisation of power in India changed the governance landscape at the
-    grassroots?
-  source_url: https://www.clearias.com/gs-paper-2-upsc-2022-mains/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: single-source
-- id: GS2-POL-10-M2022-Q04
-  topic_id: GS2-POL-10
-  year: 2022
-  paper: GS2
-  qno: 4
-  marks: 10
-  words: 150
-  text: Discuss the role of the Vice President of India as the chairman of Rajya Sabha.
-  source_url: https://www.clearias.com/gs-paper-2-upsc-2022-mains/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: single-source
-- id: GS2-POL-14-M2022-Q05
-  topic_id: GS2-POL-14
-  year: 2022
-  paper: GS2
-  qno: 5
-  marks: 10
-  words: 150
-  text: Discuss the role of the National Commission for Backward Classes in the wake of its transformation from a statutory
-    body to a constitutional body.
-  source_url: https://www.clearias.com/gs-paper-2-upsc-2022-mains/
+  text: Discuss the role of the Competition Commission of India in containing the abuse of dominant position by the Multi-National
+    Corporations in India. Refer to the recent decisions.
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
   confidence: single-source
@@ -867,6 +1069,19 @@
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
   confidence: single-source
+- id: GS2-GOV-02-M2022-Q17
+  topic_id: GS2-GOV-02
+  year: 2022
+  paper: GS2
+  qno: 17
+  marks: 15
+  words: 250
+  text: Do you agree with the view that increasing dependence on donor agencies for development reduces the importance of
+    community participation in the development process? Justify your answer.
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2022-mains/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
 - id: GS2-GOV-03-M2022-Q07
   topic_id: GS2-GOV-03
   year: 2022
@@ -876,6 +1091,32 @@
   words: 150
   text: The rights of persons with disabilities Act, 2016 remains only a legal document without intense sensitisation of Government
     functionaries and citizens regarding disability. Comment.
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2022-mains/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-05-M2022-Q18
+  topic_id: GS2-GOV-05
+  year: 2022
+  paper: GS2
+  qno: 18
+  marks: 15
+  words: 250
+  text: The Right of Children to Free and Compulsory Education Act, 2009 remains inadequate in promoting an incentive-based
+    system for children’s education without generating awareness about the importance of schooling. Analyse.
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2022-mains/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-06-M2022-Q16
+  topic_id: GS2-GOV-06
+  year: 2022
+  paper: GS2
+  qno: 16
+  marks: 15
+  words: 250
+  text: Besides the welfare schemes, India needs deft management of inflation and unemployment to serve the poor and the underprivileged
+    sections of society. Discuss.
   source_url: https://www.clearias.com/gs-paper-2-upsc-2022-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
@@ -919,109 +1160,6 @@
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
   confidence: single-source
-- id: GS2-POL-13-M2022-Q11
-  topic_id: GS2-POL-13
-  year: 2022
-  paper: GS2
-  qno: 11
-  marks: 15
-  words: 250
-  text: Discuss the procedures to decide the disputes arising out of the election of a Member of the Parliament or a State
-    Legislature under the Representation of People Act 1951. What are the grounds on which the election of any returned candidate
-    may be declared void? What remedy is available to the aggrieved party against the decision? Refer to the case laws
-  source_url: https://www.clearias.com/gs-paper-2-upsc-2022-mains/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: single-source
-- id: GS2-POL-11-M2022-Q12
-  topic_id: GS2-POL-11
-  year: 2022
-  paper: GS2
-  qno: 12
-  marks: 15
-  words: 250
-  text: Discuss the essential conditions for the exercise of the legislative powers by the Governor. Discuss the legality
-    of re- promulgation of ordinances by the Governor without placing them before the Legislature.
-  source_url: https://www.clearias.com/gs-paper-2-upsc-2022-mains/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: single-source
-- id: GS2-POL-04-M2022-Q13
-  topic_id: GS2-POL-04
-  year: 2022
-  paper: GS2
-  qno: 13
-  marks: 15
-  words: 250
-  text: “While the national political parties in India favour centralisation, the regional parties are in favour of state
-    autonomy.” Comment.
-  source_url: https://www.clearias.com/gs-paper-2-upsc-2022-mains/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: single-source
-- id: GS2-POL-09-M2022-Q14
-  topic_id: GS2-POL-09
-  year: 2022
-  paper: GS2
-  qno: 14
-  marks: 15
-  words: 250
-  text: Critically examine the procedures through which the presidents of India and France are elected.
-  source_url: https://www.clearias.com/gs-paper-2-upsc-2022-mains/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: single-source
-- id: GS2-POL-13-M2022-Q15
-  topic_id: GS2-POL-13
-  year: 2022
-  paper: GS2
-  qno: 15
-  marks: 15
-  words: 250
-  text: Discuss the role of the Election Commission of India in light of the evolution of the Model Code of Conduct.
-  source_url: https://www.clearias.com/gs-paper-2-upsc-2022-mains/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: single-source
-- id: GS2-GOV-06-M2022-Q16
-  topic_id: GS2-GOV-06
-  year: 2022
-  paper: GS2
-  qno: 16
-  marks: 15
-  words: 250
-  text: Besides the welfare schemes, India needs deft management of inflation and unemployment to serve the poor and the underprivileged
-    sections of society. Discuss.
-  source_url: https://www.clearias.com/gs-paper-2-upsc-2022-mains/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: single-source
-- id: GS2-GOV-02-M2022-Q17
-  topic_id: GS2-GOV-02
-  year: 2022
-  paper: GS2
-  qno: 17
-  marks: 15
-  words: 250
-  text: Do you agree with the view that increasing dependence on donor agencies for development reduces the importance of
-    community participation in the development process? Justify your answer.
-  source_url: https://www.clearias.com/gs-paper-2-upsc-2022-mains/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: single-source
-- id: GS2-GOV-05-M2022-Q18
-  topic_id: GS2-GOV-05
-  year: 2022
-  paper: GS2
-  qno: 18
-  marks: 15
-  words: 250
-  text: The Right of Children to Free and Compulsory Education Act, 2009 remains inadequate in promoting an incentive-based
-    system for children’s education without generating awareness about the importance of schooling. Analyse.
-  source_url: https://www.clearias.com/gs-paper-2-upsc-2022-mains/
-  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
-  verified: false
-  confidence: single-source
 - id: GS2-IR-04-M2022-Q19
   topic_id: GS2-IR-04
   year: 2022
@@ -1044,6 +1182,2439 @@
   text: ‘Clean energy is the order of the day’. Describe briefly India’s changing policy towards climate change in various
     international fora in the context of geopolitics.
   source_url: https://www.clearias.com/gs-paper-2-upsc-2022-mains/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-02-M2022-Q02
+  topic_id: GS2-POL-02
+  year: 2022
+  paper: GS2
+  qno: 2
+  marks: 10
+  words: 150
+  text: Right of movement and residence throughout the territory of India are freely available to Indian citizens, but these
+    rights are not absolute. Comment
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2022-mains/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-04-M2022-Q13
+  topic_id: GS2-POL-04
+  year: 2022
+  paper: GS2
+  qno: 13
+  marks: 15
+  words: 250
+  text: “While the national political parties in India favour centralisation, the regional parties are in favour of state
+    autonomy.” Comment.
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2022-mains/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-06-M2022-Q03
+  topic_id: GS2-POL-06
+  year: 2022
+  paper: GS2
+  qno: 3
+  marks: 10
+  words: 150
+  text: To what extent in your opinion has the decentralisation of power in India changed the governance landscape at the
+    grassroots?
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2022-mains/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-07-M2022-Q01
+  topic_id: GS2-POL-07
+  year: 2022
+  paper: GS2
+  qno: 1
+  marks: 10
+  words: 150
+  text: The most significant achievement of modern law in India is the constitutionalization of environmental problems by
+    the Supreme Court. Discuss this statement with the help of relevant case laws.
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2022-mains/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-09-M2022-Q14
+  topic_id: GS2-POL-09
+  year: 2022
+  paper: GS2
+  qno: 14
+  marks: 15
+  words: 250
+  text: Critically examine the procedures through which the presidents of India and France are elected.
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2022-mains/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-10-M2022-Q04
+  topic_id: GS2-POL-10
+  year: 2022
+  paper: GS2
+  qno: 4
+  marks: 10
+  words: 150
+  text: Discuss the role of the Vice President of India as the chairman of Rajya Sabha.
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2022-mains/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-11-M2022-Q12
+  topic_id: GS2-POL-11
+  year: 2022
+  paper: GS2
+  qno: 12
+  marks: 15
+  words: 250
+  text: Discuss the essential conditions for the exercise of the legislative powers by the Governor. Discuss the legality
+    of re- promulgation of ordinances by the Governor without placing them before the Legislature.
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2022-mains/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-13-M2022-Q11
+  topic_id: GS2-POL-13
+  year: 2022
+  paper: GS2
+  qno: 11
+  marks: 15
+  words: 250
+  text: Discuss the procedures to decide the disputes arising out of the election of a Member of the Parliament or a State
+    Legislature under the Representation of People Act 1951. What are the grounds on which the election of any returned candidate
+    may be declared void? What remedy is available to the aggrieved party against the decision? Refer to the case laws
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2022-mains/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-13-M2022-Q15
+  topic_id: GS2-POL-13
+  year: 2022
+  paper: GS2
+  qno: 15
+  marks: 15
+  words: 250
+  text: Discuss the role of the Election Commission of India in light of the evolution of the Model Code of Conduct.
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2022-mains/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-14-M2022-Q05
+  topic_id: GS2-POL-14
+  year: 2022
+  paper: GS2
+  qno: 5
+  marks: 10
+  words: 150
+  text: Discuss the role of the National Commission for Backward Classes in the wake of its transformation from a statutory
+    body to a constitutional body.
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2022-mains/
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-02-M2021-S01
+  topic_id: GS2-GOV-02
+  year: 2021
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Can the vicious cycle of gender inequality, poverty and malnutrition be broken through microfinancing of women SHGs?
+    Explain with examples.
+  source_url: 'author''s compilation: SocialJusticePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-02-M2021-S02
+  topic_id: GS2-GOV-02
+  year: 2021
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Can Civil Society and Non-Governmental Organisations present an alternative model of public service delivery to benefit
+    the common citizen? Discuss the challenges of this alternative model.
+  source_url: 'author''s compilation: SocialJusticePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-03-M2021-S01
+  topic_id: GS2-GOV-03
+  year: 2021
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: “Though women in post-Independent India have excelled in various fields, the social attitude towards women and feminist
+    movement has been patriarchal.” Apart from women education and women empowerment schemes, what interventions can help
+    change this milieu?
+  source_url: 'author''s compilation: SocialJusticePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-04-M2021-S01
+  topic_id: GS2-GOV-04
+  year: 2021
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: “Besides being a moral imperative of a Welfare State, primary health structure is a necessary precondition for sustainable
+    development.” Analyse.
+  source_url: 'author''s compilation: SocialJusticePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-05-M2021-S01
+  topic_id: GS2-GOV-05
+  year: 2021
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: “Earn while you learn scheme needs to be strengthened to make vocational education and skill training meaningful.”
+    Comment.
+  source_url: 'author''s compilation: SocialJusticePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-07-M2021-S01
+  topic_id: GS2-GOV-07
+  year: 2021
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Has digital illiteracy, particularly in rural areas, coupled with lack of Information and Communication Technology
+    (ICT) accessibility hindered socio-economic development? Examine with justification.
+  source_url: 'author''s compilation: GovernancePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+  notes: 'Topic mapping uncertain: Digital divide/ICT access; closest to e-governance'
+- id: GS2-IR-03-M2021-S01
+  topic_id: GS2-IR-03
+  year: 2021
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: “If the last few decades were of Asia’s growth story, the next few are expected to be of Africa’s.”In the light of
+    this statement, examine India’s influence in Africa in recent years.
+  source_url: 'author''s compilation: IRPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-IR-04-M2021-S01
+  topic_id: GS2-IR-04
+  year: 2021
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Critically examine the aims and objectives of SCO. What importance does it hold for India?
+  source_url: 'author''s compilation: IRPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-IR-04-M2021-S02
+  topic_id: GS2-IR-04
+  year: 2021
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: The new tri-nation partnership AUKUS is aimed at countering China’s ambitions in the Indo-Pacific region. Is it going
+    to supersede the existing partnerships in the region? Discuss the strength and impact of AUKUS in the present scenario.
+  source_url: 'author''s compilation: IRPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-IR-05-M2021-S01
+  topic_id: GS2-IR-05
+  year: 2021
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: “The USA is facing an existential threat in the form of China, that is much more challenging than the erstwhile Soviet
+    Union.” Explain.
+  source_url: 'author''s compilation: IRPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-04-M2021-S01
+  topic_id: GS2-POL-04
+  year: 2021
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: The jurisdiction of the Central Bureau of Investigation (CBI) regarding lodging an FIR and conducting probe within
+    a particular State is being questioned by various States. However, the power of the States to withhold consent to the
+    CBI is not absolute. Explain with special reference to the federal character of India.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-05-M2021-S01
+  topic_id: GS2-POL-05
+  year: 2021
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: How have the recommendations of the 14th Finance Commission of India enabled the States to improve their fiscal position?
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-07-M2021-S01
+  topic_id: GS2-POL-07
+  year: 2021
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: ‘Constitutional Morality’ is rooted in the Constitution itself and is founded on its essential facets. Explain the
+    doctrine of ‘Constitutional Morality’ with the help of relevant judicial decisions.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-09-M2021-S01
+  topic_id: GS2-POL-09
+  year: 2021
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Analyse the distinguishing features of the notion of Right to Equality in the Constitutions of the USA and India.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-10-M2021-S01
+  topic_id: GS2-POL-10
+  year: 2021
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: To what extent, in your view, the Parliament is able to ensure accountability of the executive in India?
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-10-M2021-S02
+  topic_id: GS2-POL-10
+  year: 2021
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Explain the constitutional provisions under which Legislative Councils are established. Review the working and current
+    status of Legislative Councils with suitable illustrations.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-10-M2021-S03
+  topic_id: GS2-POL-10
+  year: 2021
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Do Department-related Parliamentary Standing Committees keep the administration on its toes and inspire reverence
+    for parliamentary control? Evaluate the working of such committees with suitable examples.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-11-M2021-S01
+  topic_id: GS2-POL-11
+  year: 2021
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: “Pressure groups play a vital role in influencing public policy making in India.” Explain how the business associations
+    contribute to public policies.
+  source_url: 'author''s compilation: GovernancePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-12-M2021-S01
+  topic_id: GS2-POL-12
+  year: 2021
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Discuss the desirability of greater representation to women in the higher judiciary to ensure diversity, equity and
+    inclusiveness.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-15-M2021-S01
+  topic_id: GS2-POL-15
+  year: 2021
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Though the Human Rights Commissions have contributed immensely to the protection of human rights in India, yet they
+    have failed to assert themselves against the mighty and powerful. Analysing their structural and practical limitations,
+    suggest remedial measures.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-02-M2020-S01
+  topic_id: GS2-GOV-02
+  year: 2020
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: “Micro-Finance as an anti-poverty vaccine, is aimed at asset creation and income security of the rural poor in India”.
+    Evaluate the role of the Self Help Groups in achieving the twin objectives along with empowering women in rural India.
+  source_url: 'author''s compilation: SocialJusticePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-04-M2020-S01
+  topic_id: GS2-GOV-04
+  year: 2020
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: In order to enhance the prospects of social development, sound and adequate health care policies are needed particularly
+    in the fields of geriatric and maternal health care. Discuss.
+  source_url: 'author''s compilation: SocialJusticePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-05-M2020-S01
+  topic_id: GS2-GOV-05
+  year: 2020
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: National Education Policy 2020 is in conformity with the Sustainable Development Goal-4 (2030). It intends to restructure
+    and reorient education system in India. Critically examine the statement.
+  source_url: 'author''s compilation: SocialJusticePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-06-M2020-S01
+  topic_id: GS2-GOV-06
+  year: 2020
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: “The incidence and intensity of poverty are more important in determining poverty based on income alone”. In this
+    context analyse the latest United Nations Multidimensional Poverty Index Report.
+  source_url: 'author''s compilation: SocialJusticePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-07-M2020-S01
+  topic_id: GS2-GOV-07
+  year: 2020
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: “The emergence of the Fourth Industrial Revolution (Digital Revolution) has initiated e-Governance as an integral
+    part of government”. Discuss.
+  source_url: 'author''s compilation: GovernancePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-07-M2020-S02
+  topic_id: GS2-GOV-07
+  year: 2020
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: “Recent amendments to the Right to Information Act will have a profound impact on the autonomy and independence of
+    the Information Commission”. Discuss.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-08-M2020-S01
+  topic_id: GS2-GOV-08
+  year: 2020
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: “Institutional quality is a crucial driver of economic performance”. In this context suggest reforms in the Civil
+    Service for strengthening democracy.
+  source_url: 'author''s compilation: GovernancePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-IR-03-M2020-S01
+  topic_id: GS2-IR-03
+  year: 2020
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: What is the significance of Indo-US defence deals over Indo-Russian defence deals? Discuss with reference to stability
+    in the Indo-Pacific region.
+  source_url: 'author''s compilation: IRPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-IR-04-M2020-S01
+  topic_id: GS2-IR-04
+  year: 2020
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Quadrilateral Security Dialogue (Quad) is transforming itself into a trade bloc from a military alliance, in present
+    times Discuss.
+  source_url: 'author''s compilation: IRPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-IR-05-M2020-S01
+  topic_id: GS2-IR-05
+  year: 2020
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: ‘Indian diaspora has a decisive role to play in the politics and economy of America and European Countries’. Comment
+    with examples.
+  source_url: 'author''s compilation: IRPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-IR-06-M2020-S01
+  topic_id: GS2-IR-06
+  year: 2020
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Critically examine the role of WHO in providing global health security during the Covid-19 pandemic.
+  source_url: 'author''s compilation: IRPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-04-M2020-S01
+  topic_id: GS2-POL-04
+  year: 2020
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: How far do you think cooperation, competition and confrontation have shaped the nature of federation in India? Cite
+    some recent examples to validate your answer.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-04-M2020-S02
+  topic_id: GS2-POL-04
+  year: 2020
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Indian Constitution exhibits centralising tendencies to maintain unity and integrity of the nation. Elucidate in the
+    perspective of the Epidemic Diseases Act, 1897; The Disaster Management Act, 2005 and recently passed Farm Acts.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-06-M2020-S01
+  topic_id: GS2-POL-06
+  year: 2020
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: The strength and sustenance of local institutions in India has shifted from their formative phase of ‘Functions, Functionaries
+    and Funds’ to the contemporary stage of ‘Functionality’. Highlight the critical challenges faced by local institutions
+    in terms of their functionality in recent times.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-07-M2020-S01
+  topic_id: GS2-POL-07
+  year: 2020
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Judicial Legislation is antithetical to the doctrine of separation of powers as envisaged in the Indian Constitution.
+    In this context justify the filing of large number of public interest petitions praying for issuing guidelines to executive
+    authorities.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-09-M2020-S01
+  topic_id: GS2-POL-09
+  year: 2020
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: The judicial systems in India and the UK seem to be converging as well as diverging in recent times. Highlight the
+    key points of convergence and divergence between the two nations in terms of their judicial practices.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-10-M2020-S01
+  topic_id: GS2-POL-10
+  year: 2020
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: ‘Once a Speaker, Always a Speaker’! Do you think this practice should be adopted to impart objectivity to the office
+    of the Speaker of Lok Sabha? What could be its implications for the robust functioning of parliamentary business in India?
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-10-M2020-S02
+  topic_id: GS2-POL-10
+  year: 2020
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Rajya Sabha has been transformed from a ‘useless stepney tyre’ to the most useful supporting organ in past few decades.
+    Highlight the factors as well as the areas in which this transformation could be visible.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-13-M2020-S01
+  topic_id: GS2-POL-13
+  year: 2020
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: “There is a need for simplification of procedure for disqualification of persons found guilty of corrupt practices
+    under the Representation of Peoples Act”. Comment.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-14-M2020-S01
+  topic_id: GS2-POL-14
+  year: 2020
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Which steps are required for constitutionalization of a Commission? Do you think imparting constitutionality to the
+    National Commission for Women would ensure greater gender justice and empowerment in India? Give reasons.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-03-M2019-S01
+  topic_id: GS2-POL-03
+  year: 2019
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: “Parliament’s power to amend the Constitution is a limited power and it cannot be enlarged into absolute power.” In
+    the light of this statement explain whether Parliament under Article 368 of the Constitution can destroy the Basic Structure
+    of the Constitution by expanding its amending power?
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-04-M2019-S01
+  topic_id: GS2-POL-04
+  year: 2019
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: From the resolution of contentious issues regarding distribution of legislative powers by the courts, ‘Principle of
+    Federal Supremacy’ and ‘Harmonious Construction’ have emerged. Explain.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-06-M2019-S01
+  topic_id: GS2-POL-06
+  year: 2019
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: “The reservation of seats for women in the institutions of local self-government has had a limited impact on the patriarchal
+    character of the Indian Political Process.” Comment.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-07-M2019-S01
+  topic_id: GS2-POL-07
+  year: 2019
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Do you think that Constitution of India does not accept principle of strict separation of powers rather it is based
+    on the principle of ‘checks and balance’? Explain.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-08-M2019-S01
+  topic_id: GS2-POL-08
+  year: 2019
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: The Central Administrative Tribunal which was established for redressal of grievances and complaints by or against
+    central government employees, nowadays is exercising its powers as an independent judicial authority. Explain.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-09-M2019-S01
+  topic_id: GS2-POL-09
+  year: 2019
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: What can France learn from the Indian Constitution’s approach to secularism?
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-10-M2019-S01
+  topic_id: GS2-POL-10
+  year: 2019
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: “Individual Parliamentarian’s role as the national law maker is on a decline, which in turn, has adversely impacted
+    the quality of debates and their outcome.” Discuss.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-11-M2019-S01
+  topic_id: GS2-POL-11
+  year: 2019
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: What are the methods used by the farmers’ organisations to influence the policy-makers in India and how effective
+    are these methods?
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-13-M2019-S01
+  topic_id: GS2-POL-13
+  year: 2019
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: On what grounds a people’s representative can be disqualified under the Representation of People Act, 1951? Also mention
+    the remedies available to such person against his disqualification.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-14-M2019-S01
+  topic_id: GS2-POL-14
+  year: 2019
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: “The Attorney-General is the chief legal adviser and lawyer of the Government of India.” Discuss.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-01-M2018-S01
+  topic_id: GS2-GOV-01
+  year: 2018
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: “Policy Contradictions among various competing sectors and stakeholders have resulted in inadequate ‘protection and
+    prevention of degradation’ to environment.” Comment with relevant illustrations.
+  source_url: 'author''s compilation: GovernancePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-04-M2018-S01
+  topic_id: GS2-GOV-04
+  year: 2018
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Appropriate local community-level healthcare intervention is a prerequisite to achieve ‘Health for All’ in India.
+    Explain.
+  source_url: 'author''s compilation: SocialJusticePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-06-M2018-S01
+  topic_id: GS2-GOV-06
+  year: 2018
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: How far do you agree with the view that the focus on lack of availability of food as the main cause of hunger takes
+    the attention away from ineffective human development policies in India?
+  source_url: 'author''s compilation: SocialJusticePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-07-M2018-S01
+  topic_id: GS2-GOV-07
+  year: 2018
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: E-governance is not only about utilization of the power of new technology, but also much about critical importance
+    of the ‘use value’ of information. Explain.
+  source_url: 'author''s compilation: GovernancePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-07-M2018-S02
+  topic_id: GS2-GOV-07
+  year: 2018
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: The Citizens’ Charter is an ideal instrument of organizational transparency and accountability, but it has its own
+    limitations. Identify the limitations and suggest measures for greater effectiveness of the Citizens’ Charter.
+  source_url: 'author''s compilation: GovernancePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-IR-03-M2018-S01
+  topic_id: GS2-IR-03
+  year: 2018
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: “India’s relations with Israel have, of late, acquired a depth and diversity, which cannot be rolled back.” Discuss.
+  source_url: 'author''s compilation: IRPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-IR-03-M2018-S02
+  topic_id: GS2-IR-03
+  year: 2018
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: A number of outside powers have entrenched themselves in Central Asia, which is a zone of interest to India. Discuss
+    the implications, in this context, of India’s joining the Ashgabat Agreement, 2018.
+  source_url: 'author''s compilation: IRPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-IR-03-M2018-S03
+  topic_id: GS2-IR-03
+  year: 2018
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: In what ways would the ongoing U.S-Iran Nuclear Pact Controversy affect the national interest of India? How should
+    India respond to this situation?
+  source_url: 'author''s compilation: IRPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-IR-06-M2018-S01
+  topic_id: GS2-IR-06
+  year: 2018
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: What are the key areas of reform if the WTO has to survive in the present context of ‘Trade War’, especially keeping
+    in mind the interest of India?
+  source_url: 'author''s compilation: IRPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-04-M2018-S01
+  topic_id: GS2-POL-04
+  year: 2018
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Under what circumstances can the Financial Emergency be proclaimed by the President of India? What consequences follow
+    when such a declaration remain in force?
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-04-M2018-S02
+  topic_id: GS2-POL-04
+  year: 2018
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Whether the Supreme Court Judgment (July 2018) can settle the political tussle between the Lt. Governor and elected
+    government of Delhi? Examine.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-05-M2018-S01
+  topic_id: GS2-POL-05
+  year: 2018
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: How is the Finance Commission of India constituted? What do you know about the terms of reference of the recently
+    constituted Finance Commission? Discuss.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-06-M2018-S01
+  topic_id: GS2-POL-06
+  year: 2018
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Assess the importance of the Panchayat system in India as a part of local government. Apart from government grants,
+    what sources the Panchayats can look out for financing development projects?
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-08-M2018-S01
+  topic_id: GS2-POL-08
+  year: 2018
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: How far do you agree with the view that tribunals curtail the jurisdiction of ordinary courts? In view of the above,
+    discuss the constitutional validity and competency of the tribunals in India?
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-09-M2018-S01
+  topic_id: GS2-POL-09
+  year: 2018
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: India and USA are the two large democracies. Examine the basic tenets on which the two political systems are based.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-10-M2018-S01
+  topic_id: GS2-POL-10
+  year: 2018
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Why do you think the committees are considered to be useful for parliamentary work? Discuss, in this context, the
+    role of the Estimates Committee.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-13-M2018-S01
+  topic_id: GS2-POL-13
+  year: 2018
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: In the light of recent controversy regarding the use of Electronic Voting Machine (EVM), what are the challenges before
+    the Election Commission of India to ensure the trustworthiness of elections in India?
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-14-M2018-S01
+  topic_id: GS2-POL-14
+  year: 2018
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Whether National Commission for Scheduled Castes (NCSC) can enforce the implementation of constitutional reservation
+    for the Scheduled Castes in the religious minority institutions? Examine.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-14-M2018-S02
+  topic_id: GS2-POL-14
+  year: 2018
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: “The Comptroller and Auditor General (CAG) has a very vital role to play.” Explain how this is reflected in the method
+    and terms of his appointment as well as the range of powers he can exercise.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-15-M2018-S01
+  topic_id: GS2-POL-15
+  year: 2018
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Multiplicity of various commissions for the vulnerable sections of the society leads to problems of overlapping jurisdiction
+    & duplication of functions. Is it better to merge all commissions into an umbrella human rights commission? Argue your
+    case.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-01-M2017-S01
+  topic_id: GS2-GOV-01
+  year: 2017
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: ‘To ensure effective implementation of policies addressing water, sanitation and hygiene needs, the identification
+    of beneficiary segments is to be synchronized with the anticipated outcomes’. Examine the statement in the context of
+    the WASH scheme.
+  source_url: 'author''s compilation: SocialJusticePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-02-M2017-S01
+  topic_id: GS2-GOV-02
+  year: 2017
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: ‘The emergence of Self Help Groups (SHGs) in contemporary times points to the slow but steady withdrawal of the state
+    from developmental activities’. Examine the role of the SHGs in developmental activities and the measures taken by the
+    Government of India to promote the SHGs.
+  source_url: 'author''s compilation: GovernancePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-03-M2017-S01
+  topic_id: GS2-GOV-03
+  year: 2017
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Is the National Commission for Women able to strategise and tackle the problems that women face at both public and
+    private spheres? Give reasons in support of your answer.
+  source_url: 'author''s compilation: GovernancePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-03-M2017-S02
+  topic_id: GS2-GOV-03
+  year: 2017
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Does the Rights of Persons with Disabilities Act, 2016 ensure effective mechanism for empowerment and inclusion of
+    the intended beneficiaries in the society? Discuss.
+  source_url: 'author''s compilation: SocialJusticePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-06-M2017-S01
+  topic_id: GS2-GOV-06
+  year: 2017
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: “Poverty Alleviation programs in India remain mere showpieces until and unless they are backed up by political will.”
+    Discuss with reference to the performance of the major poverty alleviation program in India.
+  source_url: 'author''s compilation: GovernancePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-06-M2017-S02
+  topic_id: GS2-GOV-06
+  year: 2017
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Hunger and Poverty are the biggest challenges for good governance in India still today. Evaluate how far successive
+    governments have progressed in dealing with these humongous problems. Suggest measures for improvement.
+  source_url: 'author''s compilation: SocialJusticePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-08-M2017-S01
+  topic_id: GS2-GOV-08
+  year: 2017
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Initially Civil Services in India were designed to achieve the goals of neutrality and effectiveness, which seems
+    to be lacking in the present context. Do you agree with the view that drastic reforms are required in Civil Services.
+    Comment.
+  source_url: 'author''s compilation: GovernancePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-IR-01-M2017-S01
+  topic_id: GS2-IR-01
+  year: 2017
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: ‘China is using its economic relations and positive trade surplus as tools to develop potential military power status
+    in Asia’. In the light of this statement, discuss its impact on India as her neighbour.
+  source_url: 'author''s compilation: IRPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-IR-03-M2017-S01
+  topic_id: GS2-IR-03
+  year: 2017
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: The question of India’s Energy Security Constitutes the most important part of India’s economic progress. Analyse
+    India’s energy policy cooperation with West Asian countries.
+  source_url: 'author''s compilation: IRPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-IR-05-M2017-S01
+  topic_id: GS2-IR-05
+  year: 2017
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Indian Diaspora has an important role to play in South East Asian countries economy and society. Appraise the role
+    of Indian Diaspora in South-East Asia in this context.
+  source_url: 'author''s compilation: IRPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-IR-06-M2017-S01
+  topic_id: GS2-IR-06
+  year: 2017
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: What are the main functions of the United Nations Economic and Social Council (ECOSOC)? Explain different functional
+    commissions attached to it.
+  source_url: 'author''s compilation: IRPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-02-M2017-S01
+  topic_id: GS2-POL-02
+  year: 2017
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Examine the scope of Fundamental Rights in the light of the latest judgement of the Supreme Court on Right to Privacy.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-05-M2017-S01
+  topic_id: GS2-POL-05
+  year: 2017
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Explain the salient features of the constitution (One Hundred and First Amendment) Act, 2016. Do you think it is efficacious
+    enough ‘to remove cascading effect of taxes and provide for common national market for goods and services’?
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-06-M2017-S01
+  topic_id: GS2-POL-06
+  year: 2017
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: “The local self government system in India has not proved to be effective instrument of governance”. Critically examine
+    the statement and give your views to improve the situation.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-10-M2017-S01
+  topic_id: GS2-POL-10
+  year: 2017
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Discuss the role of Public Accounts Committee in establishing accountability of the government to the people.
+  source_url: 'author''s compilation: GovernancePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-10-M2017-S02
+  topic_id: GS2-POL-10
+  year: 2017
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: The Indian Constitution has provisions for holding a joint session of the two houses of the Parliament. Enumerate
+    the occasions when this would normally happen and also the occasions when it cannot, with reasons thereof.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-11-M2017-S01
+  topic_id: GS2-POL-11
+  year: 2017
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: How do pressure groups influence Indian political process? Do you agree with this view that informal pressure groups
+    have emerged as powerful as formal pressure groups in recent years?
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-12-M2017-S01
+  topic_id: GS2-POL-12
+  year: 2017
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Critically examine the Supreme Court’s judgement on ‘National Judicial Appointments Commission Act, 2014’ with reference
+    to appointment of judges of higher judiciary in India.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-13-M2017-S01
+  topic_id: GS2-POL-13
+  year: 2017
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: ‘Simultaneous election to the Lok Sabha and the State Assemblies will limit the amount of time and money spent in
+    electioneering but it will reduce the government’s accountability to the people’ Discuss.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-13-M2017-S02
+  topic_id: GS2-POL-13
+  year: 2017
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: To enhance the quality of democracy in India the Election Commission of India has proposed electoral reforms in 2016.
+    What are the suggested reforms and how far are they significant to make democracy successful?
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-01-M2016-S01
+  topic_id: GS2-GOV-01
+  year: 2016
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: “Effectiveness of the government system at various levels and people’s participation in the governance system are
+    interdependent” Discuss their relationship in the context of India.
+  source_url: 'author''s compilation: GovernancePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-01-M2016-S02
+  topic_id: GS2-GOV-01
+  year: 2016
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Has the Indian governmental system responded adequately to the demands of Liberalization, Privatization and Globalization
+    started in 1991? What can the government do to be responsive to this important change?
+  source_url: 'author''s compilation: GovernancePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+  notes: 'Topic mapping uncertain: Governance responsiveness to LPG reforms; no exact topic; also GOV-08'
+- id: GS2-GOV-02-M2016-S01
+  topic_id: GS2-GOV-02
+  year: 2016
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: “In the Indian governance system, the role of non-state actors has been only marginal.” Critically examine this statement.
+  source_url: 'author''s compilation: GovernancePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-03-M2016-S01
+  topic_id: GS2-GOV-03
+  year: 2016
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Examine the main provisions of the National Child Policy and throw light on the status of its implementation.
+  source_url: 'author''s compilation: SocialJusticePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-05-M2016-S01
+  topic_id: GS2-GOV-05
+  year: 2016
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: “Demographic Dividend in India will remain only theoretical unless our manpower becomes more educated, aware, skilled
+    and creative.” What measures have been taken by the government to enhance the capacity of our population to be more productive
+    and employable?
+  source_url: 'author''s compilation: GovernancePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-05-M2016-S02
+  topic_id: GS2-GOV-05
+  year: 2016
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Professor Amartya Sen has advocated important reforms in the realms of primary education and primary health care.
+    What are your suggestions to improve their status and performance?
+  source_url: 'author''s compilation: SocialJusticePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-07-M2016-S01
+  topic_id: GS2-GOV-07
+  year: 2016
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: In the integrity index of Transparency International, India stands very low. Discuss briefly the legal, political,
+    social and cultural factors that have caused the decline of public morality in India.
+  source_url: 'author''s compilation: GovernancePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+  notes: 'Topic mapping uncertain: Public morality/corruption; overlaps GS4 ethics'
+- id: GS2-GOV-08-M2016-S01
+  topic_id: GS2-GOV-08
+  year: 2016
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: “Traditional bureaucratic structure and culture have hampered the process of socio-economic development in India.”
+    Comment.
+  source_url: 'author''s compilation: GovernancePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-IR-02-M2016-S01
+  topic_id: GS2-IR-02
+  year: 2016
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Evaluate the economic and strategic dimensions of India’s Look East Policy in the context of the post Cold War international
+    scenario.
+  source_url: 'author''s compilation: IRPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+  notes: 'Topic mapping uncertain: Look East/Southeast Asia not covered; closest neighbourhood topic'
+- id: GS2-IR-04-M2016-S01
+  topic_id: GS2-IR-04
+  year: 2016
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: '"Increasing crossborder terrorist attacks in India and growing interference in the internal affairs of several memberstates
+    by Pakistan are not conducive for the future of SAARC (South Asian Association for Regional Cooperation)." Explain with
+    suitable examples.'
+  source_url: 'author''s compilation: IRPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-IR-06-M2016-S01
+  topic_id: GS2-IR-06
+  year: 2016
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: “The broader aims and objectives of WTO are to manage and promote international trade in the era of globalization.
+    But the Doha round of negotiations seem doomed due to differences between the developed and the developing countries.”
+    Discuss in the Indian perspective.
+  source_url: 'author''s compilation: IRPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-IR-06-M2016-S02
+  topic_id: GS2-IR-06
+  year: 2016
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: What are the aims and objectives of the McBride Commission of the UNESCO? What is India’s position on these?
+  source_url: 'author''s compilation: IRPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-01-M2016-S01
+  topic_id: GS2-POL-01
+  year: 2016
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Did the Government of India Act, 1935 lay down a federal constitution? Discuss.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-02-M2016-S01
+  topic_id: GS2-POL-02
+  year: 2016
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Discuss each adjective attached to the word ‘Republic’ in the ‘Preamble’. Are they defendable in the present circumstances?
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-03-M2016-S01
+  topic_id: GS2-POL-03
+  year: 2016
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: What was held in the Coelho case? In this context, can you say that judicial review is of key importance amongst the
+    basic features of the Constitution?
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-04-M2016-S01
+  topic_id: GS2-POL-04
+  year: 2016
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Discuss the essentials of the 69th Constitutional Amendment Act and anomalies, if any, that have led to recent reported
+    conflicts between the elected representatives and institution of Lieutenant Governor in the administration of Delhi. Do
+    you think that this will give rise to a new trend in the functioning of the Indian Federal Politics?
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-04-M2016-S02
+  topic_id: GS2-POL-04
+  year: 2016
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: To what extent is Article 370 of the Indian Constitution, bearing marginal note “Temporary provision with respect
+    to the State of Jammu and Kashmir”, temporary? Discuss the future prospects of this provision in the context of Indian
+    polity.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-04-M2016-S03
+  topic_id: GS2-POL-04
+  year: 2016
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: “The Indian party system is passing through a phase of transition which looks to be full of contradictions and paradoxes.”
+    Discuss.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-14-M2016-S01
+  topic_id: GS2-POL-14
+  year: 2016
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Exercise of CAG’s powers in relation to the accounts of the Union and the States is derived from Article 149 of the
+    Indian Constitution. Discuss whether audit of the Government’s policy implementation could amount to overstepping its
+    own (CAG) jurisdiction.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-15-M2016-S01
+  topic_id: GS2-POL-15
+  year: 2016
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: What is quasi judicial body? Explain with the help of concrete examples.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-02-M2015-S01
+  topic_id: GS2-GOV-02
+  year: 2015
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Examine critically the recent changes in the rules governing foreign funding of NGOs under the Foreign Contribution
+    (Regulation) Act (FCRA), 1976.
+  source_url: 'author''s compilation: GovernancePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-02-M2015-S02
+  topic_id: GS2-GOV-02
+  year: 2015
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: The Self Help Group (SHG) Bank Linkage Programme (SBLP), which is India’s own innovation, has proved to be one of
+    the most effective poverty alleviation and women empowerment programmes. Elucidate.
+  source_url: 'author''s compilation: GovernancePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-02-M2015-S03
+  topic_id: GS2-GOV-02
+  year: 2015
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: How can the role of NGOs be strengthened in India for development works relating to protection of the environment?
+    Discuss throwing light on the major constraints.
+  source_url: 'author''s compilation: GovernancePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-04-M2015-S01
+  topic_id: GS2-GOV-04
+  year: 2015
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Public health system has limitations in providing universal health coverage. Do you think that private sector could
+    help in bridging the gap? What other viable alternatives would you suggest?
+  source_url: 'author''s compilation: SocialJusticePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-05-M2015-S01
+  topic_id: GS2-GOV-05
+  year: 2015
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: The quality of higher education in India requires major improvements to make it internationally competitive. Do you
+    think that the entry of foreign educational institutions would help improve the quality of technical and higher education
+    in the country? Discuss.
+  source_url: 'author''s compilation: SocialJusticePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-06-M2015-S01
+  topic_id: GS2-GOV-06
+  year: 2015
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Though there have been several different estimates of poverty in India, all indicate reduction in poverty levels over
+    time. Do you agree? Critically examine with reference to urban and rural poverty indicators.
+  source_url: 'author''s compilation: SocialJusticePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-07-M2015-S01
+  topic_id: GS2-GOV-07
+  year: 2015
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: In the light of Satyam Scandal (2009), discuss the changes brought in corporate governance to ensure transparency,
+    accountability.
+  source_url: 'author''s compilation: GovernancePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+  notes: 'Topic mapping uncertain: Corporate governance post-Satyam; no corporate governance topic, closest transparency'
+- id: GS2-GOV-07-M2015-S02
+  topic_id: GS2-GOV-07
+  year: 2015
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: “If amendment bill to the Whistleblowers Protection Act, 2011 tabled in the Parliament is passed, there may be no
+    one left to protect.” Critically evaluate.
+  source_url: 'author''s compilation: GovernancePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-IR-01-M2015-S01
+  topic_id: GS2-IR-01
+  year: 2015
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Terrorist activities and mutual distrust have clouded India – Pakistan relations. To what extent the use of soft power
+    like sports and cultural exchanges could help generate goodwill between the two countries? Discuss with suitable examples.
+  source_url: 'author''s compilation: IRPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-IR-02-M2015-S01
+  topic_id: GS2-IR-02
+  year: 2015
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Project ‘Mausam’ is considered a unique foreign policy initiative of Indian Government to improve relationship with
+    its neighbours. Does the project have a strategic dimension? Discuss.
+  source_url: 'author''s compilation: IRPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-IR-03-M2015-S01
+  topic_id: GS2-IR-03
+  year: 2015
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Increasing interest of India in Africa has its pro and cons. Critically examine.
+  source_url: 'author''s compilation: IRPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-IR-06-M2015-S01
+  topic_id: GS2-IR-06
+  year: 2015
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Discuss the impediments India is facing in its pursuit of a permanent seat in UN Security Council.
+  source_url: 'author''s compilation: IRPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-02-M2015-S01
+  topic_id: GS2-POL-02
+  year: 2015
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Khap panchayats have been in the news for functioning as extra–constitutional authorities, often delivering pronouncements
+    amounting to human rights violations. Discuss critically the actions taken by the legislative, executive and the judiciary
+    to set the things right in this regard.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+  notes: 'Topic mapping uncertain: Khap panchayats/honour killings: extra-constitutional bodies and human rights violations;
+    no direct topic; closest is FR/Art 21 & gender justice (also GS2-POL-07, GS2-GOV-03)'
+- id: GS2-POL-02-M2015-S02
+  topic_id: GS2-POL-02
+  year: 2015
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Does the right to clean environment entail legal regulation on burning crackers during Diwali? Discuss in the light
+    of Article 21 of Indian Constitution and Judgement(s) of the Apex court in this regard.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-03-M2015-S01
+  topic_id: GS2-POL-03
+  year: 2015
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Discuss the possible factors that inhibit India from enacting for its citizen a uniform civil code as provided for
+    in the Directive Principles of State Policy.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-04-M2015-S01
+  topic_id: GS2-POL-04
+  year: 2015
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: The concept of cooperative federalism has been increasingly emphasised in recent years. Highlight the drawbacks in
+    the existing structure and the extent to which cooperative federalism would answer the shortcomings.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-06-M2015-S01
+  topic_id: GS2-POL-06
+  year: 2015
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: In absence of well–educated and organised local level government system, ‘Panchayats’ and ‘Samitis’ have remained
+    mainly political institutions and not effective instruments of governance. Critically discuss.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-08-M2015-S01
+  topic_id: GS2-POL-08
+  year: 2015
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: What are the major changes brought in the Arbitration and Conciliation Act, 1996 through the recent Ordinance promulgated
+    by the President? How far will it improve India’s dispute resolution mechanism? Discuss.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-11-M2015-S01
+  topic_id: GS2-POL-11
+  year: 2015
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Resorting to ordinances has always raised concern on violation of the spirit of separation of powers doctrine. While
+    noting the rationales justifying the power to promulgate ordinances, analyse whether the decisions of the Supreme Court
+    on the issue have further facilitated resorting to this power. Should the power to promulgate the ordinances be repealed?
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-15-M2015-S01
+  topic_id: GS2-POL-15
+  year: 2015
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: “For achieving the desired objectives, it is necessary to ensure that the regulatory institutions remain independent
+    and autonomous.” Discuss in the light of experiences in recent past.
+  source_url: 'author''s compilation: GovernancePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-01-M2014-S01
+  topic_id: GS2-GOV-01
+  year: 2014
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Though 100 percent FDI is already allowed in non-news media like a trade publication and general entertainment channel,
+    the Government is mulling over the proposal for increased FDI in news media for quite some time. What difference would
+    an increase in FDI make? Critically evaluate the pros and cons.
+  source_url: 'author''s compilation: GovernancePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+  notes: 'Topic mapping uncertain: FDI in news media policy; largely GS3 economy'
+- id: GS2-GOV-01-M2014-S02
+  topic_id: GS2-GOV-01
+  year: 2014
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: An athlete participates in Olympics for personal triumph and nation’s glory; victors are showered with cash incentives
+    by various agencies, on their return. Discuss the merit of state sponsored talent hunt and its cultivation as against
+    the rationale of a reward mechanism as encouragement.
+  source_url: 'author''s compilation: GovernancePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+  notes: 'Topic mapping uncertain: Sports talent policy design; no specific topic'
+- id: GS2-GOV-02-M2014-S01
+  topic_id: GS2-GOV-02
+  year: 2014
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: The penetration of Self Help Groups (SHGs) in rural areas in promoting participation in development programmes is
+    facing socio-cultural hurdles. Examine.
+  source_url: 'author''s compilation: GovernancePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-03-M2014-S01
+  topic_id: GS2-GOV-03
+  year: 2014
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Do government’s schemes for up-lifting vulnerable and backward communities by protecting required social resources
+    for them, lead to their exclusion in establishing businesses in urban economies?
+  source_url: 'author''s compilation: SocialJusticePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-05-M2014-S01
+  topic_id: GS2-GOV-05
+  year: 2014
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Should the premier institutes like IITs/IIMs be allowed to retain premier status, allowed more academic independence
+    in designing courses and also decide mode/criteria of selection of students. Discuss in light of the growing challenges.
+  source_url: 'author''s compilation: GovernancePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-07-M2014-S01
+  topic_id: GS2-GOV-07
+  year: 2014
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Two parallel run schemes of the Government, viz. the Adhaar Card and NPR, one as voluntary and the other as compulsory,
+    have led to debates at national levels and also litigations. On merits, discuss whether or not both schemes need run concurrently.
+    Analyse the potential of the schemes to achieve developmental benefits and equitable growth.
+  source_url: 'author''s compilation: GovernancePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-08-M2014-S01
+  topic_id: GS2-GOV-08
+  year: 2014
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Has the Cadre based Civil Services Organization been the cause of slow change in India? Critically examine.
+  source_url: 'author''s compilation: GovernancePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-IR-01-M2014-S01
+  topic_id: GS2-IR-01
+  year: 2014
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: With respect to the South China sea, maritime territorial disputes and rising tension affirm the need for safeguarding
+    maritime security to ensure freedom of navigation and over flight throughout the region. In this context, discuss the
+    bilateral issues between India and China.
+  source_url: 'author''s compilation: IRPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-IR-04-M2014-S01
+  topic_id: GS2-IR-04
+  year: 2014
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: India has recently signed to become founding member of New Development Bank (NDB) and also the Asian Infrastructure
+    Investment Bank (AIIB). How will the role of the two Banks be different? Discuss the strategic significance of these two
+    Banks for India.
+  source_url: 'author''s compilation: IRPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-IR-06-M2014-S01
+  topic_id: GS2-IR-06
+  year: 2014
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: The aim of Information Technology Agreements (ITAs) is to lower all taxes and tariffs on information technology products
+    by signatories to zero. What impact would such agreements have on India’s interests?
+  source_url: 'author''s compilation: IRPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-IR-06-M2014-S02
+  topic_id: GS2-IR-06
+  year: 2014
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Some of the International funding agencies have special terms for economic participation stipulating a substantial
+    component of the aid to be used for sourcing equipment from the leading countries. Discuss on merits of such terms and
+    if, there exists a strong case not to accept such conditions in the Indian context.
+  source_url: 'author''s compilation: IRPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+  notes: 'Topic mapping uncertain: Tied aid from international funding agencies; no exact topic'
+- id: GS2-IR-06-M2014-S03
+  topic_id: GS2-IR-06
+  year: 2014
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: WTO is an important international institution where decisions taken affect countries in a profound manner. What is
+    the mandate of WTO and how binding are their decisions? Critically analyse India’s stand on the latest round of talks
+    on Food security.
+  source_url: 'author''s compilation: IRPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-02-M2014-S01
+  topic_id: GS2-POL-02
+  year: 2014
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: What do you understand by the concept “freedom of speech and expression”? Does it cover hate speech also? Why do the
+    films in India stand on a slightly different plane from other forms of expression? Discuss.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-04-M2014-S01
+  topic_id: GS2-POL-04
+  year: 2014
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Though the federal principle is dominant in our Constitution and that principle is one of its basic features, but
+    it is equally true that federalism under the Indian Constitution leans in favour of a strong Centre, a feature that militates
+    against the concept of strong federalism. Discuss.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-07-M2014-S01
+  topic_id: GS2-POL-07
+  year: 2014
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Starting from inventing the ‘basic structure’ doctrine, the judiciary has played a highly proactive role in ensuring
+    that India develops into a thriving democracy. In light of the statement, evaluate the role played by judicial activism
+    in achieving the ideals of democracy.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-10-M2014-S01
+  topic_id: GS2-POL-10
+  year: 2014
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: The ‘Powers, Privileges and Immunities of Parliament and its Members’ as envisaged in Article 105 of the Constitution
+    leave room for a large number of un-codified and un-enumerated privileges to continue. Assess the reasons for the absence
+    of legal codification of the ‘parliamentary privileges’. How can this problem be addressed?
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-11-M2014-S01
+  topic_id: GS2-POL-11
+  year: 2014
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: The size of the cabinet should be as big as governmental work justifies and as big as the Prime Minister can manage
+    as a team. How far is the efficacy of a government then inversely related to the size of the cabinet? Discuss.
+  source_url: 'author''s compilation: GovernancePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-11-M2014-S02
+  topic_id: GS2-POL-11
+  year: 2014
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Instances of President’s delay in commuting death sentences has come under public debate as denial of justice. Should
+    there be a time limit specified for the President to accept/reject such petitions? Analyse.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-15-M2014-S01
+  topic_id: GS2-POL-15
+  year: 2014
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: The setting up of a Rail Tariff Authority to regulate fares will subject the cash strapped Indian Railways to demand
+    subsidy for obligation to operate non-profitable routes and services. Taking into account the experience in the power
+    sector, discuss if the proposed reform is expected to benefit the consumers, the Indian Railways or the private container
+    operators.
+  source_url: 'author''s compilation: GovernancePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-15-M2014-S02
+  topic_id: GS2-POL-15
+  year: 2014
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: National Human Rights Commission (NHRC) in India can be most effective when its tasks are adequately supported by
+    other mechanisms that ensure the accountability of a government. In light of the above observation assess the role of
+    NHRC as an effective complement to the judiciary and other institutions in promoting and protecting human rights standards.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-01-M2013-S01
+  topic_id: GS2-GOV-01
+  year: 2013
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: The basis of providing urban amenities in rural areas (PURA) is rooted in establishing connectivity. Comment.
+  source_url: 'author''s compilation: GovernancePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+  notes: 'Topic mapping uncertain: PURA rural development scheme; also POL-06 rural-urban'
+- id: GS2-GOV-02-M2013-S01
+  topic_id: GS2-GOV-02
+  year: 2013
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: The legitimacy and accountability of Self Help Groups (SHGs) and their patrons, the micro-finance outfits, need systematic
+    assessment and scrutiny for the sustained success of the concept. Discuss.
+  source_url: 'author''s compilation: GovernancePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-03-M2013-S01
+  topic_id: GS2-GOV-03
+  year: 2013
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: The Central Government frequently complains on the poor performance of the State Governments in eradicating suffering
+    of the vulnerable sections of the society. Restructuring of Centrally sponsored schemes across the sectors for ameliorating
+    the cause of vulnerable sections of population aims at providing flexibility to the States in better implementation. Critically
+    evaluate.
+  source_url: 'author''s compilation: GovernancePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-04-M2013-S01
+  topic_id: GS2-GOV-04
+  year: 2013
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Identify the Millennium Development Goals (MDGs) that are related to health. Discuss the success of the actions taken
+    by the Government for achieving the same.
+  source_url: 'author''s compilation: SocialJusticePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-06-M2013-S01
+  topic_id: GS2-GOV-06
+  year: 2013
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: 'The concept of Mid Day Meal (MDM) scheme is almost a century old in India with early beginnings in Madras Presidency
+    in pre-independent India. The scheme has again been given impetus in most states in the last two decades. Critically examine
+    its twin objectives, latest mandates and success. PDF Refernece URL: https://www.drishtiias.com/printpdf/previous-years-paper-social-justice
+    Powered by TCPDF (www.tcpdf.org)'
+  source_url: 'author''s compilation: SocialJusticePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-07-M2013-S01
+  topic_id: GS2-GOV-07
+  year: 2013
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Electronic cash transfer system for the welfare schemes is an ambitious project to minimize corruption, eliminate
+    wastage and facilitate reforms. Comment.
+  source_url: 'author''s compilation: GovernancePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-GOV-07-M2013-S02
+  topic_id: GS2-GOV-07
+  year: 2013
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Though Citizens’ charters have been formulated by many public service delivery organizations, there is no corresponding
+    improvement in the level of citizens’ satisfaction and quality of services being provided. Analyse.
+  source_url: 'author''s compilation: GovernancePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-IR-01-M2013-S01
+  topic_id: GS2-IR-01
+  year: 2013
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: The proposed withdrawal of International Security Assistance Force (ISAF) from Afghanistan in 2014 is fraught with
+    major security implications for the countries of the region. Examine in light of the fact that India is faced with a plethora
+    of challenges and needs to safeguard its own strategic interests.
+  source_url: 'author''s compilation: IRPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-IR-01-M2013-S02
+  topic_id: GS2-IR-01
+  year: 2013
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: What do you understand by ‘The String of Pearls’? How does it impact India? Briefly outline the steps taken by India
+    to counter this.
+  source_url: 'author''s compilation: IRPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-IR-02-M2013-S01
+  topic_id: GS2-IR-02
+  year: 2013
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: The protests in Shahbag Square in Dhaka in Bangladesh reveal a fundamental split in society between the nationalists
+    and Islamic forces. What is its significance for India?
+  source_url: 'author''s compilation: IRPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-IR-02-M2013-S02
+  topic_id: GS2-IR-02
+  year: 2013
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Discuss the political developments in Maldives in the last two years. Should they be of any cause of concern to India?
+  source_url: 'author''s compilation: IRPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-IR-02-M2013-S03
+  topic_id: GS2-IR-02
+  year: 2013
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: In respect of India-Sri Lanka relations, discuss how domestic factors influence foreign policy.
+  source_url: 'author''s compilation: IRPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-IR-02-M2013-S04
+  topic_id: GS2-IR-02
+  year: 2013
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: What is meant by Gujral doctrine? Does it have any relevance today? Discuss.
+  source_url: 'author''s compilation: IRPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-IR-03-M2013-S01
+  topic_id: GS2-IR-03
+  year: 2013
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Economic ties between India and Japan while growing in the recent years are still far below their potential. Elucidate
+    the policy constraints which are inhibiting this growth.
+  source_url: 'author''s compilation: IRPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+  notes: 'Topic mapping uncertain: India-Japan not in any topic; closest key bilaterals'
+- id: GS2-IR-06-M2013-S01
+  topic_id: GS2-IR-06
+  year: 2013
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: 'The World Bank and the IMF, collectively known as the Bretton Woods Institutions, are the two inter- governmental
+    pillars supporting the structure of the world’s economic and financial order. Superficially, the World Bank and the IMF
+    exhibit many common characteristics, yet their role, functions and mandate are distinctly different. Elucidate. PDF Refernece
+    URL: https://www.drishtiias.com/printpdf/previous-years-paper-international-relations Powered by TCPDF (www.tcpdf.org)'
+  source_url: 'author''s compilation: IRPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-02-M2013-S01
+  topic_id: GS2-POL-02
+  year: 2013
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Discuss Section 66A of IT Act, with reference to its alleged violation of Article 19 of the Constitution.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-03-M2013-S01
+  topic_id: GS2-POL-03
+  year: 2013
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: ‘The Supreme Court of India keeps a check on arbitrary power of the Parliament in amending the Constitution.’ Discuss
+    critically.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-04-M2013-S01
+  topic_id: GS2-POL-04
+  year: 2013
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Many State Governments further bifurcate geographical administrative areas like Districts and Talukas for better governance.
+    In light of the above, can it also be justified that more number of smaller States would bring in effective governance
+    at State level? Discuss.
+  source_url: 'author''s compilation: GovernancePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+  notes: 'Topic mapping uncertain: Smaller states and governance; closest federalism topic'
+- id: GS2-POL-04-M2013-S02
+  topic_id: GS2-POL-04
+  year: 2013
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Recent directives from Ministry of Petroleum and Natural Gas are perceived by the ‘Nagas’ as a threat to override
+    the exceptional status enjoyed by the State. Discuss in light of Article 371A of the Indian Constitution.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-04-M2013-S03
+  topic_id: GS2-POL-04
+  year: 2013
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Constitutional mechanisms to resolve the inter-state water disputes have failed to address and solve the problems.
+    Is the failure due to structural or process inadequacy or both? Discuss.
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-06-M2013-S01
+  topic_id: GS2-POL-06
+  year: 2013
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: Discuss the recommendations of the 13th Finance Commission which have been a departure from the previous commissions
+    for strengthening the local government finances.
+  source_url: 'author''s compilation: GovernancePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-10-M2013-S01
+  topic_id: GS2-POL-10
+  year: 2013
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: The role of individual MPs (Members of Parliament) has diminished over the years and as a result healthy constructive
+    debates on policy issues are not usually witnessed. How far can this be attributed to the anti-defection law which was
+    legislated but with a different intention?
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-11-M2013-S01
+  topic_id: GS2-POL-11
+  year: 2013
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: 'Pressure group politics is sometimes seen as the informal face of politics. With regards to the above, assess the
+    structure and functioning of pressure groups in India. PDF Refernece URL: https://www.drishtiias.com/printpdf/previous-years-paper-polity
+    Powered by TCPDF (www.tcpdf.org)'
+  source_url: 'author''s compilation: polityPYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-15-M2013-S01
+  topic_id: GS2-POL-15
+  year: 2013
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: The product diversification of financial institutions and insurance companies, resulting in overlapping of products
+    and services strengthens the case for the merger of the two regulatory agencies namely SEBI and IRDA. Justify.
+  source_url: 'author''s compilation: GovernancePYQ.pdf'
+  official_url: https://www.upsc.gov.in/examinations/previous-question-papers
+  verified: false
+  confidence: single-source
+- id: GS2-POL-15-M2013-S02
+  topic_id: GS2-POL-15
+  year: 2013
+  paper: GS2
+  qno: null
+  marks: null
+  words: null
+  text: '‘A national Lokpal, however strong it may be, cannot resolve the problems of immorality in public affairs.’ Discuss.
+    PDF Refernece URL: https://www.drishtiias.com/printpdf/previous-years-paper-governance Powered by TCPDF (www.tcpdf.org)'
+  source_url: 'author''s compilation: GovernancePYQ.pdf'
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
   confidence: single-source
