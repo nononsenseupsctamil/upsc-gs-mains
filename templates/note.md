@@ -6,10 +6,12 @@ sources:
   - "Book / report, chapter"
 ---
 
-## m1 · <micro-topic text from the issue>
+## <Micro-topic name, exactly as listed in the issue>
 
 Your own words. Weave in data, reports and recent events (last 12–18 months).
 
-## m2 · <micro-topic text>
+## <Next micro-topic name>
+
+## <Any extra heading of your own — allowed, CI ignores it>
 
 <!-- Generate this file with: python scripts/create_issues.py --scaffold <ID> -->

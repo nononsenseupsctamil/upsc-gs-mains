@@ -12,7 +12,7 @@ import re
 import subprocess
 import sys
 
-from common import (REQUIRED_FROM_YEAR, BULLET_RE, IMAGE_EXTS, IMAGE_LINK_RE, MICRO_HEADING_RE, PLACEHOLDER_RE, ROOT, TITLE_ID_RE,
+from common import (REQUIRED_FROM_YEAR, BULLET_RE, IMAGE_EXTS, IMAGE_LINK_RE, heading_key, micro_heading, PLACEHOLDER_RE, ROOT, TITLE_ID_RE,
                     WORD_RE, answers_dir, h2_sections, marks_label, normalise, note_path, pyqs_for, split_front_matter,
                     topics_by_id)
 
@@ -41,18 +41,16 @@ def check_topic(topic_id: str) -> list[tuple[str, bool, str]]:
     else:
         text = np.read_text()
         _, body = split_front_matter(text)
-        found = {}
-        for heading, sec in h2_sections(body).items():
-            m = MICRO_HEADING_RE.match(heading)
-            if m:
-                found[f"m{m.group(1)}"] = sec
+        # Headings are matched to micro-topics by name; extra headings of the author's own are allowed and ignored.
+        found = {heading_key(h): sec for h, sec in h2_sections(body).items()}
         for micro in t["micro_syllabus"]:
-            mid = micro["id"]
-            if mid not in found:
-                rows.append((f"{mid} · {micro['text']}", False, f"no `## {mid} · …` heading in note"))
+            name = micro_heading(micro["text"])
+            sec = found.get(heading_key(micro["text"]))
+            if sec is None:
+                rows.append((name, False, f"no `## {name}` heading in note"))
                 continue
-            ok, detail = substantive(found[mid], MIN_WORDS_MICRO, MIN_BULLETS_MICRO)
-            rows.append((f"{mid} · {micro['text']}", ok,
+            ok, detail = substantive(sec, MIN_WORDS_MICRO, MIN_BULLETS_MICRO)
+            rows.append((name, ok,
                          detail if ok else f"{detail} (need ≥{MIN_WORDS_MICRO} words or ≥{MIN_BULLETS_MICRO} bullets)"))
         ph = PLACEHOLDER_RE.findall(body)
         rows.append(("note has no placeholders", not ph, ", ".join(sorted(set(ph))) if ph else "clean"))

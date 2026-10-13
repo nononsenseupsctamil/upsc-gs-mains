@@ -7,7 +7,7 @@ TID = "GS2-POL-04"
 
 def write_topic(root, words=90, quote=True, scan=True):
     t = common.topics_by_id()[TID]
-    body = "\n\n".join(f"## {m['id']} · {m['text']}\n\n" + ("word " * words) for m in t["micro_syllabus"])
+    body = "\n\n".join(f"## {common.micro_heading(m['text'])}\n\n" + ("word " * words) for m in t["micro_syllabus"])
     note = root / "notes/gs2/polity" / f"{TID}.md"
     note.parent.mkdir(parents=True)
     note.write_text(f"---\ntopic_id: {TID}\ntitle: Federalism I\nstatus: done\nsources: [Laxmikanth]\n---\n\n{body}\n")
@@ -37,7 +37,16 @@ def test_complete_topic_passes(repo):
 
 def test_thin_micro_section_fails(repo):
     write_topic(repo, words=10)
-    assert any(r[0].startswith("m1 ·") for r in failures(cc.check_topic(TID)))
+    first = common.micro_heading(common.topics_by_id()[TID]["micro_syllabus"][0]["text"])
+    assert any(r[0] == first for r in failures(cc.check_topic(TID)))
+
+
+def test_headings_match_by_name_and_extra_headings_are_ignored(repo):
+    write_topic(repo)
+    note = repo / "notes/gs2/polity" / f"{TID}.md"
+    text = note.read_text().replace("## 7th Schedule", "## 7TH  schedule")  # case/spacing-insensitive
+    note.write_text(text + "\n## My own extra heading\n\nshort\n")
+    assert failures(cc.check_topic(TID)) == []
 
 
 def test_missing_quote_and_scan_fail(repo):
