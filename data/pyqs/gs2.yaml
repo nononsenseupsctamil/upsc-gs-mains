@@ -536,11 +536,11 @@
   qno: 1
   marks: 10
   words: 150
-  text: null
-  source_url: https://triumphias.com/blog/gs-2-paper-2023/
+  text: “Constitutionally guaranteed judicial independence is a prerequisite of democracy”. Comment.
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS2-POL-08-M2023-Q02
   topic_id: GS2-POL-08
   year: 2023
@@ -548,11 +548,12 @@
   qno: 2
   marks: 10
   words: 150
-  text: null
-  source_url: https://triumphias.com/blog/gs-2-paper-2023/
+  text: Who are entitled to receive free legal aid? Assess the role of National Legal Services Authority (NALSA) in rendering
+    free legal aid in India.
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS2-POL-06-M2023-Q03
   topic_id: GS2-POL-06
   year: 2023
@@ -560,11 +561,11 @@
   qno: 3
   marks: 10
   words: 150
-  text: null
-  source_url: https://triumphias.com/blog/gs-2-paper-2023/
+  text: “The states in India seem reluctant to empower urban local bodies both functionally as well as financially.” Comment.
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS2-POL-09-M2023-Q04
   topic_id: GS2-POL-09
   year: 2023
@@ -572,11 +573,11 @@
   qno: 4
   marks: 10
   words: 150
-  text: null
-  source_url: https://triumphias.com/blog/gs-2-paper-2023/
+  text: Compare and contrast the British and Indian approaches to Parliamentary sovereignty.
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS2-POL-10-M2023-Q05
   topic_id: GS2-POL-10
   year: 2023
@@ -584,11 +585,12 @@
   qno: 5
   marks: 10
   words: 150
-  text: null
-  source_url: https://triumphias.com/blog/gs-2-paper-2023/
+  text: Discuss the role of Presiding Officers of state legislatures in maintaining order and impartiality in conducting legislative
+    work and in facilitating best democratic practices.
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS2-GOV-05-M2023-Q06
   topic_id: GS2-GOV-05
   year: 2023
@@ -596,11 +598,12 @@
   qno: 6
   marks: 10
   words: 150
-  text: null
-  source_url: https://triumphias.com/blog/gs-2-paper-2023/
+  text: The crucial aspect of development process has been the inadequate attention paid to Human Resource Development in
+    India. Suggest measures that can address this inadequacy.
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS2-POL-15-M2023-Q07
   topic_id: GS2-POL-15
   year: 2023
@@ -608,11 +611,12 @@
   qno: 7
   marks: 10
   words: 150
-  text: null
-  source_url: https://triumphias.com/blog/gs-2-paper-2023/
+  text: Discuss the role of the Competition Commission of India in containing the abuse of dominant position by the Multi-National
+    Corporations in India. Refer to the recent decisions.
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS2-GOV-07-M2023-Q08
   topic_id: GS2-GOV-07
   year: 2023
@@ -620,11 +624,12 @@
   qno: 8
   marks: 10
   words: 150
-  text: null
-  source_url: https://triumphias.com/blog/gs-2-paper-2023/
+  text: E-governance, as a critical tool of governance, has ushered in effectiveness, transparency and accountability in governments.
+    What inadequacies hamper the enhancement of these features?
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS2-IR-04-M2023-Q09
   topic_id: GS2-IR-04
   year: 2023
@@ -632,11 +637,13 @@
   qno: 9
   marks: 10
   words: 150
-  text: null
-  source_url: https://triumphias.com/blog/gs-2-paper-2023/
+  text: ‘Virus of Conflict is affecting the functioning of the SCO’ In the light of the above statement point out the role
+    of India in mitigating the the problems.
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
+  notes: Source transcription (ClearIAS) shows 'the the' (duplicated word). Kept verbatim — check the official PDF.
 - id: GS2-IR-05-M2023-Q10
   topic_id: GS2-IR-05
   year: 2023
@@ -644,11 +651,11 @@
   qno: 10
   marks: 10
   words: 150
-  text: null
-  source_url: https://triumphias.com/blog/gs-2-paper-2023/
+  text: Indian diaspora has scaled new heights in the West. Describe its economic and political benefits for India.
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS2-POL-02-M2023-Q11
   topic_id: GS2-POL-02
   year: 2023
@@ -656,11 +663,14 @@
   qno: 11
   marks: 15
   words: 250
-  text: null
-  source_url: https://triumphias.com/blog/gs-2-paper-2023/
+  text: “The Constitution of India is a living instrument with capabilities of enormous dynamism. It is a constitution made
+    for a progressive society.” Illustrate with special fice to the expanding horizons of the right to life and personal liberty.
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
+  notes: Source transcription (ClearIAS) shows 'special fice' (likely 'special reference'). Kept verbatim — check the official
+    PDF.
 - id: GS2-POL-02-M2023-Q12
   topic_id: GS2-POL-02
   year: 2023
@@ -668,11 +678,12 @@
   qno: 12
   marks: 15
   words: 250
-  text: null
-  source_url: https://triumphias.com/blog/gs-2-paper-2023/
+  text: Explain the constitutional perspectives of Gender Justice with the help of relevant Constitutional Provisions and
+    case laws.
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS2-POL-04-M2023-Q13
   topic_id: GS2-POL-04
   year: 2023
@@ -680,11 +691,12 @@
   qno: 13
   marks: 15
   words: 250
-  text: null
-  source_url: https://triumphias.com/blog/gs-2-paper-2023/
+  text: Account for the legal and political factors responsible for the reduced frequency of using Article 356 by the Union
+    Governments since mid-1990s.
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS2-GOV-02-M2023-Q14
   topic_id: GS2-GOV-02
   year: 2023
@@ -692,11 +704,12 @@
   qno: 14
   marks: 15
   words: 250
-  text: null
-  source_url: https://triumphias.com/blog/gs-2-paper-2023/
+  text: Discuss the contribution of civil society groups for women’s effective and meaningful participation and representation
+    in state legislatures in India.
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS2-POL-05-M2023-Q15
   topic_id: GS2-POL-05
   year: 2023
@@ -704,11 +717,12 @@
   qno: 15
   marks: 15
   words: 250
-  text: null
-  source_url: https://triumphias.com/blog/gs-2-paper-2023/
+  text: Explain the significance of the 101st Constitutional Amendment Act. To what extent does it reflect the accommodative
+    spirit of federalism
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS2-POL-10-M2023-Q16
   topic_id: GS2-POL-10
   year: 2023
@@ -716,11 +730,12 @@
   qno: 16
   marks: 15
   words: 250
-  text: null
-  source_url: https://triumphias.com/blog/gs-2-paper-2023/
+  text: Explain the structure of the Parliamentary Committee system. How far have the financial committees helped in the institutionalization
+    of Indian Parliament?
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS2-GOV-03-M2023-Q17
   topic_id: GS2-GOV-03
   year: 2023
@@ -728,11 +743,12 @@
   qno: 17
   marks: 15
   words: 250
-  text: null
-  source_url: https://triumphias.com/blog/gs-2-paper-2023/
+  text: “Development and welfare schemes for the vulnerable, by its nature, are discriminatory in approach.” Do you agree?
+    Give reasons for your answer.
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS2-GOV-05-M2023-Q18
   topic_id: GS2-GOV-05
   year: 2023
@@ -740,11 +756,12 @@
   qno: 18
   marks: 15
   words: 250
-  text: null
-  source_url: https://triumphias.com/blog/gs-2-paper-2023/
+  text: Skill development programmes have succeeded in increasing human resources supply to various sectors. In the context
+    of the statement analyze the linkages between education, skill, and employment.
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS2-IR-05-M2023-Q19
   topic_id: GS2-IR-05
   year: 2023
@@ -752,11 +769,12 @@
   qno: 19
   marks: 15
   words: 250
-  text: null
-  source_url: https://triumphias.com/blog/gs-2-paper-2023/
+  text: ‘The expansion and strengthening of NATO and a stronger US-Europe strategic partnership works well for India’ What
+    is your opinion about this statement? Give reasons and examples to support your answer.
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS2-IR-06-M2023-Q20
   topic_id: GS2-IR-06
   year: 2023
@@ -764,11 +782,14 @@
   qno: 20
   marks: 15
   words: 250
-  text: null
-  source_url: https://triumphias.com/blog/gs-2-paper-2023/
+  text: ‘Sea is an important Component of the Cosmos” Discuss in the light of the above statement the role of the IMO (International
+    Maritime Organisation) in protecting environment and enhancing maritime safety and security.
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
+  notes: Source transcription (ClearIAS) shows mismatched quotes around 'Sea is … Cosmos'. Kept verbatim — check the official
+    PDF.
 - id: GS2-POL-07-M2022-Q01
   topic_id: GS2-POL-07
   year: 2022
@@ -776,11 +797,12 @@
   qno: 1
   marks: 10
   words: 150
-  text: null
-  source_url: https://clearias.com/gs-paper-2-upsc-2022-mains/
+  text: The most significant achievement of modern law in India is the constitutionalization of environmental problems by
+    the Supreme Court. Discuss this statement with the help of relevant case laws.
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2022-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS2-POL-02-M2022-Q02
   topic_id: GS2-POL-02
   year: 2022
@@ -788,11 +810,12 @@
   qno: 2
   marks: 10
   words: 150
-  text: null
-  source_url: https://clearias.com/gs-paper-2-upsc-2022-mains/
+  text: Right of movement and residence throughout the territory of India are freely available to Indian citizens, but these
+    rights are not absolute. Comment
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2022-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS2-POL-06-M2022-Q03
   topic_id: GS2-POL-06
   year: 2022
@@ -800,11 +823,12 @@
   qno: 3
   marks: 10
   words: 150
-  text: null
-  source_url: https://clearias.com/gs-paper-2-upsc-2022-mains/
+  text: To what extent in your opinion has the decentralisation of power in India changed the governance landscape at the
+    grassroots?
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2022-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS2-POL-10-M2022-Q04
   topic_id: GS2-POL-10
   year: 2022
@@ -812,11 +836,11 @@
   qno: 4
   marks: 10
   words: 150
-  text: null
-  source_url: https://clearias.com/gs-paper-2-upsc-2022-mains/
+  text: Discuss the role of the Vice President of India as the chairman of Rajya Sabha.
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2022-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS2-POL-14-M2022-Q05
   topic_id: GS2-POL-14
   year: 2022
@@ -824,11 +848,12 @@
   qno: 5
   marks: 10
   words: 150
-  text: null
-  source_url: https://clearias.com/gs-paper-2-upsc-2022-mains/
+  text: Discuss the role of the National Commission for Backward Classes in the wake of its transformation from a statutory
+    body to a constitutional body.
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2022-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS2-GOV-01-M2022-Q06
   topic_id: GS2-GOV-01
   year: 2022
@@ -836,11 +861,12 @@
   qno: 6
   marks: 10
   words: 150
-  text: null
-  source_url: https://clearias.com/gs-paper-2-upsc-2022-mains/
+  text: The Gati-Shakti Yojana needs meticulous coordination between the government and the private sector to achieve the
+    goal of connectivity. Discuss.
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2022-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS2-GOV-03-M2022-Q07
   topic_id: GS2-GOV-03
   year: 2022
@@ -848,11 +874,12 @@
   qno: 7
   marks: 10
   words: 150
-  text: null
-  source_url: https://clearias.com/gs-paper-2-upsc-2022-mains/
+  text: The rights of persons with disabilities Act, 2016 remains only a legal document without intense sensitisation of Government
+    functionaries and citizens regarding disability. Comment.
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2022-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS2-GOV-07-M2022-Q08
   topic_id: GS2-GOV-07
   year: 2022
@@ -860,11 +887,12 @@
   qno: 8
   marks: 10
   words: 150
-  text: null
-  source_url: https://clearias.com/gs-paper-2-upsc-2022-mains/
+  text: Reforming the government delivery system through the Direct Benefit Transfer Scheme is a progressive step, but it
+    has limitations too. Comment.
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2022-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS2-IR-02-M2022-Q09
   topic_id: GS2-IR-02
   year: 2022
@@ -872,11 +900,12 @@
   qno: 9
   marks: 10
   words: 150
-  text: null
-  source_url: https://clearias.com/gs-paper-2-upsc-2022-mains/
+  text: ‘India is an age-old friend of Sri Lanka’. Discuss India’s role in the recent crisis in Sri Lanka in light of the
+    preceding statement.
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2022-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS2-IR-04-M2022-Q10
   topic_id: GS2-IR-04
   year: 2022
@@ -884,11 +913,12 @@
   qno: 10
   marks: 10
   words: 150
-  text: null
-  source_url: https://clearias.com/gs-paper-2-upsc-2022-mains/
+  text: Do you think that BIMSTEC is a parallel organisation like the SAARC? What are the similarities and dissimilarities
+    between the two? How are Indian Foreign Policy objectives realised by forming this new organisation?
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2022-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS2-POL-13-M2022-Q11
   topic_id: GS2-POL-13
   year: 2022
@@ -896,11 +926,13 @@
   qno: 11
   marks: 15
   words: 250
-  text: null
-  source_url: https://clearias.com/gs-paper-2-upsc-2022-mains/
+  text: Discuss the procedures to decide the disputes arising out of the election of a Member of the Parliament or a State
+    Legislature under the Representation of People Act 1951. What are the grounds on which the election of any returned candidate
+    may be declared void? What remedy is available to the aggrieved party against the decision? Refer to the case laws
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2022-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS2-POL-11-M2022-Q12
   topic_id: GS2-POL-11
   year: 2022
@@ -908,11 +940,12 @@
   qno: 12
   marks: 15
   words: 250
-  text: null
-  source_url: https://clearias.com/gs-paper-2-upsc-2022-mains/
+  text: Discuss the essential conditions for the exercise of the legislative powers by the Governor. Discuss the legality
+    of re- promulgation of ordinances by the Governor without placing them before the Legislature.
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2022-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS2-POL-04-M2022-Q13
   topic_id: GS2-POL-04
   year: 2022
@@ -920,11 +953,12 @@
   qno: 13
   marks: 15
   words: 250
-  text: null
-  source_url: https://clearias.com/gs-paper-2-upsc-2022-mains/
+  text: “While the national political parties in India favour centralisation, the regional parties are in favour of state
+    autonomy.” Comment.
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2022-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS2-POL-09-M2022-Q14
   topic_id: GS2-POL-09
   year: 2022
@@ -932,11 +966,11 @@
   qno: 14
   marks: 15
   words: 250
-  text: null
-  source_url: https://clearias.com/gs-paper-2-upsc-2022-mains/
+  text: Critically examine the procedures through which the presidents of India and France are elected.
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2022-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS2-POL-13-M2022-Q15
   topic_id: GS2-POL-13
   year: 2022
@@ -944,11 +978,11 @@
   qno: 15
   marks: 15
   words: 250
-  text: null
-  source_url: https://clearias.com/gs-paper-2-upsc-2022-mains/
+  text: Discuss the role of the Election Commission of India in light of the evolution of the Model Code of Conduct.
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2022-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS2-GOV-06-M2022-Q16
   topic_id: GS2-GOV-06
   year: 2022
@@ -956,11 +990,12 @@
   qno: 16
   marks: 15
   words: 250
-  text: null
-  source_url: https://clearias.com/gs-paper-2-upsc-2022-mains/
+  text: Besides the welfare schemes, India needs deft management of inflation and unemployment to serve the poor and the underprivileged
+    sections of society. Discuss.
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2022-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS2-GOV-02-M2022-Q17
   topic_id: GS2-GOV-02
   year: 2022
@@ -968,11 +1003,12 @@
   qno: 17
   marks: 15
   words: 250
-  text: null
-  source_url: https://clearias.com/gs-paper-2-upsc-2022-mains/
+  text: Do you agree with the view that increasing dependence on donor agencies for development reduces the importance of
+    community participation in the development process? Justify your answer.
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2022-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS2-GOV-05-M2022-Q18
   topic_id: GS2-GOV-05
   year: 2022
@@ -980,11 +1016,12 @@
   qno: 18
   marks: 15
   words: 250
-  text: null
-  source_url: https://clearias.com/gs-paper-2-upsc-2022-mains/
+  text: The Right of Children to Free and Compulsory Education Act, 2009 remains inadequate in promoting an incentive-based
+    system for children’s education without generating awareness about the importance of schooling. Analyse.
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2022-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS2-IR-04-M2022-Q19
   topic_id: GS2-IR-04
   year: 2022
@@ -992,11 +1029,11 @@
   qno: 19
   marks: 15
   words: 250
-  text: null
-  source_url: https://clearias.com/gs-paper-2-upsc-2022-mains/
+  text: How will I2U2 (India, Israel, UAE and USA) grouping transform India’s position in global politics?
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2022-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS2-IR-06-M2022-Q20
   topic_id: GS2-IR-06
   year: 2022
@@ -1004,8 +1041,9 @@
   qno: 20
   marks: 15
   words: 250
-  text: null
-  source_url: https://clearias.com/gs-paper-2-upsc-2022-mains/
+  text: ‘Clean energy is the order of the day’. Describe briefly India’s changing policy towards climate change in various
+    international fora in the context of geopolitics.
+  source_url: https://www.clearias.com/gs-paper-2-upsc-2022-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
