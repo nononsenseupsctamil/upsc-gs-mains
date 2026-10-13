@@ -1,6 +1,6 @@
 extends: default
 rules:
-  line-length: {max: 160}
+  line-length: {max: 160, ignore: syllabus/strategy.yaml}
   indentation: {spaces: 2, indent-sequences: whatever}
   document-start: disable
   truthy: {check-keys: false}

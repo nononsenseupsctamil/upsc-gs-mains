@@ -506,11 +506,11 @@
   qno: 1
   marks: 10
   words: 150
-  text: null
-  source_url: https://triumphias.com/blog/gs-1-paper-2023/
+  text: Explain the role of geographical factors towards the development of Ancient India.
+  source_url: https://www.clearias.com/gs-paper-1-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS1-HIS-06-M2023-Q02
   topic_id: GS1-HIS-06
   year: 2023
@@ -518,11 +518,11 @@
   qno: 2
   marks: 10
   words: 150
-  text: null
-  source_url: https://triumphias.com/blog/gs-1-paper-2023/
+  text: What was the difference between Mahatma Gandhi and Rabindranath Tagore in their approach towards education and nationalism?
+  source_url: https://www.clearias.com/gs-paper-1-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS1-WH-01-M2023-Q03
   topic_id: GS1-WH-01
   year: 2023
@@ -530,11 +530,11 @@
   qno: 3
   marks: 10
   words: 150
-  text: null
-  source_url: https://triumphias.com/blog/gs-1-paper-2023/
+  text: Bring out the socio-economic effects of the introduction of railways in different countries of the world.
+  source_url: https://www.clearias.com/gs-paper-1-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS1-GEO-07-M2023-Q04
   topic_id: GS1-GEO-07
   year: 2023
@@ -542,11 +542,11 @@
   qno: 4
   marks: 10
   words: 150
-  text: null
-  source_url: https://triumphias.com/blog/gs-1-paper-2023/
+  text: Discuss the consequences of climate change on the food security in tropical countries.
+  source_url: https://www.clearias.com/gs-paper-1-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS1-GEO-05-M2023-Q05
   topic_id: GS1-GEO-05
   year: 2023
@@ -554,11 +554,12 @@
   qno: 5
   marks: 10
   words: 150
-  text: null
-  source_url: https://triumphias.com/blog/gs-1-paper-2023/
+  text: Why is the world today enfronted with a crisis of availability of and access to freshwater resources?
+  source_url: https://www.clearias.com/gs-paper-1-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
+  notes: Source transcription (ClearIAS) shows 'enfronted' (likely 'confronted'). Kept verbatim — check the official PDF.
 - id: GS1-GEO-01-M2023-Q06
   topic_id: GS1-GEO-01
   year: 2023
@@ -566,11 +567,11 @@
   qno: 6
   marks: 10
   words: 150
-  text: null
-  source_url: https://triumphias.com/blog/gs-1-paper-2023/
+  text: How are the fjords formed? Why do they constitute some of the most picturesque areas of the world?
+  source_url: https://www.clearias.com/gs-paper-1-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS1-GEO-02-M2023-Q07
   topic_id: GS1-GEO-02
   year: 2023
@@ -578,11 +579,14 @@
   qno: 7
   marks: 10
   words: 150
-  text: null
-  source_url: https://triumphias.com/blog/gs-1-paper-2023/
+  text: Why is the South-West Monsoon called Purvaiys’ (easterly) in Bhojpur Region? How has this directional seasonal wind
+    systems influenced the cultural ethos of the region?
+  source_url: https://www.clearias.com/gs-paper-1-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
+  notes: Source transcription (ClearIAS) shows 'Purvaiys’' (likely 'Purvaiya', opening quote missing). Kept verbatim — check
+    the official PDF.
 - id: GS1-SOC-01-M2023-Q08
   topic_id: GS1-SOC-01
   year: 2023
@@ -590,11 +594,12 @@
   qno: 8
   marks: 10
   words: 150
-  text: null
-  source_url: https://triumphias.com/blog/gs-1-paper-2023/
+  text: Do you think marriage as a sacrament is loosing its value in Modern India?
+  source_url: https://www.clearias.com/gs-paper-1-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
+  notes: Source transcription (ClearIAS) shows 'loosing' (likely 'losing'). Kept verbatim — check the official PDF.
 - id: GS1-SOC-02-M2023-Q09
   topic_id: GS1-SOC-02
   year: 2023
@@ -602,11 +607,11 @@
   qno: 9
   marks: 10
   words: 150
-  text: null
-  source_url: https://triumphias.com/blog/gs-1-paper-2023/
+  text: Explain why suicide among young women is increasing in Indian society.
+  source_url: https://www.clearias.com/gs-paper-1-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS1-SOC-06-M2023-Q10
   topic_id: GS1-SOC-06
   year: 2023
@@ -614,11 +619,11 @@
   qno: 10
   marks: 10
   words: 150
-  text: null
-  source_url: https://triumphias.com/blog/gs-1-paper-2023/
+  text: Child cuddling is now being replaced by mobile phones. Discuss its impact on the socialization of children.
+  source_url: https://www.clearias.com/gs-paper-1-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS1-CUL-07-M2023-Q11
   topic_id: GS1-CUL-07
   year: 2023
@@ -626,11 +631,12 @@
   qno: 11
   marks: 15
   words: 250
-  text: null
-  source_url: https://triumphias.com/blog/gs-1-paper-2023/
+  text: What are the main features of Vedic society and religion? Do you think some of the features are still prevailing in
+    Indian society?
+  source_url: https://www.clearias.com/gs-paper-1-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS1-CUL-07-M2023-Q12
   topic_id: GS1-CUL-07
   year: 2023
@@ -638,11 +644,12 @@
   qno: 12
   marks: 15
   words: 250
-  text: null
-  source_url: https://triumphias.com/blog/gs-1-paper-2023/
+  text: What were the major technological changes introduced during the Sultanate period? How did those technological changes
+    influence the Indian society?
+  source_url: https://www.clearias.com/gs-paper-1-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS1-HIS-04-M2023-Q13
   topic_id: GS1-HIS-04
   year: 2023
@@ -650,11 +657,11 @@
   qno: 13
   marks: 15
   words: 250
-  text: null
-  source_url: https://triumphias.com/blog/gs-1-paper-2023/
+  text: How did the colonial rule affect the tribals in India and what was the tribal response to the colonial oppression?
+  source_url: https://www.clearias.com/gs-paper-1-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS1-GEO-05-M2023-Q14
   topic_id: GS1-GEO-05
   year: 2023
@@ -662,11 +669,12 @@
   qno: 14
   marks: 15
   words: 250
-  text: null
-  source_url: https://triumphias.com/blog/gs-1-paper-2023/
+  text: Comment on the resource potentials of the long coastline of India and highlight the status of natural hazard preparedness
+    in these areas.
+  source_url: https://www.clearias.com/gs-paper-1-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS1-GEO-07-M2023-Q15
   topic_id: GS1-GEO-07
   year: 2023
@@ -674,11 +682,13 @@
   qno: 15
   marks: 15
   words: 250
-  text: null
-  source_url: https://triumphias.com/blog/gs-1-paper-2023/
+  text: Identify and discuss the factors responsible for diversity of natural vegetation in India Assess the significance
+    of wildlife sanctuaries in rain forest regions of India.
+  source_url: https://www.clearias.com/gs-paper-1-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
+  notes: Source transcription (ClearIAS) shows missing full stop before 'Assess'. Kept verbatim — check the official PDF.
 - id: GS1-SOC-04-M2023-Q16
   topic_id: GS1-SOC-04
   year: 2023
@@ -686,11 +696,11 @@
   qno: 16
   marks: 15
   words: 250
-  text: null
-  source_url: https://triumphias.com/blog/gs-1-paper-2023/
+  text: Why did human development fail to keep pace with economic development in India?
+  source_url: https://www.clearias.com/gs-paper-1-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS1-GEO-06-M2023-Q17
   topic_id: GS1-GEO-06
   year: 2023
@@ -698,11 +708,11 @@
   qno: 17
   marks: 15
   words: 250
-  text: null
-  source_url: https://triumphias.com/blog/gs-1-paper-2023/
+  text: From being net food importer in 1960s, India has emerged as a net food exporter to the world. Provide reasons.
+  source_url: https://www.clearias.com/gs-paper-1-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS1-SOC-05-M2023-Q18
   topic_id: GS1-SOC-05
   year: 2023
@@ -710,11 +720,11 @@
   qno: 18
   marks: 15
   words: 250
-  text: null
-  source_url: https://triumphias.com/blog/gs-1-paper-2023/
+  text: Does urbanisation lead to more segregation and/or marginalization of the poor in Indian metropolises?
+  source_url: https://www.clearias.com/gs-paper-1-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS1-SOC-01-M2023-Q19
   topic_id: GS1-SOC-01
   year: 2023
@@ -722,11 +732,11 @@
   qno: 19
   marks: 15
   words: 250
-  text: null
-  source_url: https://triumphias.com/blog/gs-1-paper-2023/
+  text: Why is caste identity in India both fluid and static?
+  source_url: https://www.clearias.com/gs-paper-1-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS1-SOC-07-M2023-Q20
   topic_id: GS1-SOC-07
   year: 2023
@@ -734,11 +744,11 @@
   qno: 20
   marks: 15
   words: 250
-  text: null
-  source_url: https://triumphias.com/blog/gs-1-paper-2023/
+  text: Discuss the impact of post-liberal economy on ethnic identity and communalism.
+  source_url: https://www.clearias.com/gs-paper-1-upsc-2023-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS1-CUL-04-M2022-Q01
   topic_id: GS1-CUL-04
   year: 2022
@@ -746,11 +756,11 @@
   qno: 1
   marks: 10
   words: 150
-  text: null
-  source_url: https://clearias.com/gs-paper-1-upsc-2022-mains/
+  text: How will you explain that medieval Indian temple sculptures represent the social life of those days?
+  source_url: https://www.clearias.com/gs-paper-1-upsc-2022-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS1-HIS-01-M2022-Q02
   topic_id: GS1-HIS-01
   year: 2022
@@ -758,11 +768,12 @@
   qno: 2
   marks: 10
   words: 150
-  text: null
-  source_url: https://clearias.com/gs-paper-1-upsc-2022-mains/
+  text: Why did the armies of the British East India company – mostly comprising of Indian soldiers – win consistently against
+    the more numerous and better equipped armies of then Indian rulers? Give reasons.
+  source_url: https://www.clearias.com/gs-paper-1-upsc-2022-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS1-HIS-02-M2022-Q03
   topic_id: GS1-HIS-02
   year: 2022
@@ -770,11 +781,11 @@
   qno: 3
   marks: 10
   words: 150
-  text: null
-  source_url: https://clearias.com/gs-paper-1-upsc-2022-mains/
+  text: Why was there a sudden spurt in famines in colonial India since the mid-18th century? Give reasons.
+  source_url: https://www.clearias.com/gs-paper-1-upsc-2022-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS1-GEO-01-M2022-Q04
   topic_id: GS1-GEO-01
   year: 2022
@@ -782,11 +793,11 @@
   qno: 4
   marks: 10
   words: 150
-  text: null
-  source_url: https://clearias.com/gs-paper-1-upsc-2022-mains/
+  text: Describe the characteristics and type of primary rocks.
+  source_url: https://www.clearias.com/gs-paper-1-upsc-2022-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS1-GEO-02-M2022-Q05
   topic_id: GS1-GEO-02
   year: 2022
@@ -794,11 +805,11 @@
   qno: 5
   marks: 10
   words: 150
-  text: null
-  source_url: https://clearias.com/gs-paper-1-upsc-2022-mains/
+  text: Discuss the meaning of colour-coded weather warnings for cyclone prone areas given by India Meteorological Department.
+  source_url: https://www.clearias.com/gs-paper-1-upsc-2022-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS1-GEO-05-M2022-Q06
   topic_id: GS1-GEO-05
   year: 2022
@@ -806,11 +817,11 @@
   qno: 6
   marks: 10
   words: 150
-  text: null
-  source_url: https://clearias.com/gs-paper-1-upsc-2022-mains/
+  text: Discuss the natural resource potential of ‘Deccan trap’.
+  source_url: https://www.clearias.com/gs-paper-1-upsc-2022-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS1-GEO-05-M2022-Q07
   topic_id: GS1-GEO-05
   year: 2022
@@ -818,23 +829,23 @@
   qno: 7
   marks: 10
   words: 150
-  text: null
-  source_url: https://clearias.com/gs-paper-1-upsc-2022-mains/
+  text: Examine the potential of wind energy in India and explain the reasons for their limited spatial spread.
+  source_url: https://www.clearias.com/gs-paper-1-upsc-2022-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
-- id: GS1-SOC-01-M2022-Q08
-  topic_id: GS1-SOC-01
+  confidence: single-source
+- id: GS1-SOC-06-M2022-Q08
+  topic_id: GS1-SOC-06
   year: 2022
   paper: GS1
   qno: 8
   marks: 10
   words: 150
-  text: null
-  source_url: https://clearias.com/gs-paper-1-upsc-2022-mains/
+  text: Explore and evaluate the impact of ‘Work From Home’ on family relationships.
+  source_url: https://www.clearias.com/gs-paper-1-upsc-2022-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS1-SOC-05-M2022-Q09
   topic_id: GS1-SOC-05
   year: 2022
@@ -842,11 +853,11 @@
   qno: 9
   marks: 10
   words: 150
-  text: null
-  source_url: https://clearias.com/gs-paper-1-upsc-2022-mains/
+  text: How is the growth of Tier 2 cities related to the rise of a new middle class with an emphasis on the culture of consumption?
+  source_url: https://www.clearias.com/gs-paper-1-upsc-2022-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS1-SOC-01-M2022-Q10
   topic_id: GS1-SOC-01
   year: 2022
@@ -854,11 +865,12 @@
   qno: 10
   marks: 10
   words: 150
-  text: null
-  source_url: https://clearias.com/gs-paper-1-upsc-2022-mains/
+  text: Given the diversities among tribal communities in India in which specific context should they be considered as a single
+    category?
+  source_url: https://www.clearias.com/gs-paper-1-upsc-2022-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS1-HIS-08-M2022-Q11
   topic_id: GS1-HIS-08
   year: 2022
@@ -866,11 +878,12 @@
   qno: 11
   marks: 15
   words: 250
-  text: null
-  source_url: https://clearias.com/gs-paper-1-upsc-2022-mains/
+  text: The political and administrative reorganization of states and territories has been a continuous ongoing process since
+    the mid-nineteenth century. Discuss with examples.
+  source_url: https://www.clearias.com/gs-paper-1-upsc-2022-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS1-CUL-07-M2022-Q12
   topic_id: GS1-CUL-07
   year: 2022
@@ -878,11 +891,11 @@
   qno: 12
   marks: 15
   words: 250
-  text: null
-  source_url: https://clearias.com/gs-paper-1-upsc-2022-mains/
+  text: Discuss the main contributions of Gupta period and Chola period to Indian Heritage and Culture.
+  source_url: https://www.clearias.com/gs-paper-1-upsc-2022-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS1-CUL-04-M2022-Q13
   topic_id: GS1-CUL-04
   year: 2022
@@ -890,11 +903,11 @@
   qno: 13
   marks: 15
   words: 250
-  text: null
-  source_url: https://clearias.com/gs-paper-1-upsc-2022-mains/
+  text: Discuss the significance of the lion and Bull figures in Indian Mythology art and architecture.
+  source_url: https://www.clearias.com/gs-paper-1-upsc-2022-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS1-GEO-03-M2022-Q14
   topic_id: GS1-GEO-03
   year: 2022
@@ -902,11 +915,11 @@
   qno: 14
   marks: 15
   words: 250
-  text: null
-  source_url: https://clearias.com/gs-paper-1-upsc-2022-mains/
+  text: What are the forces that influence ocean currents? Describe their role in the fishing industry of the world.
+  source_url: https://www.clearias.com/gs-paper-1-upsc-2022-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS1-GEO-06-M2022-Q15
   topic_id: GS1-GEO-06
   year: 2022
@@ -914,11 +927,11 @@
   qno: 15
   marks: 15
   words: 250
-  text: null
-  source_url: https://clearias.com/gs-paper-1-upsc-2022-mains/
+  text: Describing the distribution of rubber-producing countries indicate the major environmental issues faced by them.
+  source_url: https://www.clearias.com/gs-paper-1-upsc-2022-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS1-GEO-03-M2022-Q16
   topic_id: GS1-GEO-03
   year: 2022
@@ -926,11 +939,11 @@
   qno: 16
   marks: 15
   words: 250
-  text: null
-  source_url: https://clearias.com/gs-paper-1-upsc-2022-mains/
+  text: Mention the significance of straits and isthmus in international trade.
+  source_url: https://www.clearias.com/gs-paper-1-upsc-2022-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS1-GEO-02-M2022-Q17
   topic_id: GS1-GEO-02
   year: 2022
@@ -938,11 +951,11 @@
   qno: 17
   marks: 15
   words: 250
-  text: null
-  source_url: https://clearias.com/gs-paper-1-upsc-2022-mains/
+  text: Troposphere is a very significant atmosphere layer that determines weather processes. How?
+  source_url: https://www.clearias.com/gs-paper-1-upsc-2022-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS1-SOC-07-M2022-Q18
   topic_id: GS1-SOC-07
   year: 2022
@@ -950,11 +963,11 @@
   qno: 18
   marks: 15
   words: 250
-  text: null
-  source_url: https://clearias.com/gs-paper-1-upsc-2022-mains/
+  text: Analyse the salience of ‘sect’ in Indian society vis-a-vis caste, region and religion.
+  source_url: https://www.clearias.com/gs-paper-1-upsc-2022-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS1-SOC-07-M2022-Q19
   topic_id: GS1-SOC-07
   year: 2022
@@ -962,11 +975,12 @@
   qno: 19
   marks: 15
   words: 250
-  text: null
-  source_url: https://clearias.com/gs-paper-1-upsc-2022-mains/
+  text: Are tolerance, assimilation and pluralism the key elements in the making of an Indian form of secularism? Justify
+    your answer.
+  source_url: https://www.clearias.com/gs-paper-1-upsc-2022-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source
 - id: GS1-SOC-06-M2022-Q20
   topic_id: GS1-SOC-06
   year: 2022
@@ -974,8 +988,9 @@
   qno: 20
   marks: 15
   words: 250
-  text: null
-  source_url: https://clearias.com/gs-paper-1-upsc-2022-mains/
+  text: Elucidate the relationship between globalization and new technology in a world of scarce resources with special reference
+    to India.
+  source_url: https://www.clearias.com/gs-paper-1-upsc-2022-mains/
   official_url: https://www.upsc.gov.in/examinations/previous-question-papers
   verified: false
-  confidence: text-pending
+  confidence: single-source

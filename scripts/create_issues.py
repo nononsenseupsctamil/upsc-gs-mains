@@ -18,8 +18,8 @@ import sys
 import tempfile
 import time
 
-from common import (MILESTONES, ROOT, TITLE_ID_RE, TOPIC_ID_RE, answers_dir, load_pyqs, load_topics, note_path,
-                    pyqs_for, topics_by_id)
+from common import (MILESTONES, ROOT, TITLE_ID_RE, TOPIC_ID_RE, answers_dir, load_pyqs, load_strategy, load_topics,
+                    note_path, pyqs_for, strategy_markdown, topics_by_id)
 
 DOD = """1. Notes in your own words have a `## mN · …` section for every micro-topic (≥80 words or ≥5 bullets each), with ≥2 data points/reports and recent events worked in.
 2. Every PYQ below (text imported) has a `## <PYQ-ID>` section in `pyqs.md`: the question quoted verbatim and a scan of your timed, handwritten answer (7 min / 10-marker, 11 min / 15-marker).
@@ -59,9 +59,10 @@ def render_body(t: dict) -> str:
             out.append(f"| `{q['id']}` | {q['year']} | {q['marks']}M/{q['words']}w | {text} | {flag} |")
     else:
         out.append("No PYQs in the bank yet.")
+    strategy = strategy_markdown(tid)
+    if strategy:
+        out += ["", strategy.rstrip()]
     out += ["", "### Sources", ""] + [f"- {s}" for s in t["sources"]]
-    if t.get("strategy"):
-        out += ["", "### Strategy", "", t["strategy"]]
     out += ["", "### Definition of done", "", DOD, "",
             f"**Due:** {t['due']:%a %d %b %Y} · **Milestone:** {t['milestone']} · "
             f"**Priority:** {t['priority']} · **Size:** {t['size']}", "",
@@ -81,6 +82,8 @@ def validate() -> list[str]:
         errs.append("duplicate topic ids")
     known = set(ids)
     errs += [f"PYQ {q['id']} → unknown topic {q['topic_id']}" for q in load_pyqs() if q["topic_id"] not in known]
+    errs += [f"strategy.yaml: unknown topic {k}" for k in load_strategy() if k not in known]
+    errs += [f"strategy.yaml: {k} needs a pattern" for k, v in load_strategy().items() if not (v or {}).get("pattern")]
     errs += [f"{t['topic_id']}: unknown milestone {t['milestone']}" for t in load_topics() if t["milestone"] not in MILESTONES]
     lines = official_lines()
     errs += [f"{t['topic_id']}: unknown syllabus line {l}" for t in load_topics() for l in t["syllabus_lines"] if l not in lines]

@@ -15,7 +15,7 @@ from datetime import date
 import yaml
 
 from common import (IMAGE_EXTS, IMAGE_LINK_RE, MAX_IMAGE_BYTES, MILESTONES, PAPERS, PYQ_ID_RE, ROOT, SUBJECT_TITLES,
-                    TOPIC_ID_RE, load_pyqs, load_topics, split_front_matter, topics_by_id)
+                    TOPIC_ID_RE, load_pyqs, load_strategy, load_topics, split_front_matter, topics_by_id)
 
 LINK_RE = re.compile(r"(?<!!)\[[^\]]*\]\(([^)\s]+)\)")
 GENERATED_PAGES = {"revise-today.md", "progress.md"}  # written into build/docs by build_site.py
@@ -64,6 +64,8 @@ def lint_topics() -> None:
             err(w, "size must be S|M|L")
         if t.get("milestone") not in MILESTONES:
             err(w, f"unknown milestone {t.get('milestone')}")
+        if tid not in load_strategy():
+            err(w, "no entry in syllabus/strategy.yaml")
         due = t.get("due")
         if not isinstance(due, date):
             err(w, "due must be a YYYY-MM-DD date")
