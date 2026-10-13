@@ -12,7 +12,7 @@ import re
 import subprocess
 import sys
 
-from common import (BULLET_RE, IMAGE_EXTS, IMAGE_LINK_RE, MICRO_HEADING_RE, PLACEHOLDER_RE, ROOT, TITLE_ID_RE,
+from common import (REQUIRED_FROM_YEAR, BULLET_RE, IMAGE_EXTS, IMAGE_LINK_RE, MICRO_HEADING_RE, PLACEHOLDER_RE, ROOT, TITLE_ID_RE,
                     WORD_RE, answers_dir, h2_sections, marks_label, normalise, note_path, pyqs_for, split_front_matter,
                     topics_by_id)
 
@@ -59,7 +59,11 @@ def check_topic(topic_id: str) -> list[tuple[str, bool, str]]:
 
     # --- answers -------------------------------------------------------------------
     qs = pyqs_for(topic_id, required_only=True)
-    pending = len(pyqs_for(topic_id)) - len(qs)
+    every = pyqs_for(topic_id)
+    older = sum(q["year"] < REQUIRED_FROM_YEAR for q in every)
+    pending = sum(q["year"] >= REQUIRED_FROM_YEAR and not q.get("text") for q in every)
+    if older:
+        rows.append((f"{older} older PYQ(s) (before {REQUIRED_FROM_YEAR})", True, "practice only, not required"))
     if pending:
         rows.append((f"{pending} PYQ(s) with text pending import", True, "not required yet"))
     if not qs:
