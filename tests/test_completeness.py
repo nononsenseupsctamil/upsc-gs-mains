@@ -35,18 +35,16 @@ def test_complete_topic_passes(repo):
     assert lint.errors == []
 
 
-def test_thin_micro_section_fails(repo):
-    write_topic(repo, words=10)
-    first = common.micro_heading(common.topics_by_id()[TID]["micro_syllabus"][0]["text"])
-    assert any(r[0] == first for r in failures(cc.check_topic(TID)))
-
-
-def test_headings_match_by_name_and_extra_headings_are_ignored(repo):
-    write_topic(repo)
+def test_short_notes_with_any_headings_pass(repo):
+    write_topic(repo, words=1)
     note = repo / "notes/gs2/polity" / f"{TID}.md"
-    text = note.read_text().replace("## 7th Schedule", "## 7TH  schedule")  # case/spacing-insensitive
-    note.write_text(text + "\n## My own extra heading\n\nshort\n")
+    note.write_text(note.read_text() + "\n## My own heading\n\nshort\n")
     assert failures(cc.check_topic(TID)) == []
+
+
+def test_skeleton_with_only_headings_fails(repo):
+    write_topic(repo, words=0)
+    assert any("no notes yet" in r[2] for r in failures(cc.check_topic(TID)))
 
 
 def test_missing_quote_and_scan_fail(repo):

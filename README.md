@@ -26,7 +26,7 @@ flowchart LR
 2. For each issue: write notes (one heading per micro-topic, plus any of your own) — typed, or handwritten and scanned for
    Claude to transcribe — answer each PYQ from 2022 onwards by hand under time, scan it, and open a PR that
    `Closes #N`.
-3. **CI** checks that every micro-topic is covered and every required PYQ has a quoted question and a scan.
+3. **CI** checks that the notes exist and every required PYQ has a quoted question and a scan.
    **Claude** reviews the notes and answers against [the rubric](.github/REVIEW_RUBRIC.md), flags gaps and
    factual errors, and suggests verified recent events. Every review thread must be resolved before merge.
 4. **On merge** the site rebuilds. Each topic comes back on *Revise today* 1, 7, 30 and 90 days later.

@@ -21,7 +21,7 @@ import time
 from common import (MILESTONES, REQUIRED_FROM_YEAR, ROOT, TITLE_ID_RE, TOPIC_ID_RE, answers_dir, load_pyqs,
                     load_strategy, load_topics, marks_label, micro_heading, note_path, pyqs_for, strategy_markdown, topics_by_id)
 
-DOD = """1. Notes in your own words have a heading for every micro-topic below (≥80 words or ≥5 bullets each; extra headings of your own are fine), with ≥2 data points/reports and recent events worked in.
+DOD = """1. Notes in your own words in the topic's notes file — use the micro-topics below as a guide and add any headings of your own.
 2. Every PYQ below (text imported) has a `## <PYQ-ID>` section in `pyqs.md`: the question quoted verbatim and a scan of your timed, handwritten answer (7 min / 10-marker, 11 min / 15-marker).
 3. `completeness`, `lint` and `site-build` are green.
 4. Every AI review thread is resolved — fixed, or answered with your reasoning. Rubric ≥ 9/12, no open factual errors."""
@@ -53,8 +53,8 @@ def render_body(t: dict) -> str:
     tid = t["topic_id"]
     out = [f"<!-- topic-id: {tid} -->", "", "### Syllabus", ""]
     out += [f"> **{l}** {lines[l]}" for l in t["syllabus_lines"]] + [""]
-    out += ["### Micro-topics", "", "Each needs a `## <heading>` with this name in "
-            f"`notes/{t['paper']}/{t['subject']}/{tid}.md`.", ""]
+    out += ["### Micro-topics", "", "Reading guide — cover these in "
+            f"`notes/{t['paper']}/{t['subject']}/{tid}.md` and add your own. CI does not check headings.", ""]
     out += [f"- [ ] {micro_heading(m['text'])}" for m in t["micro_syllabus"]] + [""]
     qs = pyqs_for(tid)
     recent = [q for q in qs if q["year"] >= REQUIRED_FROM_YEAR]

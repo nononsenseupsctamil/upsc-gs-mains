@@ -18,7 +18,7 @@ Learning-in-public repo for UPSC CSE Mains GS1–GS3. One issue = one topic; one
   - Ids: `<TOPIC>-M<YEAR>-Q<NN>` when the paper question number is known (2022–25); `<TOPIC>-M<YEAR>-S<NN>` (sequence within topic+year, `qno: null`) when it isn't (2013–21, 2026).
   - CI requires answers only from `REQUIRED_FROM_YEAR` (2022, in `scripts/common.py`); older PYQs are practice.
   - `notes: Topic mapping uncertain: …` marks entries whose topic assignment needs a human check.
-- `notes/<paper>/<subject>/<ID>.md` — front-matter (`topic_id`, `title`, `status: draft|done`, `sources`) + one `## <micro-topic name>` heading per micro-topic (matched by name, case/punctuation-insensitive). Extra headings of the author's own are allowed — use one when no existing heading fits well.
+- `notes/<paper>/<subject>/<ID>.md` — front-matter (`topic_id`, `title`, `status: draft|done`, `sources`) + the notes, organised by headings. The issue's micro-topics are a reading guide (scaffold creates them as headings); add new headings freely. CI only checks that notes exist and every required PYQ is answered.
 - `answers/<paper>/<ID>/pyqs.md` — one `## <PYQ-ID>` section per PYQ: verbatim quote + `![answer](img/<PYQ-ID>.jpg)`.
 - `answers/<paper>/<ID>/img/` — scans (jpg/png/webp ≤ 1.5 MB; `scripts/compress_images.sh` converts HEIC).
 - `site/index.md` — hand-written home page. Everything else on the site is generated into `build/` (git-ignored).
