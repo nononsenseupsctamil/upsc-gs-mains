@@ -21,10 +21,12 @@ flowchart LR
 ```
 
 1. The official syllabus is split into **88 topics** (`syllabus/issues.yaml`), each with micro-topics `m1…mN`.
-   Every topic is a GitHub issue that also lists that topic's past Mains questions (PYQs) from `data/pyqs/`.
-2. For each issue: write notes (one `## mN` section per micro-topic), answer every PYQ by hand under time,
-   scan it, and open a PR that `Closes #N`.
-3. **CI** checks that every micro-topic is covered and every PYQ has a quoted question and a scan.
+   Every topic is a GitHub issue that lists that topic's past Mains questions (PYQs, 2013–2026) and a
+   PYQ-based strategy (`syllabus/strategy.yaml`): what UPSC asks, what to read for, how to answer.
+2. For each issue: write notes (one `## mN` section per micro-topic) — typed, or handwritten and scanned for
+   Claude to transcribe — answer each PYQ from 2022 onwards by hand under time, scan it, and open a PR that
+   `Closes #N`.
+3. **CI** checks that every micro-topic is covered and every required PYQ has a quoted question and a scan.
    **Claude** reviews the notes and answers against [the rubric](.github/REVIEW_RUBRIC.md), flags gaps and
    factual errors, and suggests verified recent events. Every review thread must be resolved before merge.
 4. **On merge** the site rebuilds. Each topic comes back on *Revise today* 1, 7, 30 and 90 days later.
