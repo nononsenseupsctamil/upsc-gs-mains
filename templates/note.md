@@ -1,0 +1,15 @@
+---
+topic_id: GS0-XXX-00          # must match the filename
+title: "Topic title"
+status: draft                 # draft while working; done before you open the PR
+sources:
+  - "Book / report, chapter"
+---
+
+## m1 · <micro-topic text from the issue>
+
+Your own words. Weave in data, reports and recent events (last 12–18 months).
+
+## m2 · <micro-topic text>
+
+<!-- Generate this file with: python scripts/create_issues.py --scaffold <ID> -->

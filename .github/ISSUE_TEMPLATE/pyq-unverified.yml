@@ -1,0 +1,12 @@
+name: PYQ text problem
+description: The bank text of a PYQ looks wrong or differs from the official paper
+labels: [pyq-unverified]
+body:
+  - type: input
+    id: pyq
+    attributes: {label: PYQ ID, placeholder: GS2-POL-04-M2025-Q04}
+    validations: {required: true}
+  - type: textarea
+    id: problem
+    attributes: {label: What differs, description: Quote the official PDF wording and the page}
+    validations: {required: true}

@@ -1,0 +1,27 @@
+# Labels created by scripts/bootstrap_labels.py (idempotent: gh label create --force).
+- {name: gs1, color: "1f6feb", description: "GS Paper 1 — History, Culture, Geography, Society"}
+- {name: gs2, color: "8250df", description: "GS Paper 2 — Polity, Governance, Social Justice, IR"}
+- {name: gs3, color: "bf3989", description: "GS Paper 3 — Economy, S&T, Environment, Security"}
+- {name: "subj:history", color: "c5def5"}
+- {name: "subj:world-history", color: "c5def5"}
+- {name: "subj:culture", color: "c5def5"}
+- {name: "subj:geography", color: "c5def5"}
+- {name: "subj:society", color: "c5def5"}
+- {name: "subj:polity", color: "d4c5f9"}
+- {name: "subj:governance", color: "d4c5f9"}
+- {name: "subj:social-justice", color: "d4c5f9"}
+- {name: "subj:ir", color: "d4c5f9"}
+- {name: "subj:economy", color: "f9d0c4"}
+- {name: "subj:agriculture", color: "f9d0c4"}
+- {name: "subj:science-tech", color: "f9d0c4"}
+- {name: "subj:environment", color: "f9d0c4"}
+- {name: "subj:disaster", color: "f9d0c4"}
+- {name: "subj:security", color: "f9d0c4"}
+- {name: "priority:high", color: "b60205"}
+- {name: "priority:med", color: "fbca04"}
+- {name: "priority:low", color: "0e8a16"}
+- {name: "size:S", color: "ededed", description: "about one sitting"}
+- {name: "size:M", color: "bfbfbf", description: "one to two sittings"}
+- {name: "size:L", color: "8c8c8c", description: "more than two sittings"}
+- {name: chore, color: "fef2c0", description: "Repo maintenance; no notes/answers. Skips completeness + AI review"}
+- {name: pyq-unverified, color: "e99695", description: "Suspected error in PYQ bank text"}

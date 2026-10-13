@@ -1,0 +1,66 @@
+name: claude-review
+# AI review of study PRs. Comments only; never commits. Not a required check —
+# the ruleset's "require conversation resolution" makes its inline comments binding.
+on:
+  pull_request:
+    types: [opened, synchronize, ready_for_review]
+  issue_comment:
+    types: [created]
+
+jobs:
+  review:
+    if: >-
+      (github.event_name == 'pull_request' &&
+       !github.event.pull_request.draft &&
+       !contains(github.event.pull_request.labels.*.name, 'chore')) ||
+      (github.event_name == 'issue_comment' &&
+       github.event.issue.pull_request &&
+       contains(github.event.comment.body, '@claude') &&
+       github.event.comment.user.login == github.repository_owner)
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: write
+      issues: read
+      id-token: write
+    concurrency:
+      group: claude-review-${{ github.event.pull_request.number || github.event.issue.number }}
+      cancel-in-progress: true
+    steps:
+      - uses: actions/checkout@v6
+        with: {fetch-depth: 1}
+      - uses: anthropics/claude-code-action@v1
+        with:
+          # Set ONE of these secrets (see README): API key, or `claude setup-token` for subscription usage.
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          claude_args: >-
+            --max-turns 30
+            --allowedTools "Read,Glob,Grep,WebSearch,WebFetch,mcp__github_inline_comment__create_inline_comment,
+            Bash(gh pr view:*),Bash(gh pr diff:*),Bash(gh pr comment:*),Bash(gh issue view:*)"
+          prompt: |
+            REPO: ${{ github.repository }}
+            PR NUMBER: ${{ github.event.pull_request.number || github.event.issue.number }}
+            The PR branch is already checked out in the current working directory.
+
+            You are reviewing a UPSC CSE Mains study PR. Follow .github/REVIEW_RUBRIC.md and CLAUDE.md exactly.
+
+            1. Run `gh pr view` to find the linked issue (`Closes #N`) and `gh issue view N` to read its
+               micro-topics (m1…mN) and PYQs. Read the note under notes/, answers/<paper>/<ID>/pyqs.md,
+               and every scanned answer image under answers/<paper>/<ID>/img/ (use Read on the image files).
+            2. Post inline comments (mcp__github_inline_comment__create_inline_comment, confirmed: true) on the
+               exact lines for: missed micro-topics or dimensions; factual errors (articles, dates, judgments,
+               schemes, numbers — say what is wrong and what is right); weak answer structure (directive word
+               not obeyed, no intro/body/conclusion, missing data/examples). For scanned answers, anchor the
+               comment on that PYQ's heading line in pyqs.md.
+            3. Recent events: for each micro-topic, suggest up to 2 events, judgments, reports or data releases
+               from the last 12–18 months that the notes lack. Verify every one with WebSearch and include its
+               source URL. Drop anything you cannot verify. Put these as inline comments on that `## mN` heading.
+            4. Finish with ONE top-level `gh pr comment`: rubric score per criterion (0–2), total /12,
+               a short list of the top 3 fixes, and the verdict **Merge** (≥9/12, no factual errors) or **Fix-first**.
+            5. If this run was triggered by an `@claude` comment, answer that comment instead of a full re-review,
+               unless it asks for a review.
+
+            Hard rules: never write, edit, paraphrase or "correct" PYQ text (flag a suspected bank error in your
+            summary so the author can open a pyq-unverified issue). Do not commit or push. Only post GitHub
+            comments — do not submit review text as messages.

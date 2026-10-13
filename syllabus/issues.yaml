@@ -1,0 +1,2012 @@
+# Source of truth for topic issues. Edit here, then run scripts/create_issues.py.
+# micro_syllabus ids (m1, m2, …) are stable: append new ones, never renumber.
+- topic_id: GS1-HIS-01
+  paper: gs1
+  subject: history
+  title: British expansion 1757–1857
+  syllabus_lines:
+  - GS1-L2
+  micro_syllabus:
+  - id: m1
+    text: European advent
+  - id: m2
+    text: Plassey/Buxar
+  - id: m3
+    text: Mysore/Maratha/Sikh wars
+  - id: m4
+    text: subsidiary alliance, lapse
+  - id: m5
+    text: why the Company won
+  sources:
+  - Spectrum, *A Brief History of Modern India*
+  - Bipan Chandra et al., *India's Struggle for Independence*
+  - NCERT Cl.8 *Our Pasts III*
+  priority: med
+  size: M
+  milestone: M1 · Nov 13
+  due: 2026-10-21
+- topic_id: GS1-HIS-02
+  paper: gs1
+  subject: history
+  title: Colonial economy
+  syllabus_lines:
+  - GS1-L2
+  micro_syllabus:
+  - id: m1
+    text: land revenue
+  - id: m2
+    text: drain
+  - id: m3
+    text: deindustrialisation
+  - id: m4
+    text: famines
+  - id: m5
+    text: railways
+  sources:
+  - Spectrum, *A Brief History of Modern India*
+  - Bipan Chandra et al., *India's Struggle for Independence*
+  priority: high
+  size: M
+  milestone: M1 · Nov 13
+  due: 2026-10-22
+- topic_id: GS1-HIS-03
+  paper: gs1
+  subject: history
+  title: Socio-religious reform
+  syllabus_lines:
+  - GS1-L2
+  micro_syllabus:
+  - id: m1
+    text: Brahmo Samaj, Prarthana Samaj
+  - id: m2
+    text: Arya Samaj, Ramakrishna Mission
+  - id: m3
+    text: Satyashodhak Samaj and Phule
+  - id: m4
+    text: Aligarh and Muslim reform
+  - id: m5
+    text: 'Caste movements: Narayana Guru, Periyar, Ambedkar'
+  - id: m6
+    text: Women and reform
+  sources:
+  - Spectrum, *A Brief History of Modern India*
+  - Bipan Chandra et al., *India's Struggle for Independence*
+  - NCERT Cl.8 *Our Pasts III*
+  priority: high
+  size: M
+  milestone: M1 · Nov 13
+  due: 2026-10-24
+- topic_id: GS1-HIS-04
+  paper: gs1
+  subject: history
+  title: 1857, peasant and tribal movements
+  syllabus_lines:
+  - GS1-L2
+  - GS1-L3
+  micro_syllabus:
+  - id: m1
+    text: 'Revolt of 1857: causes, spread, nature'
+  - id: m2
+    text: Consequences of 1857
+  - id: m3
+    text: Peasant movements (Indigo, Deccan, Pabna, Moplah)
+  - id: m4
+    text: Tribal movements (Santhal, Munda, Bhil, Rampa)
+  sources:
+  - Spectrum, *A Brief History of Modern India*
+  - Bipan Chandra et al., *India's Struggle for Independence*
+  priority: high
+  size: M
+  milestone: M1 · Nov 13
+  due: 2026-10-25
+- topic_id: GS1-HIS-05
+  paper: gs1
+  subject: history
+  title: Early nationalism 1885–1917
+  syllabus_lines:
+  - GS1-L3
+  micro_syllabus:
+  - id: m1
+    text: INC
+  - id: m2
+    text: moderates vs extremists
+  - id: m3
+    text: Swadeshi
+  - id: m4
+    text: revolutionaries
+  - id: m5
+    text: Home Rule
+  sources:
+  - Spectrum, *A Brief History of Modern India*
+  - Bipan Chandra et al., *India's Struggle for Independence*
+  priority: med
+  size: M
+  milestone: M1 · Nov 13
+  due: 2026-10-26
+- topic_id: GS1-HIS-06
+  paper: gs1
+  subject: history
+  title: Gandhian phase 1917–34
+  syllabus_lines:
+  - GS1-L3
+  micro_syllabus:
+  - id: m1
+    text: Champaran, Kheda, Ahmedabad
+  - id: m2
+    text: Rowlatt, Jallianwala, Khilafat–Non-Cooperation
+  - id: m3
+    text: Swarajists, Simon Commission, Nehru Report
+  - id: m4
+    text: Civil Disobedience, Round Table Conferences
+  - id: m5
+    text: Poona Pact
+  - id: m6
+    text: Gandhi vs Tagore
+  sources:
+  - Spectrum, *A Brief History of Modern India*
+  - Bipan Chandra et al., *India's Struggle for Independence*
+  priority: high
+  size: M
+  milestone: M1 · Nov 13
+  due: 2026-10-27
+- topic_id: GS1-HIS-07
+  paper: gs1
+  subject: history
+  title: 1935–47 and regional contributors
+  syllabus_lines:
+  - GS1-L3
+  micro_syllabus:
+  - id: m1
+    text: Quit India
+  - id: m2
+    text: INA
+  - id: m3
+    text: Cripps/Cabinet Mission
+  - id: m4
+    text: partition
+  sources:
+  - Spectrum, *A Brief History of Modern India*
+  - Bipan Chandra et al., *India's Struggle for Independence*
+  priority: high
+  size: M
+  milestone: M1 · Nov 13
+  due: 2026-10-28
+- topic_id: GS1-HIS-08
+  paper: gs1
+  subject: history
+  title: Post-independence consolidation
+  syllabus_lines:
+  - GS1-L4
+  micro_syllabus:
+  - id: m1
+    text: princely states
+  - id: m2
+    text: SRC (States Reorganisation Commission)
+  - id: m3
+    text: NE
+  - id: m4
+    text: planning
+  - id: m5
+    text: NAM (Non-Aligned Movement)
+  - id: m6
+    text: civil-service ethos
+  sources:
+  - Spectrum, *A Brief History of Modern India*
+  - Bipan Chandra et al., *India's Struggle for Independence*
+  - Bipan Chandra et al., *India Since Independence*
+  - NCERT Cl.12 *Politics in India since Independence*
+  priority: high
+  size: M
+  milestone: M1 · Nov 13
+  due: 2026-10-30
+- topic_id: GS1-WH-01
+  paper: gs1
+  subject: world-history
+  title: Revolutions and industrialisation
+  syllabus_lines:
+  - GS1-L5
+  micro_syllabus:
+  - id: m1
+    text: American Revolution
+  - id: m2
+    text: French Revolution and its legacy
+  - id: m3
+    text: 'Industrial Revolution: Britain and spread'
+  - id: m4
+    text: Social effects of industrialisation
+  sources:
+  - NCERT Cl.9 *India and the Contemporary World I*
+  - NCERT Cl.11 *Themes in World History*
+  - Norman Lowe, *Mastering Modern World History*
+  priority: med
+  size: M
+  milestone: M1 · Nov 13
+  due: 2026-10-31
+- topic_id: GS1-WH-02
+  paper: gs1
+  subject: world-history
+  title: Colonisation, decolonisation, borders
+  syllabus_lines:
+  - GS1-L5
+  micro_syllabus:
+  - id: m1
+    text: Colonisation
+  - id: m2
+    text: decolonisation
+  - id: m3
+    text: borders
+  sources:
+  - NCERT Cl.9 *India and the Contemporary World I*
+  - NCERT Cl.11 *Themes in World History*
+  - Norman Lowe, *Mastering Modern World History*
+  priority: low
+  size: M
+  milestone: M1 · Nov 13
+  due: 2026-11-01
+- topic_id: GS1-WH-03
+  paper: gs1
+  subject: world-history
+  title: World Wars and ideologies
+  syllabus_lines:
+  - GS1-L5
+  micro_syllabus:
+  - id: m1
+    text: 'First World War: causes, balance of power'
+  - id: m2
+    text: 'Interwar: Versailles, Depression'
+  - id: m3
+    text: Fascism, Nazism
+  - id: m4
+    text: Second World War
+  - id: m5
+    text: 'Ideologies: communism, capitalism, socialism'
+  - id: m6
+    text: Cold War
+  sources:
+  - NCERT Cl.9 *India and the Contemporary World I*
+  - NCERT Cl.11 *Themes in World History*
+  - Norman Lowe, *Mastering Modern World History*
+  priority: med
+  size: M
+  milestone: M1 · Nov 13
+  due: 2026-11-02
+- topic_id: GS1-CUL-01
+  paper: gs1
+  subject: culture
+  title: 'Early architecture: Harappan, Mauryan, rock-cut'
+  syllabus_lines:
+  - GS1-L1
+  micro_syllabus:
+  - id: m1
+    text: Harappan
+  - id: m2
+    text: Mauryan
+  - id: m3
+    text: rock-cut
+  sources:
+  - Nitin Singhania, *Indian Art & Culture*
+  - NCERT Cl.11 *An Introduction to Indian Art*
+  priority: high
+  size: S
+  milestone: M1 · Nov 13
+  due: 2026-11-04
+- topic_id: GS1-CUL-02
+  paper: gs1
+  subject: culture
+  title: 'Temple architecture: Nagara/Dravida/Vesara; Pallava, Chola, Chandela'
+  syllabus_lines:
+  - GS1-L1
+  micro_syllabus:
+  - id: m1
+    text: Nagara/Dravida/Vesara
+  - id: m2
+    text: Pallava
+  - id: m3
+    text: Chola
+  - id: m4
+    text: Chandela
+  sources:
+  - Nitin Singhania, *Indian Art & Culture*
+  - NCERT Cl.11 *An Introduction to Indian Art*
+  priority: high
+  size: M
+  milestone: M1 · Nov 13
+  due: 2026-11-05
+- topic_id: GS1-CUL-03
+  paper: gs1
+  subject: culture
+  title: Indo-Islamic and colonial architecture
+  syllabus_lines:
+  - GS1-L1
+  micro_syllabus:
+  - id: m1
+    text: Sultanate architecture
+  - id: m2
+    text: Mughal architecture
+  - id: m3
+    text: Provincial styles (Deccan, Bengal, Jaunpur)
+  - id: m4
+    text: Colonial and Indo-Saracenic architecture
+  sources:
+  - Nitin Singhania, *Indian Art & Culture*
+  - NCERT Cl.11 *An Introduction to Indian Art*
+  priority: med
+  size: S
+  milestone: M1 · Nov 13
+  due: 2026-11-07
+- topic_id: GS1-CUL-04
+  paper: gs1
+  subject: culture
+  title: Sculpture and painting; lion and bull motifs; temple sculpture as social record
+  syllabus_lines:
+  - GS1-L1
+  micro_syllabus:
+  - id: m1
+    text: Sculpture and painting
+  - id: m2
+    text: lion and bull motifs
+  - id: m3
+    text: temple sculpture as social record
+  sources:
+  - Nitin Singhania, *Indian Art & Culture*
+  - NCERT Cl.11 *An Introduction to Indian Art*
+  priority: med
+  size: M
+  milestone: M1 · Nov 13
+  due: 2026-11-08
+- topic_id: GS1-CUL-05
+  paper: gs1
+  subject: culture
+  title: Performing arts; UNESCO intangible cultural heritage (ICH)
+  syllabus_lines:
+  - GS1-L1
+  micro_syllabus:
+  - id: m1
+    text: Classical dances
+  - id: m2
+    text: Folk dances and theatre
+  - id: m3
+    text: Hindustani and Carnatic music
+  - id: m4
+    text: Puppetry
+  - id: m5
+    text: UNESCO intangible cultural heritage (ICH) list
+  sources:
+  - Nitin Singhania, *Indian Art & Culture*
+  - NCERT Cl.11 *An Introduction to Indian Art*
+  priority: low
+  size: S
+  milestone: M1 · Nov 13
+  due: 2026-11-09
+- topic_id: GS1-CUL-06
+  paper: gs1
+  subject: culture
+  title: Literature, religion, Bhakti–Sufi, Akbar's syncretism
+  syllabus_lines:
+  - GS1-L1
+  micro_syllabus:
+  - id: m1
+    text: Literature
+  - id: m2
+    text: religion
+  - id: m3
+    text: Bhakti–Sufi
+  - id: m4
+    text: Akbar's syncretism
+  sources:
+  - Nitin Singhania, *Indian Art & Culture*
+  - NCERT Cl.11 *An Introduction to Indian Art*
+  priority: high
+  size: M
+  milestone: M1 · Nov 13
+  due: 2026-11-10
+- topic_id: GS1-CUL-07
+  paper: gs1
+  subject: culture
+  title: 'Ancient–medieval context: geography and early India, Vedic society, Gupta/Chola, Sultanate technology'
+  syllabus_lines:
+  - GS1-L1
+  micro_syllabus:
+  - id: m1
+    text: geography and early India
+  - id: m2
+    text: Vedic society
+  - id: m3
+    text: Gupta/Chola
+  - id: m4
+    text: Sultanate technology
+  sources:
+  - Nitin Singhania, *Indian Art & Culture*
+  - NCERT Cl.11 *An Introduction to Indian Art*
+  - NCERT Cl.12 *Themes in Indian History I–II*
+  priority: med
+  size: M
+  milestone: M1 · Nov 13
+  due: 2026-11-11
+- topic_id: GS1-GEO-01
+  paper: gs1
+  subject: geography
+  title: 'Geomorphology: interior, plate tectonics, rocks, landforms/fjords'
+  syllabus_lines:
+  - GS1-L10
+  micro_syllabus:
+  - id: m1
+    text: interior
+  - id: m2
+    text: plate tectonics
+  - id: m3
+    text: rocks
+  - id: m4
+    text: landforms/fjords
+  sources:
+  - NCERT Cl.11 *Fundamentals of Physical Geography*
+  - G.C. Leong, *Certificate Physical and Human Geography*
+  priority: high
+  size: M
+  milestone: M1 · Nov 13
+  due: 2026-11-13
+- topic_id: GS1-GEO-02
+  paper: gs1
+  subject: geography
+  title: 'Climatology: atmosphere, monsoon/Purvaiya, cyclones and SST (sea surface temperature), twisters, cloudbursts, IMD
+    warnings, auroras'
+  syllabus_lines:
+  - GS1-L10
+  - GS1-L12
+  micro_syllabus:
+  - id: m1
+    text: atmosphere
+  - id: m2
+    text: monsoon/Purvaiya
+  - id: m3
+    text: cyclones and SST (sea surface temperature)
+  - id: m4
+    text: twisters
+  - id: m5
+    text: cloudbursts
+  - id: m6
+    text: IMD warnings
+  - id: m7
+    text: auroras
+  sources:
+  - NCERT Cl.11 *Fundamentals of Physical Geography*
+  - G.C. Leong, *Certificate Physical and Human Geography*
+  priority: high
+  size: M
+  milestone: M2 · Dec 13
+  due: 2026-11-14
+- topic_id: GS1-GEO-03
+  paper: gs1
+  subject: geography
+  title: 'Oceanography: currents/fisheries, straits/isthmus'
+  syllabus_lines:
+  - GS1-L10
+  micro_syllabus:
+  - id: m1
+    text: Ocean relief and temperature/salinity
+  - id: m2
+    text: Ocean currents
+  - id: m3
+    text: Currents and fisheries
+  - id: m4
+    text: Tides
+  - id: m5
+    text: Straits and isthmuses
+  sources:
+  - NCERT Cl.11 *Fundamentals of Physical Geography*
+  - G.C. Leong, *Certificate Physical and Human Geography*
+  priority: med
+  size: S
+  milestone: M2 · Dec 13
+  due: 2026-11-15
+- topic_id: GS1-GEO-04
+  paper: gs1
+  subject: geography
+  title: Earthquakes, tsunami, volcanism
+  syllabus_lines:
+  - GS1-L12
+  micro_syllabus:
+  - id: m1
+    text: Earthquakes
+  - id: m2
+    text: tsunami
+  - id: m3
+    text: volcanism
+  sources:
+  - NCERT Cl.11 *Fundamentals of Physical Geography*
+  - G.C. Leong, *Certificate Physical and Human Geography*
+  - NDMA guidelines
+  priority: high
+  size: S
+  milestone: M2 · Dec 13
+  due: 2026-11-16
+- topic_id: GS1-GEO-05
+  paper: gs1
+  subject: geography
+  title: 'Key natural resources: minerals, Deccan trap, oil on/off-shore, solar/wind, coastline'
+  syllabus_lines:
+  - GS1-L11
+  micro_syllabus:
+  - id: m1
+    text: minerals
+  - id: m2
+    text: Deccan trap
+  - id: m3
+    text: oil on/off-shore
+  - id: m4
+    text: solar/wind
+  - id: m5
+    text: coastline
+  sources:
+  - NCERT Cl.11 *Fundamentals of Physical Geography*
+  - G.C. Leong, *Certificate Physical and Human Geography*
+  - 'NCERT Cl.12 *India: People and Economy*'
+  priority: high
+  size: M
+  milestone: M2 · Dec 13
+  due: 2026-11-18
+- topic_id: GS1-GEO-06
+  paper: gs1
+  subject: geography
+  title: 'Industry location: primary/non-farm, rubber, food exports, GIS/RS/AI planning'
+  syllabus_lines:
+  - GS1-L11
+  micro_syllabus:
+  - id: m1
+    text: primary/non-farm
+  - id: m2
+    text: rubber
+  - id: m3
+    text: food exports
+  - id: m4
+    text: GIS/RS/AI planning
+  sources:
+  - NCERT Cl.11 *Fundamentals of Physical Geography*
+  - G.C. Leong, *Certificate Physical and Human Geography*
+  - NCERT Cl.12 *Fundamentals of Human Geography*
+  priority: high
+  size: M
+  milestone: M2 · Dec 13
+  due: 2026-11-19
+- topic_id: GS1-GEO-07
+  paper: gs1
+  subject: geography
+  title: 'Changes in critical features: ice caps, sea level/island states, groundwater, vegetation, climate and food security'
+  syllabus_lines:
+  - GS1-L12
+  micro_syllabus:
+  - id: m1
+    text: ice caps
+  - id: m2
+    text: sea level/island states
+  - id: m3
+    text: groundwater
+  - id: m4
+    text: vegetation
+  - id: m5
+    text: climate and food security
+  sources:
+  - NCERT Cl.11 *Fundamentals of Physical Geography*
+  - G.C. Leong, *Certificate Physical and Human Geography*
+  - IPCC AR6 Synthesis Report — SPM
+  priority: high
+  size: M
+  milestone: M2 · Dec 13
+  due: 2026-11-21
+- topic_id: GS1-SOC-01
+  paper: gs1
+  subject: society
+  title: 'Indian society and diversity: caste, tribe, sect, marriage, tribal development'
+  syllabus_lines:
+  - GS1-L6
+  micro_syllabus:
+  - id: m1
+    text: caste
+  - id: m2
+    text: tribe
+  - id: m3
+    text: sect
+  - id: m4
+    text: marriage
+  - id: m5
+    text: tribal development
+  sources:
+  - NCERT Cl.12 Sociology (*Indian Society*, *Social Change and Development in India*)
+  - Ram Ahuja, *Indian Social System*
+  priority: high
+  size: M
+  milestone: M2 · Dec 13
+  due: 2026-11-22
+- topic_id: GS1-SOC-02
+  paper: gs1
+  subject: society
+  title: Women and women's organisations; gender equality/equity; suicides; migration
+  syllabus_lines:
+  - GS1-L7
+  micro_syllabus:
+  - id: m1
+    text: Women and women's organisations
+  - id: m2
+    text: gender equality/equity
+  - id: m3
+    text: suicides
+  - id: m4
+    text: migration
+  sources:
+  - NCERT Cl.12 Sociology (*Indian Society*, *Social Change and Development in India*)
+  - Ram Ahuja, *Indian Social System*
+  - NFHS-5
+  - PLFS (Periodic Labour Force Survey)
+  priority: high
+  size: M
+  milestone: M2 · Dec 13
+  due: 2026-11-23
+- topic_id: GS1-SOC-03
+  paper: gs1
+  subject: society
+  title: 'Population: dividend/winter, migration, Ganga basin density'
+  syllabus_lines:
+  - GS1-L7
+  micro_syllabus:
+  - id: m1
+    text: dividend/winter
+  - id: m2
+    text: migration
+  - id: m3
+    text: Ganga basin density
+  sources:
+  - NCERT Cl.12 Sociology (*Indian Society*, *Social Change and Development in India*)
+  - Ram Ahuja, *Indian Social System*
+  - Census 2011; UN World Population Prospects
+  priority: med
+  size: M
+  milestone: M2 · Dec 13
+  due: 2026-11-25
+- topic_id: GS1-SOC-04
+  paper: gs1
+  subject: society
+  title: 'Poverty and development: HD vs growth, environment vs poor, government–NGO–private'
+  syllabus_lines:
+  - GS1-L7
+  micro_syllabus:
+  - id: m1
+    text: HD vs growth
+  - id: m2
+    text: environment vs poor
+  - id: m3
+    text: government–NGO–private
+  sources:
+  - NCERT Cl.12 Sociology (*Indian Society*, *Social Change and Development in India*)
+  - Ram Ahuja, *Indian Social System*
+  priority: med
+  size: M
+  milestone: M2 · Dec 13
+  due: 2026-11-26
+- topic_id: GS1-SOC-05
+  paper: gs1
+  subject: society
+  title: 'Urbanisation: migration, segregation, smart cities, tier-2'
+  syllabus_lines:
+  - GS1-L7
+  micro_syllabus:
+  - id: m1
+    text: migration
+  - id: m2
+    text: segregation
+  - id: m3
+    text: smart cities
+  - id: m4
+    text: tier-2
+  sources:
+  - NCERT Cl.12 Sociology (*Indian Society*, *Social Change and Development in India*)
+  - Ram Ahuja, *Indian Social System*
+  priority: high
+  size: M
+  milestone: M2 · Dec 13
+  due: 2026-11-28
+- topic_id: GS1-SOC-06
+  paper: gs1
+  subject: society
+  title: 'Globalisation and society: consumerism, fast food, WFH, mobile phones'
+  syllabus_lines:
+  - GS1-L8
+  micro_syllabus:
+  - id: m1
+    text: consumerism
+  - id: m2
+    text: fast food
+  - id: m3
+    text: WFH
+  - id: m4
+    text: mobile phones
+  sources:
+  - NCERT Cl.12 Sociology (*Indian Society*, *Social Change and Development in India*)
+  - Ram Ahuja, *Indian Social System*
+  priority: med
+  size: S
+  milestone: M2 · Dec 13
+  due: 2026-11-29
+- topic_id: GS1-SOC-07
+  paper: gs1
+  subject: society
+  title: 'Empowerment, communalism, regionalism, secularism: affirmative action, regional disparity, sect'
+  syllabus_lines:
+  - GS1-L9
+  micro_syllabus:
+  - id: m1
+    text: affirmative action
+  - id: m2
+    text: regional disparity
+  - id: m3
+    text: sect
+  sources:
+  - NCERT Cl.12 Sociology (*Indian Society*, *Social Change and Development in India*)
+  - Ram Ahuja, *Indian Social System*
+  priority: high
+  size: M
+  milestone: M2 · Dec 13
+  due: 2026-12-01
+- topic_id: GS2-POL-01
+  paper: gs2
+  subject: polity
+  title: Historical underpinnings and making of the Constitution
+  syllabus_lines:
+  - GS2-L1
+  micro_syllabus:
+  - id: m1
+    text: Company Rule Acts (1773–1858)
+  - id: m2
+    text: Crown Rule Acts (1861–1935)
+  - id: m3
+    text: Constituent Assembly
+  - id: m4
+    text: Sources of the Constitution
+  sources:
+  - M. Laxmikanth, *Indian Polity*
+  - NCERT Cl.11 *Indian Constitution at Work*
+  priority: med
+  size: S
+  milestone: M2 · Dec 13
+  due: 2026-12-03
+- topic_id: GS2-POL-02
+  paper: gs2
+  subject: polity
+  title: Features, FRs (Art 14/19/21, privacy, environment, movement), gender justice, living constitution
+  syllabus_lines:
+  - GS2-L1
+  micro_syllabus:
+  - id: m1
+    text: Salient features
+  - id: m2
+    text: Art 14 and 19
+  - id: m3
+    text: 'Art 21: privacy, environment, movement'
+  - id: m4
+    text: Gender justice
+  - id: m5
+    text: Living constitution
+  sources:
+  - M. Laxmikanth, *Indian Polity*
+  - NCERT Cl.11 *Indian Constitution at Work*
+  priority: high
+  size: M
+  milestone: M2 · Dec 13
+  due: 2026-12-04
+- topic_id: GS2-POL-03
+  paper: gs2
+  subject: polity
+  title: DPSP, FDs, Art 368, basic structure
+  syllabus_lines:
+  - GS2-L1
+  micro_syllabus:
+  - id: m1
+    text: DPSP
+  - id: m2
+    text: FDs
+  - id: m3
+    text: Art 368
+  - id: m4
+    text: basic structure
+  sources:
+  - M. Laxmikanth, *Indian Polity*
+  - NCERT Cl.11 *Indian Constitution at Work*
+  priority: high
+  size: M
+  milestone: M2 · Dec 13
+  due: 2026-12-05
+- topic_id: GS2-POL-04
+  paper: gs2
+  subject: polity
+  title: 'Federalism I: 7th Schedule, Governor, Art 356, emergency, J&K, national vs regional parties'
+  syllabus_lines:
+  - GS2-L2
+  micro_syllabus:
+  - id: m1
+    text: 7th Schedule
+  - id: m2
+    text: Governor
+  - id: m3
+    text: Art 356
+  - id: m4
+    text: emergency
+  - id: m5
+    text: J&K
+  - id: m6
+    text: national vs regional parties
+  sources:
+  - M. Laxmikanth, *Indian Polity*
+  - NCERT Cl.11 *Indian Constitution at Work*
+  - Sarkaria and Punchhi Commission reports
+  priority: high
+  size: M
+  milestone: M2 · Dec 13
+  due: 2026-12-06
+- topic_id: GS2-POL-05
+  paper: gs2
+  subject: polity
+  title: 'Fiscal federalism: Finance Commission, GST/101st Amendment, transfers'
+  syllabus_lines:
+  - GS2-L2
+  micro_syllabus:
+  - id: m1
+    text: Finance Commission
+  - id: m2
+    text: GST/101st Amendment
+  - id: m3
+    text: transfers
+  sources:
+  - M. Laxmikanth, *Indian Polity*
+  - NCERT Cl.11 *Indian Constitution at Work*
+  - 15th/16th Finance Commission reports
+  priority: high
+  size: M
+  milestone: M2 · Dec 13
+  due: 2026-12-07
+- topic_id: GS2-POL-06
+  paper: gs2
+  subject: polity
+  title: 'Local governance: 73rd/74th amendments, ULB finances, rural–urban merger'
+  syllabus_lines:
+  - GS2-L2
+  micro_syllabus:
+  - id: m1
+    text: 73rd/74th amendments
+  - id: m2
+    text: ULB finances
+  - id: m3
+    text: rural–urban merger
+  sources:
+  - M. Laxmikanth, *Indian Polity*
+  - NCERT Cl.11 *Indian Constitution at Work*
+  - 2nd ARC 6th Report (*Local Governance*)
+  priority: high
+  size: M
+  milestone: M2 · Dec 13
+  due: 2026-12-09
+- topic_id: GS2-POL-07
+  paper: gs2
+  subject: polity
+  title: Separation of powers, PIL, constitutional morality
+  syllabus_lines:
+  - GS2-L3
+  micro_syllabus:
+  - id: m1
+    text: Separation of powers
+  - id: m2
+    text: PIL
+  - id: m3
+    text: constitutional morality
+  sources:
+  - M. Laxmikanth, *Indian Polity*
+  - NCERT Cl.11 *Indian Constitution at Work*
+  priority: high
+  size: M
+  milestone: M2 · Dec 13
+  due: 2026-12-10
+- topic_id: GS2-POL-08
+  paper: gs2
+  subject: polity
+  title: Tribunals (2021 reforms), Lok Adalat/arbitration, NALSA
+  syllabus_lines:
+  - GS2-L3
+  micro_syllabus:
+  - id: m1
+    text: Tribunals (2021 reforms)
+  - id: m2
+    text: Lok Adalat/arbitration
+  - id: m3
+    text: NALSA
+  sources:
+  - M. Laxmikanth, *Indian Polity*
+  - NCERT Cl.11 *Indian Constitution at Work*
+  priority: med
+  size: S
+  milestone: M2 · Dec 13
+  due: 2026-12-11
+- topic_id: GS2-POL-09
+  paper: gs2
+  subject: polity
+  title: 'Comparative constitutions: UK, USA, France'
+  syllabus_lines:
+  - GS2-L4
+  micro_syllabus:
+  - id: m1
+    text: UK
+  - id: m2
+    text: USA
+  - id: m3
+    text: France
+  sources:
+  - M. Laxmikanth, *Indian Polity*
+  - NCERT Cl.11 *Indian Constitution at Work*
+  priority: med
+  size: M
+  milestone: M2 · Dec 13
+  due: 2026-12-12
+- topic_id: GS2-POL-10
+  paper: gs2
+  subject: polity
+  title: 'Parliament and state legislatures: committees, privileges, Presiding Officers, Vice-President'
+  syllabus_lines:
+  - GS2-L5
+  micro_syllabus:
+  - id: m1
+    text: committees
+  - id: m2
+    text: privileges
+  - id: m3
+    text: Presiding Officers
+  - id: m4
+    text: Vice-President
+  sources:
+  - M. Laxmikanth, *Indian Polity*
+  - NCERT Cl.11 *Indian Constitution at Work*
+  - PRS Legislative Research
+  priority: high
+  size: M
+  milestone: M2 · Dec 13
+  due: 2026-12-13
+- topic_id: GS2-POL-11
+  paper: gs2
+  subject: polity
+  title: 'Executive: President''s pardon/ordinance, cabinet, Governor''s legislative powers; pressure groups'
+  syllabus_lines:
+  - GS2-L6
+  micro_syllabus:
+  - id: m1
+    text: President's pardon/ordinance
+  - id: m2
+    text: cabinet
+  - id: m3
+    text: Governor's legislative powers
+  - id: m4
+    text: pressure groups
+  sources:
+  - M. Laxmikanth, *Indian Polity*
+  - NCERT Cl.11 *Indian Constitution at Work*
+  priority: high
+  size: M
+  milestone: M3 · Jan 13
+  due: 2026-12-14
+- topic_id: GS2-POL-12
+  paper: gs2
+  subject: polity
+  title: 'Judiciary: collegium, independence vs accountability'
+  syllabus_lines:
+  - GS2-L6
+  micro_syllabus:
+  - id: m1
+    text: Structure and jurisdiction of SC/HCs
+  - id: m2
+    text: Collegium vs NJAC
+  - id: m3
+    text: Judicial independence vs accountability
+  - id: m4
+    text: Judicial pendency and reforms
+  sources:
+  - M. Laxmikanth, *Indian Polity*
+  - NCERT Cl.11 *Indian Constitution at Work*
+  priority: high
+  size: M
+  milestone: M3 · Jan 13
+  due: 2026-12-16
+- topic_id: GS2-POL-13
+  paper: gs2
+  subject: polity
+  title: RPA, corrupt practices, election petitions, ECI/MCC (Model Code of Conduct), ONOE (One Nation One Election)
+  syllabus_lines:
+  - GS2-L7
+  micro_syllabus:
+  - id: m1
+    text: RPA
+  - id: m2
+    text: corrupt practices
+  - id: m3
+    text: election petitions
+  - id: m4
+    text: ECI/MCC (Model Code of Conduct)
+  - id: m5
+    text: ONOE (One Nation One Election)
+  sources:
+  - M. Laxmikanth, *Indian Polity*
+  - NCERT Cl.11 *Indian Constitution at Work*
+  priority: high
+  size: M
+  milestone: M3 · Jan 13
+  due: 2026-12-17
+- topic_id: GS2-POL-14
+  paper: gs2
+  subject: polity
+  title: 'Constitutional bodies: CAG, AG, NCBC etc.'
+  syllabus_lines:
+  - GS2-L8
+  micro_syllabus:
+  - id: m1
+    text: CAG
+  - id: m2
+    text: AG
+  - id: m3
+    text: NCBC etc.
+  sources:
+  - M. Laxmikanth, *Indian Polity*
+  - NCERT Cl.11 *Indian Constitution at Work*
+  priority: high
+  size: M
+  milestone: M3 · Jan 13
+  due: 2026-12-18
+- topic_id: GS2-POL-15
+  paper: gs2
+  subject: polity
+  title: 'Statutory, regulatory, quasi-judicial bodies: CCI, NCPCR, NHRC, Lokpal'
+  syllabus_lines:
+  - GS2-L9
+  micro_syllabus:
+  - id: m1
+    text: CCI
+  - id: m2
+    text: NCPCR
+  - id: m3
+    text: NHRC
+  - id: m4
+    text: Lokpal
+  sources:
+  - M. Laxmikanth, *Indian Polity*
+  - NCERT Cl.11 *Indian Constitution at Work*
+  priority: med
+  size: M
+  milestone: M3 · Jan 13
+  due: 2026-12-19
+- topic_id: GS2-GOV-01
+  paper: gs2
+  subject: governance
+  title: Policy design and implementation; decentralised decisions; Gati Shakti
+  syllabus_lines:
+  - GS2-L10
+  micro_syllabus:
+  - id: m1
+    text: Policy design and implementation
+  - id: m2
+    text: decentralised decisions
+  - id: m3
+    text: Gati Shakti
+  sources:
+  - 2nd ARC reports
+  - PRS Legislative Research
+  priority: high
+  size: M
+  milestone: M3 · Jan 13
+  due: 2026-12-20
+- topic_id: GS2-GOV-02
+  paper: gs2
+  subject: governance
+  title: NGOs, SHGs, CSOs, charitable trusts, donors
+  syllabus_lines:
+  - GS2-L11
+  micro_syllabus:
+  - id: m1
+    text: NGOs
+  - id: m2
+    text: SHGs
+  - id: m3
+    text: CSOs
+  - id: m4
+    text: charitable trusts
+  - id: m5
+    text: donors
+  sources:
+  - 2nd ARC reports
+  - PRS Legislative Research
+  - 2nd ARC 9th Report (*Social Capital*)
+  priority: high
+  size: M
+  milestone: M3 · Jan 13
+  due: 2026-12-21
+- topic_id: GS2-GOV-03
+  paper: gs2
+  subject: social-justice
+  title: 'Vulnerable sections: schemes, RPwD 2016, women''s social capital'
+  syllabus_lines:
+  - GS2-L12
+  micro_syllabus:
+  - id: m1
+    text: Schemes for SC/ST/OBC, minorities
+  - id: m2
+    text: Women and children
+  - id: m3
+    text: 'Persons with disabilities: RPwD Act 2016'
+  - id: m4
+    text: Women's social capital
+  - id: m5
+    text: Statutory bodies for vulnerable sections
+  sources:
+  - Economic Survey (latest)
+  - Ministry annual reports
+  priority: high
+  size: M
+  milestone: M3 · Jan 13
+  due: 2026-12-23
+- topic_id: GS2-GOV-04
+  paper: gs2
+  subject: social-justice
+  title: Health
+  syllabus_lines:
+  - GS2-L13
+  micro_syllabus:
+  - id: m1
+    text: Health infrastructure and financing
+  - id: m2
+    text: Ayushman Bharat (PM-JAY, HWCs)
+  - id: m3
+    text: Public vs private health care
+  - id: m4
+    text: NFHS-5 indicators
+  - id: m5
+    text: Health workforce
+  sources:
+  - Economic Survey (latest)
+  - Ministry annual reports
+  - NFHS-5
+  - National Health Policy 2017
+  priority: high
+  size: M
+  milestone: M3 · Jan 13
+  due: 2026-12-24
+- topic_id: GS2-GOV-05
+  paper: gs2
+  subject: social-justice
+  title: 'Education and HRD: NEP, RTE, skills, Public Examinations Act 2024'
+  syllabus_lines:
+  - GS2-L13
+  micro_syllabus:
+  - id: m1
+    text: NEP
+  - id: m2
+    text: RTE
+  - id: m3
+    text: skills
+  - id: m4
+    text: Public Examinations Act 2024
+  sources:
+  - Economic Survey (latest)
+  - Ministry annual reports
+  - NEP 2020
+  priority: high
+  size: M
+  milestone: M3 · Jan 13
+  due: 2026-12-25
+- topic_id: GS2-GOV-06
+  paper: gs2
+  subject: social-justice
+  title: 'Poverty and hunger: MPI, malnutrition, asset inequality'
+  syllabus_lines:
+  - GS2-L14
+  micro_syllabus:
+  - id: m1
+    text: MPI
+  - id: m2
+    text: malnutrition
+  - id: m3
+    text: asset inequality
+  sources:
+  - Economic Survey (latest)
+  - Ministry annual reports
+  - NITI Aayog MPI reports
+  priority: high
+  size: S
+  milestone: M3 · Jan 13
+  due: 2026-12-26
+- topic_id: GS2-GOV-07
+  paper: gs2
+  subject: governance
+  title: Transparency, RTI, citizens' charter, e-governance models, DBT
+  syllabus_lines:
+  - GS2-L15
+  micro_syllabus:
+  - id: m1
+    text: Transparency
+  - id: m2
+    text: RTI
+  - id: m3
+    text: citizens' charter
+  - id: m4
+    text: e-governance models
+  - id: m5
+    text: DBT
+  sources:
+  - 2nd ARC reports
+  - PRS Legislative Research
+  - 2nd ARC 1st, 11th, 12th Reports
+  priority: high
+  size: M
+  milestone: M3 · Jan 13
+  due: 2026-12-27
+- topic_id: GS2-GOV-08
+  paper: gs2
+  subject: governance
+  title: Civil services in a democracy
+  syllabus_lines:
+  - GS2-L16
+  micro_syllabus:
+  - id: m1
+    text: Role of civil services in democracy
+  - id: m2
+    text: Neutrality and commitment
+  - id: m3
+    text: Civil service reforms (2nd ARC 10th Report)
+  - id: m4
+    text: Lateral entry, Mission Karmayogi
+  sources:
+  - 2nd ARC reports
+  - PRS Legislative Research
+  - 2nd ARC 10th Report (*Refurbishing Personnel Administration*)
+  priority: med
+  size: S
+  milestone: M3 · Jan 13
+  due: 2026-12-28
+- topic_id: GS2-IR-01
+  paper: gs2
+  subject: ir
+  title: 'Neighbourhood I: Pakistan, China, Afghanistan'
+  syllabus_lines:
+  - GS2-L17
+  micro_syllabus:
+  - id: m1
+    text: Pakistan
+  - id: m2
+    text: China
+  - id: m3
+    text: Afghanistan
+  sources:
+  - MEA bilateral briefs and annual report
+  - Rajiv Sikri, *Challenge and Strategy*
+  priority: high
+  size: M
+  milestone: M3 · Jan 13
+  due: 2026-12-30
+- topic_id: GS2-IR-02
+  paper: gs2
+  subject: ir
+  title: 'Neighbourhood II: Sri Lanka, Maldives, Nepal, Bangladesh, Bhutan, Myanmar'
+  syllabus_lines:
+  - GS2-L17
+  micro_syllabus:
+  - id: m1
+    text: Sri Lanka
+  - id: m2
+    text: Maldives
+  - id: m3
+    text: Nepal
+  - id: m4
+    text: Bangladesh
+  - id: m5
+    text: Bhutan
+  - id: m6
+    text: Myanmar
+  sources:
+  - MEA bilateral briefs and annual report
+  - Rajiv Sikri, *Challenge and Strategy*
+  priority: high
+  size: M
+  milestone: M3 · Jan 13
+  due: 2026-12-31
+- topic_id: GS2-IR-03
+  paper: gs2
+  subject: ir
+  title: 'Key bilaterals: USA, Russia, Israel/West Asia energy, Central Asia, Africa'
+  syllabus_lines:
+  - GS2-L18
+  micro_syllabus:
+  - id: m1
+    text: USA
+  - id: m2
+    text: Russia
+  - id: m3
+    text: Israel/West Asia energy
+  - id: m4
+    text: Central Asia
+  - id: m5
+    text: Africa
+  sources:
+  - MEA bilateral briefs and annual report
+  - Rajiv Sikri, *Challenge and Strategy*
+  priority: high
+  size: M
+  milestone: M3 · Jan 13
+  due: 2027-01-02
+- topic_id: GS2-IR-04
+  paper: gs2
+  subject: ir
+  title: 'Groupings: SCO, BRICS, Quad, I2U2, BIMSTEC/SAARC, G20'
+  syllabus_lines:
+  - GS2-L18
+  micro_syllabus:
+  - id: m1
+    text: SCO
+  - id: m2
+    text: BRICS
+  - id: m3
+    text: Quad
+  - id: m4
+    text: I2U2
+  - id: m5
+    text: BIMSTEC/SAARC
+  - id: m6
+    text: G20
+  sources:
+  - MEA bilateral briefs and annual report
+  - Rajiv Sikri, *Challenge and Strategy*
+  priority: high
+  size: M
+  milestone: M3 · Jan 13
+  due: 2027-01-04
+- topic_id: GS2-IR-05
+  paper: gs2
+  subject: ir
+  title: 'Others'' policies: de-globalisation, China+1, NATO; diaspora'
+  syllabus_lines:
+  - GS2-L19
+  micro_syllabus:
+  - id: m1
+    text: de-globalisation
+  - id: m2
+    text: China+1
+  - id: m3
+    text: NATO
+  - id: m4
+    text: diaspora
+  sources:
+  - MEA bilateral briefs and annual report
+  - Rajiv Sikri, *Challenge and Strategy*
+  priority: med
+  size: M
+  milestone: M3 · Jan 13
+  due: 2027-01-06
+- topic_id: GS2-IR-06
+  paper: gs2
+  subject: ir
+  title: 'Institutions: UN reform, UNSC CTC, IMO, WTO'
+  syllabus_lines:
+  - GS2-L20
+  micro_syllabus:
+  - id: m1
+    text: UN reform
+  - id: m2
+    text: UNSC CTC
+  - id: m3
+    text: IMO
+  - id: m4
+    text: WTO
+  sources:
+  - MEA bilateral briefs and annual report
+  - Rajiv Sikri, *Challenge and Strategy*
+  priority: med
+  size: M
+  milestone: M3 · Jan 13
+  due: 2027-01-07
+- topic_id: GS3-ECO-01
+  paper: gs3
+  subject: economy
+  title: Planning, growth, employment, digitalisation, labour productivity
+  syllabus_lines:
+  - GS3-L1
+  micro_syllabus:
+  - id: m1
+    text: Planning
+  - id: m2
+    text: growth
+  - id: m3
+    text: employment
+  - id: m4
+    text: digitalisation
+  - id: m5
+    text: labour productivity
+  sources:
+  - Economic Survey (latest)
+  - Union Budget documents
+  - Ramesh Singh, *Indian Economy*
+  priority: high
+  size: M
+  milestone: M3 · Jan 13
+  due: 2027-01-09
+- topic_id: GS3-ECO-02
+  paper: gs3
+  subject: economy
+  title: 'Inclusive growth: HDI/IHDI, social spending, care economy'
+  syllabus_lines:
+  - GS3-L2
+  micro_syllabus:
+  - id: m1
+    text: HDI/IHDI
+  - id: m2
+    text: social spending
+  - id: m3
+    text: care economy
+  sources:
+  - Economic Survey (latest)
+  - Union Budget documents
+  - Ramesh Singh, *Indian Economy*
+  priority: high
+  size: M
+  milestone: M3 · Jan 13
+  due: 2027-01-10
+- topic_id: GS3-ECO-03
+  paper: gs3
+  subject: economy
+  title: 'Resource mobilisation: banking, inflation/monetary policy, financial inclusion'
+  syllabus_lines:
+  - GS3-L1
+  micro_syllabus:
+  - id: m1
+    text: banking
+  - id: m2
+    text: inflation/monetary policy
+  - id: m3
+    text: financial inclusion
+  sources:
+  - Economic Survey (latest)
+  - Union Budget documents
+  - Ramesh Singh, *Indian Economy*
+  priority: high
+  size: M
+  milestone: M3 · Jan 13
+  due: 2027-01-11
+- topic_id: GS3-ECO-04
+  paper: gs3
+  subject: economy
+  title: 'Budgeting: deficits, FRBM, Fiscal Health Index, Union Budget 2026-27'
+  syllabus_lines:
+  - GS3-L3
+  micro_syllabus:
+  - id: m1
+    text: Deficits
+  - id: m2
+    text: FRBM
+  - id: m3
+    text: Fiscal Health Index
+  - id: m4
+    text: Union Budget 2026-27
+  sources:
+  - Economic Survey (latest)
+  - Union Budget documents
+  - Ramesh Singh, *Indian Economy*
+  - FRBM Act 2003
+  - NITI Aayog Fiscal Health Index
+  priority: high
+  size: M
+  milestone: M3 · Jan 13
+  due: 2027-01-13
+- topic_id: GS3-ECO-05
+  paper: gs3
+  subject: economy
+  title: Liberalisation, MSMEs, PLI, labour codes
+  syllabus_lines:
+  - GS3-L8
+  micro_syllabus:
+  - id: m1
+    text: Liberalisation
+  - id: m2
+    text: MSMEs
+  - id: m3
+    text: PLI
+  - id: m4
+    text: labour codes
+  sources:
+  - Economic Survey (latest)
+  - Union Budget documents
+  - Ramesh Singh, *Indian Economy*
+  priority: high
+  size: M
+  milestone: M4 · Feb 13
+  due: 2027-01-14
+- topic_id: GS3-ECO-06
+  paper: gs3
+  subject: economy
+  title: 'Energy: renewables, clean-tech independence, EVs'
+  syllabus_lines:
+  - GS3-L9
+  micro_syllabus:
+  - id: m1
+    text: renewables
+  - id: m2
+    text: clean-tech independence
+  - id: m3
+    text: EVs
+  sources:
+  - Economic Survey (latest)
+  - Union Budget documents
+  - Ramesh Singh, *Indian Economy*
+  priority: high
+  size: M
+  milestone: M4 · Feb 13
+  due: 2027-01-15
+- topic_id: GS3-ECO-07
+  paper: gs3
+  subject: economy
+  title: 'Transport and investment models: PPP, station redevelopment, tolling, UDAN'
+  syllabus_lines:
+  - GS3-L9
+  - GS3-L10
+  micro_syllabus:
+  - id: m1
+    text: PPP
+  - id: m2
+    text: station redevelopment
+  - id: m3
+    text: tolling
+  - id: m4
+    text: UDAN
+  sources:
+  - Economic Survey (latest)
+  - Union Budget documents
+  - Ramesh Singh, *Indian Economy*
+  priority: high
+  size: M
+  milestone: M4 · Feb 13
+  due: 2027-01-17
+- topic_id: GS3-ECO-08
+  paper: gs3
+  subject: economy
+  title: External sector and protectionism
+  syllabus_lines:
+  - GS3-L1
+  - GS3-L8
+  micro_syllabus:
+  - id: m1
+    text: Balance of payments and current account
+  - id: m2
+    text: Exchange rate and reserves
+  - id: m3
+    text: Trade policy and FTAs
+  - id: m4
+    text: Protectionism and bilateralism
+  sources:
+  - Economic Survey (latest)
+  - Union Budget documents
+  - Ramesh Singh, *Indian Economy*
+  priority: med
+  size: M
+  milestone: M4 · Feb 13
+  due: 2027-01-18
+- topic_id: GS3-AGR-01
+  paper: gs3
+  subject: agriculture
+  title: Cropping pattern, high-value crops, irrigation, groundwater
+  syllabus_lines:
+  - GS3-L4
+  micro_syllabus:
+  - id: m1
+    text: Cropping pattern
+  - id: m2
+    text: high-value crops
+  - id: m3
+    text: irrigation
+  - id: m4
+    text: groundwater
+  sources:
+  - Economic Survey (latest) — agriculture chapter
+  - NCERT Cl.10/12 Geography — agriculture chapters
+  priority: high
+  size: M
+  milestone: M4 · Feb 13
+  due: 2027-01-20
+- topic_id: GS3-AGR-02
+  paper: gs3
+  subject: agriculture
+  title: Marketing, supply chain, e-technology
+  syllabus_lines:
+  - GS3-L4
+  - GS3-L6
+  micro_syllabus:
+  - id: m1
+    text: Marketing
+  - id: m2
+    text: supply chain
+  - id: m3
+    text: e-technology
+  sources:
+  - Economic Survey (latest) — agriculture chapter
+  - NCERT Cl.10/12 Geography — agriculture chapters
+  priority: high
+  size: M
+  milestone: M4 · Feb 13
+  due: 2027-01-21
+- topic_id: GS3-AGR-03
+  paper: gs3
+  subject: agriculture
+  title: Subsidies/WTO, MSP, PDS, buffer stocks, millets
+  syllabus_lines:
+  - GS3-L5
+  micro_syllabus:
+  - id: m1
+    text: Subsidies/WTO
+  - id: m2
+    text: MSP
+  - id: m3
+    text: PDS
+  - id: m4
+    text: buffer stocks
+  - id: m5
+    text: millets
+  sources:
+  - Economic Survey (latest) — agriculture chapter
+  - NCERT Cl.10/12 Geography — agriculture chapters
+  priority: high
+  size: M
+  milestone: M4 · Feb 13
+  due: 2027-01-22
+- topic_id: GS3-AGR-04
+  paper: gs3
+  subject: agriculture
+  title: Food processing
+  syllabus_lines:
+  - GS3-L6
+  micro_syllabus:
+  - id: m1
+    text: Scope and significance
+  - id: m2
+    text: Location factors
+  - id: m3
+    text: Upstream and downstream requirements
+  - id: m4
+    text: Supply chain and cold chain
+  - id: m5
+    text: PMKSY and PLI for food processing
+  sources:
+  - Economic Survey (latest) — agriculture chapter
+  - NCERT Cl.10/12 Geography — agriculture chapters
+  priority: med
+  size: S
+  milestone: M4 · Feb 13
+  due: 2027-01-24
+- topic_id: GS3-AGR-05
+  paper: gs3
+  subject: agriculture
+  title: Land reforms, integrated farming, animal rearing
+  syllabus_lines:
+  - GS3-L5
+  - GS3-L7
+  micro_syllabus:
+  - id: m1
+    text: Land reforms
+  - id: m2
+    text: integrated farming
+  - id: m3
+    text: animal rearing
+  sources:
+  - Economic Survey (latest) — agriculture chapter
+  - NCERT Cl.10/12 Geography — agriculture chapters
+  priority: med
+  size: M
+  milestone: M4 · Feb 13
+  due: 2027-01-25
+- topic_id: GS3-SCI-01
+  paper: gs3
+  subject: science-tech
+  title: 'S&T in daily life: fusion/ITER, water technology, cellulose'
+  syllabus_lines:
+  - GS3-L11
+  - GS3-L12
+  micro_syllabus:
+  - id: m1
+    text: fusion/ITER
+  - id: m2
+    text: water technology
+  - id: m3
+    text: cellulose
+  sources:
+  - PIB/ISRO/DST releases
+  - The Hindu science page
+  priority: med
+  size: M
+  milestone: M4 · Feb 13
+  due: 2027-01-27
+- topic_id: GS3-SCI-02
+  paper: gs3
+  subject: science-tech
+  title: 'Space: Chandrayaan-3, JWST, asteroids'
+  syllabus_lines:
+  - GS3-L13
+  micro_syllabus:
+  - id: m1
+    text: Chandrayaan-3
+  - id: m2
+    text: JWST
+  - id: m3
+    text: asteroids
+  sources:
+  - PIB/ISRO/DST releases
+  - The Hindu science page
+  priority: high
+  size: M
+  milestone: M4 · Feb 13
+  due: 2027-01-28
+- topic_id: GS3-SCI-03
+  paper: gs3
+  subject: science-tech
+  title: IT/AI/semiconductors
+  syllabus_lines:
+  - GS3-L13
+  micro_syllabus:
+  - id: m1
+    text: IT and digital public infrastructure
+  - id: m2
+    text: 'Artificial intelligence: applications and governance'
+  - id: m3
+    text: 'Semiconductors: India Semiconductor Mission'
+  - id: m4
+    text: Quantum and robotics
+  sources:
+  - PIB/ISRO/DST releases
+  - The Hindu science page
+  priority: high
+  size: M
+  milestone: M4 · Feb 13
+  due: 2027-01-29
+- topic_id: GS3-SCI-04
+  paper: gs3
+  subject: science-tech
+  title: 'Biotech/health/nanotech: vaccines, microbes for fuel, nano-agriculture'
+  syllabus_lines:
+  - GS3-L13
+  micro_syllabus:
+  - id: m1
+    text: vaccines
+  - id: m2
+    text: microbes for fuel
+  - id: m3
+    text: nano-agriculture
+  sources:
+  - PIB/ISRO/DST releases
+  - The Hindu science page
+  priority: med
+  size: M
+  milestone: M4 · Feb 13
+  due: 2027-01-31
+- topic_id: GS3-SCI-05
+  paper: gs3
+  subject: science-tech
+  title: IPR
+  syllabus_lines:
+  - GS3-L13
+  micro_syllabus:
+  - id: m1
+    text: IPR types and TRIPS
+  - id: m2
+    text: Indian Patents Act and Section 3(d)
+  - id: m3
+    text: Patents on life forms and biodiversity
+  - id: m4
+    text: Commercialisation of patents
+  sources:
+  - PIB/ISRO/DST releases
+  - The Hindu science page
+  priority: med
+  size: S
+  milestone: M4 · Feb 13
+  due: 2027-02-01
+- topic_id: GS3-ENV-01
+  paper: gs3
+  subject: environment
+  title: Conservation, wetlands/Ramsar
+  syllabus_lines:
+  - GS3-L14
+  micro_syllabus:
+  - id: m1
+    text: 'Biodiversity conservation: in situ and ex situ'
+  - id: m2
+    text: Protected areas and Wildlife Protection Act
+  - id: m3
+    text: Wetlands and Ramsar sites
+  - id: m4
+    text: Forest conservation
+  sources:
+  - Shankar IAS, *Environment*
+  - MoEFCC annual report
+  priority: med
+  size: M
+  milestone: M4 · Feb 13
+  due: 2027-02-03
+- topic_id: GS3-ENV-02
+  paper: gs3
+  subject: environment
+  title: 'Pollution: smog, rivers, oil, mining, seawater intrusion'
+  syllabus_lines:
+  - GS3-L14
+  micro_syllabus:
+  - id: m1
+    text: smog
+  - id: m2
+    text: rivers
+  - id: m3
+    text: oil
+  - id: m4
+    text: mining
+  - id: m5
+    text: seawater intrusion
+  sources:
+  - Shankar IAS, *Environment*
+  - MoEFCC annual report
+  priority: high
+  size: M
+  milestone: M4 · Feb 13
+  due: 2027-02-04
+- topic_id: GS3-ENV-03
+  paper: gs3
+  subject: environment
+  title: Climate regime (Kyoto/Paris/NDC/COP26), CCUS, EIA
+  syllabus_lines:
+  - GS3-L14
+  micro_syllabus:
+  - id: m1
+    text: Climate regime (Kyoto/Paris/NDC/COP26)
+  - id: m2
+    text: CCUS
+  - id: m3
+    text: EIA
+  sources:
+  - Shankar IAS, *Environment*
+  - MoEFCC annual report
+  priority: high
+  size: M
+  milestone: M4 · Feb 13
+  due: 2027-02-05
+- topic_id: GS3-DM-01
+  paper: gs3
+  subject: disaster
+  title: 'Disaster management: DM Act, Sendai, resilience, urban floods, dams, cloudbursts, coastal erosion'
+  syllabus_lines:
+  - GS3-L15
+  micro_syllabus:
+  - id: m1
+    text: DM Act
+  - id: m2
+    text: Sendai
+  - id: m3
+    text: resilience
+  - id: m4
+    text: urban floods
+  - id: m5
+    text: dams
+  - id: m6
+    text: cloudbursts
+  - id: m7
+    text: coastal erosion
+  sources:
+  - NDMA guidelines
+  - 2nd ARC 3rd Report (*Crisis Management*)
+  priority: high
+  size: M
+  milestone: M4 · Feb 13
+  due: 2027-02-07
+- topic_id: GS3-SEC-01
+  paper: gs3
+  subject: security
+  title: 'Development and extremism: LWE, NE accords'
+  syllabus_lines:
+  - GS3-L16
+  micro_syllabus:
+  - id: m1
+    text: Development–extremism linkage
+  - id: m2
+    text: Left Wing Extremism
+  - id: m3
+    text: North-East insurgency
+  - id: m4
+    text: NE peace accords
+  sources:
+  - MHA annual report
+  - Ashok Kumar & Vipul Anekant, *Challenges to Internal Security of India*
+  priority: high
+  size: M
+  milestone: M4 · Feb 13
+  due: 2027-02-08
+- topic_id: GS3-SEC-02
+  paper: gs3
+  subject: security
+  title: 'External actors: terrorism, J&K, terror finance/NMFT (No Money for Terror)'
+  syllabus_lines:
+  - GS3-L17
+  micro_syllabus:
+  - id: m1
+    text: terrorism
+  - id: m2
+    text: J&K
+  - id: m3
+    text: terror finance/NMFT (No Money for Terror)
+  sources:
+  - MHA annual report
+  - Ashok Kumar & Vipul Anekant, *Challenges to Internal Security of India*
+  priority: high
+  size: M
+  milestone: M4 · Feb 13
+  due: 2027-02-09
+- topic_id: GS3-SEC-03
+  paper: gs3
+  subject: security
+  title: Communication networks, social media, DPDP, cyber, PMLA
+  syllabus_lines:
+  - GS3-L18
+  micro_syllabus:
+  - id: m1
+    text: Communication networks
+  - id: m2
+    text: social media
+  - id: m3
+    text: DPDP
+  - id: m4
+    text: cyber
+  - id: m5
+    text: PMLA
+  sources:
+  - MHA annual report
+  - Ashok Kumar & Vipul Anekant, *Challenges to Internal Security of India*
+  priority: high
+  size: M
+  milestone: M4 · Feb 13
+  due: 2027-02-10
+- topic_id: GS3-SEC-04
+  paper: gs3
+  subject: security
+  title: Borders (BADP/BIM), drones, narco-terror, organised crime, maritime
+  syllabus_lines:
+  - GS3-L19
+  micro_syllabus:
+  - id: m1
+    text: Borders (BADP/BIM)
+  - id: m2
+    text: drones
+  - id: m3
+    text: narco-terror
+  - id: m4
+    text: organised crime
+  - id: m5
+    text: maritime
+  sources:
+  - MHA annual report
+  - Ashok Kumar & Vipul Anekant, *Challenges to Internal Security of India*
+  priority: high
+  size: M
+  milestone: M4 · Feb 13
+  due: 2027-02-11
+- topic_id: GS3-SEC-05
+  paper: gs3
+  subject: security
+  title: Security forces and agencies
+  syllabus_lines:
+  - GS3-L20
+  micro_syllabus:
+  - id: m1
+    text: CAPFs and their mandate
+  - id: m2
+    text: Central intelligence and investigation agencies (IB, RAW, NIA, NCB)
+  - id: m3
+    text: Armed forces in internal security; AFSPA
+  - id: m4
+    text: 'Coordination: NATGRID, MAC'
+  sources:
+  - MHA annual report
+  - Ashok Kumar & Vipul Anekant, *Challenges to Internal Security of India*
+  priority: med
+  size: S
+  milestone: M4 · Feb 13
+  due: 2027-02-12

@@ -1,0 +1,8 @@
+build/
+zensical.toml
+__pycache__/
+.pytest_cache/
+.venv/
+.DS_Store
+*.heic
+*.HEIC
