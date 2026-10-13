@@ -26,3 +26,9 @@ def test_every_topic_has_strategy_and_it_renders():
     assert set(strategy) == {t["topic_id"] for t in common.load_topics()}
     md = common.strategy_markdown("GS1-GEO-02")
     assert "very high" in md and "7 questions" in md and "**Read for:**" in md
+
+
+def test_strategy_shows_names_not_ids():
+    md = common.strategy_markdown("GS1-HIS-01")
+    assert "*Why the Company won* is the core" in md
+    assert not common.MICRO_REF_RE.search(md)

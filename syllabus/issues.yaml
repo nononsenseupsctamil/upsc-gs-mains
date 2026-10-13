@@ -1,5 +1,5 @@
 # Source of truth for topic issues. Edit here, then run scripts/create_issues.py.
-# micro_syllabus ids (m1, m2, …) are stable: append new ones, never renumber.
+# micro_syllabus ids (m1, m2, …) are internal and stable: append new ones, never renumber. Notes use the names.
 - topic_id: GS1-HIS-01
   paper: gs1
   subject: history

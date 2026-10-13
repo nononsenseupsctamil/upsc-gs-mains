@@ -52,7 +52,7 @@ jobs:
             You are reviewing a UPSC CSE Mains study PR. Follow .github/REVIEW_RUBRIC.md and CLAUDE.md exactly.
 
             1. Run `gh pr view` to find the linked issue (`Closes #N`) and `gh issue view N` to read its
-               micro-topics (m1…mN) and PYQs. Read the note under notes/, answers/<paper>/<ID>/pyqs.md,
+               micro-topics and PYQs. Read the note under notes/, answers/<paper>/<ID>/pyqs.md,
                and every scanned answer image under answers/<paper>/<ID>/img/ (use Read on the image files).
             2. Post inline comments (mcp__github_inline_comment__create_inline_comment, confirmed: true) on the
                exact lines for: missed micro-topics or dimensions; factual errors (articles, dates, judgments,
@@ -61,7 +61,7 @@ jobs:
                comment on that PYQ's heading line in pyqs.md.
             3. Recent events: for each micro-topic, suggest up to 2 events, judgments, reports or data releases
                from the last 12–18 months that the notes lack. Verify every one with WebSearch and include its
-               source URL. Drop anything you cannot verify. Put these as inline comments on that `## mN` heading.
+               source URL. Drop anything you cannot verify. Put these as inline comments on that micro-topic's heading.
             4. Finish with ONE top-level `gh pr comment`: rubric score per criterion (0–2), total /12,
                a short list of the top 3 fixes, and the verdict **Merge** (≥9/12, no factual errors) or **Fix-first**.
             5. If this run was triggered by an `@claude` comment, answer that comment instead of a full re-review,

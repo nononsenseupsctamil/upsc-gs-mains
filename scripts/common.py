@@ -20,7 +20,7 @@ WORD_RE = re.compile(r"\b[\w'-]+\b")
 BULLET_RE = re.compile(r"^\s*(?:[-*+]|\d+[.)])\s+\S")
 PLACEHOLDER_RE = re.compile(r"\b(TODO|TBD|FIXME|placeholder)\b", re.IGNORECASE)
 IMAGE_LINK_RE = re.compile(r"!\[[^\]]*\]\(([^)\s]+)\)")
-MICRO_HEADING_RE = re.compile(r"^m(\d+)\b")
+MICRO_REF_RE = re.compile(r"\bm(\d+)(?:\s*[–-]\s*m(\d+))?\b")  # "m3" or "m2–m4" in strategy text
 
 PAPERS = ["gs1", "gs2", "gs3"]
 SUBJECT_TITLES = {
@@ -73,6 +73,9 @@ def strategy_markdown(topic_id: str, heading_level: int = 3) -> str:
     for q in qs:
         per_year[q["year"]] = per_year.get(q["year"], 0) + 1
     hist = ", ".join(f"{y}×{n}" if n > 1 else str(y) for y, n in sorted(per_year.items(), reverse=True)) or "none"
+    micro = topics_by_id()[topic_id]["micro_syllabus"]
+    s = {k: (expand_micro_refs(v, micro) if isinstance(v, str) else [expand_micro_refs(x, micro) for x in v])
+         for k, v in s.items()}
     h = "#" * heading_level
     out = [f"{h} Strategy", "",
            f"**PYQ weight: {weight}** — {len(recent)} in {recent_span}, {len(qs)} in {all_span} ({hist}).",
@@ -81,6 +84,29 @@ def strategy_markdown(topic_id: str, heading_level: int = 3) -> str:
         if s.get(key):
             out += [f"**{label}:**", ""] + [f"- {x}" for x in s[key]] + [""]
     return "\n".join(out).rstrip() + "\n"
+
+
+def micro_heading(text: str) -> str:
+    """Display form of a micro-topic as a note heading: first letter capitalised."""
+    return text[:1].upper() + text[1:]
+
+
+def heading_key(text: str) -> str:
+    """Comparison key for matching a note heading to a micro-topic (case, spacing and punctuation-insensitive)."""
+    return re.sub(r"[^a-z0-9]+", "", normalise(text).lower())
+
+
+def expand_micro_refs(text: str, micro: list[dict]) -> str:
+    """Replace internal ids like 'm3' or 'm2–m4' with the micro-topic names, for anything shown to the author."""
+    names = {int(m["id"][1:]): micro_heading(m["text"]) for m in micro}
+
+    def sub(m: re.Match) -> str:
+        a, b = int(m.group(1)), int(m.group(2) or m.group(1))
+        picked = [f"*{names[i]}*" for i in range(a, b + 1) if i in names]
+        if not picked:
+            return m.group(0)
+        return picked[0] if len(picked) == 1 else ", ".join(picked[:-1]) + " and " + picked[-1]
+    return MICRO_REF_RE.sub(sub, text)
 
 
 def topics_by_id() -> dict[str, dict]:
