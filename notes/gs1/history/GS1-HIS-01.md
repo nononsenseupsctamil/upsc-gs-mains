@@ -98,10 +98,18 @@ Twelve successors, starting with Bahadur Shah I.
 #### Muhammad Shah
 
 - Ruled for about 30 years
-- At first a puppet of the Sayyid brothers; the other nobles disliked this, and he himself wanted to be free of them. With the help of **Nizam-ul-Mulk** and **Amin Khan** he defeated them.
+- Nicknamed **"Rangeela"** (pleasure-loving)
+- At first a puppet of the Sayyid brothers; the other nobles disliked this, and he himself wanted to be free of them. With the help of **Nizam-ul-Mulk** and **Muhammad Amin Khan** (Turani nobles) he defeated them.
 - Not farsighted — the Mughal empire's decline really set in under him
 - Many things happened for the first time in his reign:
   - **Semi-autonomous states carved out:** Nizam-ul-Mulk (Hyderabad), Murshid Quli Khan (Bengal), Saadat Khan (Awadh)
-  - **Marathas crossed into the north** for the first time and defeated Delhi under **Baji Rao I**
-  - **Nadir Shah** captured the north-west, which again became exposed to danger from the north-west
-  - **Ahmad Shah Abdali** also looted during his period
+  - **Marathas crossed into the north** for the first time — under **Baji Rao I** they raided up to the gates of Delhi (1737)
+  - **Nadir Shah** (1739) captured the north-west, which again became exposed to danger from the north-west; he carried off the **Peacock Throne** and the **Kohinoor**
+  - **Ahmad Shah Abdali** first invaded in his period (1748), but was beaten back at Manupur; his big lootings came under the later emperors
+
+#### Ahmad Shah
+
+- **Ahmad Shah Abdali** plundered India twice during his reign
+- **Imad-ul-Mulk** was the prominent noble
+- Multan and Punjab were surrendered to Abdali
+- Imad-ul-Mulk, with the help of the Marathas, dethroned Ahmad Shah
