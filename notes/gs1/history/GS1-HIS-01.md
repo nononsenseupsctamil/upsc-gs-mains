@@ -66,6 +66,7 @@ Twelve successors, starting with Bahadur Shah I.
 - Eldest surviving son of Aurangzeb
 - Pacifying policy towards opponents:
   - released Shahu — Shahu, along with the Peshwas, later built a strong Maratha confederacy
+  - Shahu won the succession fight against Tarabai with the help of **Balaji Vishwanath**, so he made Balaji his Peshwa
   - friendly treaties with the Jats, Bundelas and Rajputs
 - Could not keep peace with the Sikhs → war with Banda Bahadur
 - Called *Shah-i-Bekhabar* ("heedless king")
@@ -88,8 +89,19 @@ Twelve successors, starting with Bahadur Shah I.
 - Put on the throne by the **Sayyid brothers** — one made **wazir**, the other **mir bakshi**
 - The Sayyid brothers followed a policy of religious tolerance towards Hindus
 - Continued to pacify the Marathas, Rajputs and Jats, but kept fighting the Sikhs
-- Under Farrukhsiyar the Mughals won the war against **Banda Bahadur**, who was assassinated
+- Under Farrukhsiyar the Mughals won the war against **Banda Bahadur**, who was captured (1715) and executed in Delhi (1716)
 - **Royal farman to the EIC:** Farrukhsiyar was suffering from a disease and was cured by a doctor from the East India Company. In return he granted the EIC a royal farman with many trade privileges, including exemption from duties on trade in Bengal. This was the starting point of the feud between the Bengal nawabs and the EIC.
-- Married his daughter to the son of Raja Ajit Singh
+- Married the daughter of Raja Ajit Singh of Marwar
 - Wanted to get rid of the Sayyid brothers, but they conspired against him with the help of **Balaji Vishwanath** (Peshwa) and killed him — the **first Mughal emperor to be killed by his nobles**
 - The Sayyids then put two incapable rulers on the throne in quick succession — **Rafi-ud-Darajat** and **Rafi-ud-Daula** — both died soon, of consumption and dysentery
+
+#### Muhammad Shah
+
+- Ruled for about 30 years
+- At first a puppet of the Sayyid brothers; the other nobles disliked this, and he himself wanted to be free of them. With the help of **Nizam-ul-Mulk** and **Amin Khan** he defeated them.
+- Not farsighted — the Mughal empire's decline really set in under him
+- Many things happened for the first time in his reign:
+  - **Semi-autonomous states carved out:** Nizam-ul-Mulk (Hyderabad), Murshid Quli Khan (Bengal), Saadat Khan (Awadh)
+  - **Marathas crossed into the north** for the first time and defeated Delhi under **Baji Rao I**
+  - **Nadir Shah** captured the north-west, which again became exposed to danger from the north-west
+  - **Ahmad Shah Abdali** also looted during his period
