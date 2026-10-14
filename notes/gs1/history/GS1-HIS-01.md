@@ -111,5 +111,22 @@ Twelve successors, starting with Bahadur Shah I.
 
 - **Ahmad Shah Abdali** plundered India twice during his reign
 - **Imad-ul-Mulk** was the prominent noble
-- Multan and Punjab were surrendered to Abdali
-- Imad-ul-Mulk, with the help of the Marathas, dethroned Ahmad Shah
+- Before Imad-ul-Mulk, **Safdarjung** (Nawab of Awadh) was the wazir; the two fought each other
+- Ahmad Shah surrendered Multan and Punjab to Abdali
+- Imad-ul-Mulk, with the help of the Marathas, dethroned Ahmad Shah and put **Alamgir II** on the throne
+
+#### Alamgir II
+
+- The **Battle of Plassey** (1757) happened during his reign
+- **Marathas** under Sadashiv Rao, guided by Imad-ul-Mulk, captured Delhi and banished the **Rohilla chief**
+- They removed Abdali's son from the governorship of Punjab and Multan and put their own man in as governor — this **angered Abdali**
+- Later, Imad-ul-Mulk dethroned him and made **Shah Jahan III** emperor — he was weak and soon dethroned
+
+#### Shah Alam II
+
+- Ruled for a brief period; two important battles happened in his time:
+  - **Third Battle of Panipat (1761):** Marathas defeated; Abdali put Shah Alam on the throne as ruler
+  - **Battle of Buxar (1764):** fought along with **Mir Qasim** and the **Nawab of Awadh** — lost. Had to sign the **Treaty of Allahabad**, giving the **diwani rights of Bengal** to the EIC; in return he was granted Allahabad and lived in its fort.
+- **Scindia** later brought him back to Delhi; he was again defeated by the EIC and became a **pensioner** of the Company
+- He was blinded
+- The empire was at its weakest — mocked as ruling only **"from Delhi to Palam"**
