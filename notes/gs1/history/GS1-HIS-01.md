@@ -82,3 +82,14 @@ Twelve successors, starting with Bahadur Shah I.
 - Abolished *jizya*
 - Replaced Todar Mal's land revenue system with *ijara* (revenue farming)
 - Was killed; succeeded by Farrukhsiyar
+
+#### Farrukhsiyar
+
+- Put on the throne by the **Sayyid brothers** — one made **wazir**, the other **mir bakshi**
+- The Sayyid brothers followed a policy of religious tolerance towards Hindus
+- Continued to pacify the Marathas, Rajputs and Jats, but kept fighting the Sikhs
+- Under Farrukhsiyar the Mughals won the war against **Banda Bahadur**, who was assassinated
+- **Royal farman to the EIC:** Farrukhsiyar was suffering from a disease and was cured by a doctor from the East India Company. In return he granted the EIC a royal farman with many trade privileges, including exemption from duties on trade in Bengal. This was the starting point of the feud between the Bengal nawabs and the EIC.
+- Married his daughter to the son of Raja Ajit Singh
+- Wanted to get rid of the Sayyid brothers, but they conspired against him with the help of **Balaji Vishwanath** (Peshwa) and killed him — the **first Mughal emperor to be killed by his nobles**
+- The Sayyids then put two incapable rulers on the throne in quick succession — **Rafi-ud-Darajat** and **Rafi-ud-Daula** — both died soon, of consumption and dysentery
