@@ -118,15 +118,16 @@ Twelve successors, starting with Bahadur Shah I.
 #### Alamgir II
 
 - The **Battle of Plassey** (1757) happened during his reign
-- **Marathas** under Sadashiv Rao, guided by Imad-ul-Mulk, captured Delhi and banished the **Rohilla chief**
+- **Marathas** under **Raghunath Rao**, guided by Imad-ul-Mulk, captured Delhi and banished the **Rohilla chief** (Najib-ud-Daula)
 - They removed Abdali's son from the governorship of Punjab and Multan and put their own man in as governor — this **angered Abdali**
-- Later, Imad-ul-Mulk dethroned him and made **Shah Jahan III** emperor — he was weak and soon dethroned
+- Later, Imad-ul-Mulk had him **murdered (1759)** and made **Shah Jahan III** emperor — he was weak and soon dethroned
 
 #### Shah Alam II
 
-- Ruled for a brief period; two important battles happened in his time:
+- Reigned for about **47 years (1759–1806)**, though his real power was brief; two important battles happened in his time:
   - **Third Battle of Panipat (1761):** Marathas defeated; Abdali put Shah Alam on the throne as ruler
-  - **Battle of Buxar (1764):** fought along with **Mir Qasim** and the **Nawab of Awadh** — lost. Had to sign the **Treaty of Allahabad**, giving the **diwani rights of Bengal** to the EIC; in return he was granted Allahabad and lived in its fort.
+  - **Battle of Buxar (1764):** fought along with **Mir Qasim** and the **Nawab of Awadh** — lost. Had to sign the **Treaty of Allahabad**, giving the **diwani rights of Bengal, Bihar and Orissa** to the EIC; in return he was granted Allahabad and lived in its fort.
+    - Signed by **Robert Clive** (1765). There were **two** Treaties of Allahabad: one with Shah Alam II (diwani), one with **Shuja-ud-Daula** of Awadh (got Awadh back except Kora and Allahabad; paid war damages).
 - **Scindia** later brought him back to Delhi; he was again defeated by the EIC and became a **pensioner** of the Company
-- He was blinded
+- He was blinded by **Ghulam Qadir**, the Rohilla chief (1788)
 - The empire was at its weakest — mocked as ruling only **"from Delhi to Palam"**
