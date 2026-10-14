@@ -39,6 +39,7 @@ The decline started after Aurangzeb. Reasons:
 - Empire too vast to hold together — an "inflated balloon"
 - Weak successors
 - Military expenditure on unnecessary wars — the "Deccan ulcer"
+- Court politics — nobles split into four factions: **Turanis, Iranis, Afghans and Hindustanis**. Princes became pawns in the hands of the nobles, who ruled the kingdom to suit their own agenda.
 
 ### 2. Rise of autonomous states
 
@@ -57,6 +58,8 @@ The British saw an opportunity in this situation; their conquest started from th
 ### Later Mughals (1707–1857)
 
 Twelve successors, starting with Bahadur Shah I.
+
+**Why the early successors pacified the Marathas, Rajputs and Jats:** they understood the repercussions of Aurangzeb's hostile policy. Winning these groups over was necessary to retain the territories — otherwise they would assert independence.
 
 #### Bahadur Shah I
 
