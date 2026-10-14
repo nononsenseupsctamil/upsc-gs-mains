@@ -67,3 +67,15 @@ Twelve successors, starting with Bahadur Shah I.
 - Could not keep peace with the Sikhs → war with Banda Bahadur
 - Called *Shah-i-Bekhabar* ("heedless king")
 - Ruled for 5 years
+
+#### Jahandar Shah
+
+- Less able son of Bahadur Shah I, but backed by a powerful noble, **Zulfiqar Khan**, who was made his wazir and effectively ran the state
+- Continued the pacifying policy:
+  - **Marathas:** confirmed the *chauth* and *sardeshmukhi* of the Deccan granted to Shahu by Daud Khan (in the Deccan)
+  - **Rajputs:** Jai Singh of Amber made governor of Malwa; Raja Ajit Singh of Marwar made governor of Gujarat
+  - **Jats and Bundelas:** continued conciliation with Churaman (Jat) and Chhatrasal Bundela
+- **Sikhs:** continued the feud
+- Abolished *jizya*
+- Replaced Todar Mal's land revenue system with *ijara* (revenue farming)
+- Was killed; succeeded by Farrukhsiyar
