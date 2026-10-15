@@ -134,7 +134,7 @@ Twelve successors, starting with Bahadur Shah I.
 
 #### Akbar II
 
-- Short reign
+- Long reign (about 31 years, 1806–37) but little real power
 - Gave the title **"Raja"** to **Ram Mohan Roy** and sent him to England to plead for a higher pension
 - The British stopped calling themselves subjects of the Mughals
 
@@ -143,4 +143,4 @@ Twelve successors, starting with Bahadur Shah I.
 - **Last Mughal emperor**
 - Proclaimed **Emperor of India** by the rebels during the **Revolt of 1857**
 - Defeated and **deported to Rangoon**
-- **Queen Victoria** proclaimed the throne of India
+- After the revolt the **Crown took over India** from the Company (Queen's Proclamation, **1858**); Queen Victoria took the title **"Empress of India"** only in **1877** (Delhi Durbar)
