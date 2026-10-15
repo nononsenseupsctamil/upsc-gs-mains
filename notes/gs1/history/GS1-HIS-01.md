@@ -131,3 +131,16 @@ Twelve successors, starting with Bahadur Shah I.
 - **Scindia** later brought him back to Delhi; he was again defeated by the EIC and became a **pensioner** of the Company
 - He was blinded by **Ghulam Qadir**, the Rohilla chief (1788)
 - The empire was at its weakest — mocked as ruling only **"from Delhi to Palam"**
+
+#### Akbar II
+
+- Short reign
+- Gave the title **"Raja"** to **Ram Mohan Roy** and sent him to England to plead for a higher pension
+- The British stopped calling themselves subjects of the Mughals
+
+#### Bahadur Shah II
+
+- **Last Mughal emperor**
+- Proclaimed **Emperor of India** by the rebels during the **Revolt of 1857**
+- Defeated and **deported to Rangoon**
+- **Queen Victoria** proclaimed the throne of India
