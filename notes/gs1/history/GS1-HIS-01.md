@@ -63,11 +63,11 @@ Mughal decline led to the rise of autonomous states, in three categories:
 - **Nizam-ul-Mulk** (Qamar-ud-din Khan) was appointed viceroy of the Deccan
 - Muhammad Shah later called him to Delhi as **wazir**, since he had helped defeat the Sayyid brothers
 - Disgusted by court politics, he went back south and defeated the then subahdar of Hyderabad at the **Battle of Shakar Kheda**
-- From then on he ruled Hyderabad **autonomously**, without reference to the Mughals — fought wars, signed treaties, etc.
+- From then on he ruled Hyderabad **autonomously** — fought wars, signed treaties, etc. — but **never formally declared independence**; he kept nominal loyalty to the emperor (which is why Hyderabad is a *successor* state)
 - Given the title **Asaf Jah** by the Mughal emperor; founded the **Asaf Jahi dynasty**
 - Fought alongside the Mughals at the **Battle of Karnal** against Nadir Shah
 - His successors were called the **Nizams of Hyderabad**
-- After his death, a **war of succession** broke out between his son **Nasir Jung** and **Muzaffar Jung** — the Marathas, the Carnatic and even the French exploited this rivalry
+- After his death (1748), a **war of succession** broke out between his son **Nasir Jung** and his grandson **Muzaffar Jung** — the Marathas, the Carnatic, the French (backing Muzaffar Jung) and the British (backing Nasir Jung) exploited this rivalry; it became part of the **Second Carnatic War**
 
 ### 3. Rise of British supremacy
 
