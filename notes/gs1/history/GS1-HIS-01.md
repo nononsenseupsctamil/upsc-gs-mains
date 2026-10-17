@@ -102,20 +102,20 @@ Mughal decline led to the rise of autonomous states, in three categories:
 
 - Shifted the capital from **Dhaka to Murshidabad**
 - Policy of religious tolerance
-- Abolished the old revenue system and introduced **revenue farming** — the jagirdari system — which gave rise to a new class of **Bengali zamindars**, mostly Hindus
+- Abolished the old revenue system: reduced jagirs by turning them into **khalisa** (crown land) and introduced **revenue farming** — the **ijaradari** system — which gave rise to a new class of **Bengali zamindars**, mostly Hindus
 - Very strict about revenue settlement → gave rise to another capitalist class, the **moneylenders**; most important: the **House of Jagat Seth**
-- After his death his grandson **Shuja-ud-din Muhammad Khan** became nawab, who was defeated by his father **Sarfaraz Khan**
+- Wanted his **grandson Sarfaraz Khan** to succeed him, but his **son-in-law Shuja-ud-din** (Sarfaraz's father) took the throne (1727); Sarfaraz became nawab only after Shuja died (1739)
 
 **Alivardi Khan**
 
-- Killed Sarfaraz Khan; another important leader of Bengal
+- Killed Sarfaraz Khan (Battle of Giria, 1740); another important leader of Bengal
 - Religiously tolerant; always troubled by external threats — **Marathas and Afghans**
 - Gave **Orissa** to the Marathas and paid **chauth**
 - Did not allow the foreign companies to build forts in Bengal
 
 **Siraj-ud-Daulah**
 
-- Succeeded Alivardi Khan as his son
+- Succeeded Alivardi Khan as his **grandson** (daughter's son)
 - Was hostile towards influential Bengalis — zamindars, **Jagat Seth**, **Omichand** etc. — so they all joined the British against the nawab (**Battle of Plassey**)
 - Main (root) cause of the feud: the **royal farman** granted to the EIC; immediate cause: the EIC fortifying **Fort William** in Calcutta
 - Then, for nearly **20 years**, the British and the French fought in this region — the famous **Carnatic wars**
