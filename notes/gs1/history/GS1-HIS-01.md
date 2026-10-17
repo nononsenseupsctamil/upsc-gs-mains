@@ -72,8 +72,10 @@ Mughal decline led to the rise of autonomous states, in three categories:
 ##### Carnatic
 
 - Part of the erstwhile **Mughal Deccan province**; the Nawab of the Carnatic was a deputy of the viceroy of the Deccan (the Nizam)
-- Nawab **Saadatullah Khan** appointed his son-in-law **Dost Ali** as his successor **without the Nizam's approval** → a war broke out
-- With the help of the Marathas, the Nizam killed Dost Ali and arrested his son **Chanda Sahib**
+- Nawab **Saadatullah Khan** appointed his nephew **Dost Ali** as his successor **without the Nizam's approval** → trouble followed
+- The **Marathas** invaded (1740), killed Dost Ali and took his son-in-law **Chanda Sahib** prisoner to Satara
+- The **Nizam** then restored order and appointed **Anwaruddin** as Nawab of the Carnatic
+- Later rivalry: **Chanda Sahib (backed by the French)** vs **Anwaruddin and his son Muhammad Ali (backed by the British)** — central to the Second Carnatic War
 - Then, for nearly **20 years**, the British and the French fought in this region — the famous **Carnatic wars**
 
 ### 3. Rise of British supremacy
