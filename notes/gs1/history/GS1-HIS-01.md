@@ -69,6 +69,13 @@ Mughal decline led to the rise of autonomous states, in three categories:
 - His successors were called the **Nizams of Hyderabad**
 - After his death (1748), a **war of succession** broke out between his son **Nasir Jung** and his grandson **Muzaffar Jung** — the Marathas, the Carnatic, the French (backing Muzaffar Jung) and the British (backing Nasir Jung) exploited this rivalry; it became part of the **Second Carnatic War**
 
+##### Carnatic
+
+- Part of the erstwhile **Mughal Deccan province**; the Nawab of the Carnatic was a deputy of the viceroy of the Deccan (the Nizam)
+- Nawab **Saadatullah Khan** appointed his son-in-law **Dost Ali** as his successor **without the Nizam's approval** → a war broke out
+- With the help of the Marathas, the Nizam killed Dost Ali and arrested his son **Chanda Sahib**
+- Then, for nearly **20 years**, the British and the French fought in this region — the famous **Carnatic wars**
+
 ### 3. Rise of British supremacy
 
 The British saw an opportunity in this situation; their conquest started from the south and from Bengal.
