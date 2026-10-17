@@ -51,6 +51,24 @@ Mughal decline led to the rise of autonomous states, in three categories:
 | New kingdoms | Marathas, Jats, Sikhs, Afghans |
 | Independent kingdoms | Mysore, Kerala, Rajputs |
 
+- One of the main reasons was the **weak Mughal empire** — it let not just the rebellious states carve out autonomy, but also the Mughals' **own provinces**.
+- These states played an important role in the 18th century: the British had to face **not just the Mughals but these states too** before becoming rulers of India.
+- Their **internal feuds** and **lack of growth in science and technology** were important reasons the British could exploit them and become supreme.
+
+#### Successor states
+
+##### Hyderabad
+
+- A **Deccan province** of the Mughals; the Mughals appointed a **viceroy of the Deccan** for this region
+- **Nizam-ul-Mulk** (Qamar-ud-din Khan) was appointed viceroy of the Deccan
+- Muhammad Shah later called him to Delhi as **wazir**, since he had helped defeat the Sayyid brothers
+- Disgusted by court politics, he went back south and defeated the then subahdar of Hyderabad at the **Battle of Shakar Kheda**
+- From then on he ruled Hyderabad **autonomously**, without reference to the Mughals — fought wars, signed treaties, etc.
+- Given the title **Asaf Jah** by the Mughal emperor; founded the **Asaf Jahi dynasty**
+- Fought alongside the Mughals at the **Battle of Karnal** against Nadir Shah
+- His successors were called the **Nizams of Hyderabad**
+- After his death, a **war of succession** broke out between his son **Nasir Jung** and **Muzaffar Jung** — the Marathas, the Carnatic and even the French exploited this rivalry
+
 ### 3. Rise of British supremacy
 
 The British saw an opportunity in this situation; their conquest started from the south and from Bengal.
