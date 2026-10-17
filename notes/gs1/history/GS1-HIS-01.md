@@ -76,6 +76,48 @@ Mughal decline led to the rise of autonomous states, in three categories:
 - The **Marathas** invaded (1740), killed Dost Ali and took his son-in-law **Chanda Sahib** prisoner to Satara
 - The **Nizam** then restored order and appointed **Anwaruddin** as Nawab of the Carnatic
 - Later rivalry: **Chanda Sahib (backed by the French)** vs **Anwaruddin and his son Muhammad Ali (backed by the British)** — central to the Second Carnatic War
+
+##### Bengal
+
+- One of the most important Mughal provinces — kept paying revenue to the centre even in times of financial trouble
+- Comprised **Bengal, Bihar and Orissa**
+- Delhi controlled Bengal in two ways:
+  1. **Appointment of heads** — the Diwan and the Nawab Nazim
+  2. **Payment of revenue** to Delhi
+- The Mughals always kept the **Diwan** (revenue head) separate from the **Nazim** (executive head) for checks and balances. For the first time, **Murshid Quli Khan** was made both Diwan and Nazim — paving the way for him to carve out Bengal and rule autonomously from **1717**
+- Administrative units: **Province → Sarkar → Pargana**
+
+**Administrative hierarchy**
+
+| Office | Role |
+|---|---|
+| Diwan | Head of revenue |
+| Nazim | Head of executive |
+| Bakhshi | Military paymaster |
+| Kotwal | Head of police |
+| Qazi | Justice |
+| Waqai Navis | Political information (news-writer) |
+
+**Murshid Quli Khan**
+
+- Shifted the capital from **Dhaka to Murshidabad**
+- Policy of religious tolerance
+- Abolished the old revenue system and introduced **revenue farming** — the jagirdari system — which gave rise to a new class of **Bengali zamindars**, mostly Hindus
+- Very strict about revenue settlement → gave rise to another capitalist class, the **moneylenders**; most important: the **House of Jagat Seth**
+- After his death his grandson **Shuja-ud-din Muhammad Khan** became nawab, who was defeated by his father **Sarfaraz Khan**
+
+**Alivardi Khan**
+
+- Killed Sarfaraz Khan; another important leader of Bengal
+- Religiously tolerant; always troubled by external threats — **Marathas and Afghans**
+- Gave **Orissa** to the Marathas and paid **chauth**
+- Did not allow the foreign companies to build forts in Bengal
+
+**Siraj-ud-Daulah**
+
+- Succeeded Alivardi Khan as his son
+- Was hostile towards influential Bengalis — zamindars, **Jagat Seth**, **Omichand** etc. — so they all joined the British against the nawab (**Battle of Plassey**)
+- Main (root) cause of the feud: the **royal farman** granted to the EIC; immediate cause: the EIC fortifying **Fort William** in Calcutta
 - Then, for nearly **20 years**, the British and the French fought in this region — the famous **Carnatic wars**
 
 ### 3. Rise of British supremacy
